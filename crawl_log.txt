@@ -647,3 +647,674 @@
 2026-03-05 00:42:30,965 - INFO - [3] Aguilar, Pete: 在 press 第 6 页找到 0 篇标题含涉华关键词的文章
 2026-03-05 00:42:50,053 - INFO - [3] Aguilar, Pete: 在 press 第 6 页最终找到 0 篇涉华文章
 2026-03-05 00:42:50,053 - INFO - [3] Aguilar, Pete: 完成 press 的所有翻页，共处理 6 页，累计找到 0 篇涉华文章
+2026-03-05 10:16:53,424 - INFO - 爬虫启动
+2026-03-05 10:16:57,484 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 10:16:57,484 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 10:16:57,485 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 10:16:57,485 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 10:16:57,486 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 10:17:01,153 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 10:17:02,264 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 10:17:05,839 - INFO - [5] Allen, Rick: 正在处理 media 第 1 页
+2026-03-05 10:17:05,857 - INFO - [5] Allen, Rick: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:07,057 - INFO - [4] Alford, Mark: 正在处理 media 第 1 页
+2026-03-05 10:17:07,075 - INFO - [4] Alford, Mark: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:21,479 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:17:22,062 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:17:22,346 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:17:22,566 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 10:17:23,020 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 10:17:25,909 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:17:25,943 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:27,677 - INFO - [2] Aderholt, Robert: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:17:27,687 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:28,913 - INFO - [5] Allen, Rick: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:17:28,937 - INFO - [5] Allen, Rick: 完成 media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:17:31,736 - INFO - [5] Allen, Rick: 正在处理 press releases 第 1 页
+2026-03-05 10:17:31,785 - INFO - [5] Allen, Rick: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:39,679 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:17:46,682 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:17:48,636 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 10:17:49,181 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:17:49,181 - INFO - [2] Aderholt, Robert: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:17:50,888 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:17:50,888 - INFO - [3] Aguilar, Pete: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:17:52,700 - INFO - [1] Adams, Alma: 正在处理 social media 第 1 页
+2026-03-05 10:17:52,709 - INFO - [1] Adams, Alma: 在 social media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:53,961 - INFO - [2] Aderholt, Robert: 正在处理 media 第 1 页
+2026-03-05 10:17:53,965 - INFO - [2] Aderholt, Robert: 发现翻页链接: https://aderholt.house.gov/?page=0
+2026-03-05 10:17:53,979 - INFO - [2] Aderholt, Robert: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:54,139 - INFO - [3] Aguilar, Pete: 正在处理 newsletter unsubscribe 第 1 页
+2026-03-05 10:17:54,149 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:17:55,883 - INFO - [5] Allen, Rick: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:17:55,883 - INFO - [5] Allen, Rick: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:18:00,109 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 1 页
+2026-03-05 10:18:00,116 - INFO - [5] Allen, Rick: 发现翻页链接: https://allen.house.gov/news/email/default.aspx?Page=2
+2026-03-05 10:18:00,133 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:01,761 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 10:18:05,166 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 10:18:16,606 - INFO - [2] Aderholt, Robert: 在 media 第 1 页最终找到 2 篇涉华文章
+2026-03-05 10:18:16,924 - INFO - [1] Adams, Alma: 在 social media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:18:16,924 - INFO - [1] Adams, Alma: 完成 social media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:18:19,696 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:18:19,697 - INFO - [3] Aguilar, Pete: 完成 newsletter unsubscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:18:21,324 - INFO - [1] Adams, Alma: 正在处理 job postings 第 1 页
+2026-03-05 10:18:21,335 - INFO - [1] Adams, Alma: 在 job postings 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:22,309 - INFO - [2] Aderholt, Robert: 正在处理 media 第 2 页
+2026-03-05 10:18:22,318 - INFO - [2] Aderholt, Robert: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:24,649 - INFO - [3] Aguilar, Pete: 正在处理 press 第 1 页
+2026-03-05 10:18:24,652 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/2/
+2026-03-05 10:18:24,652 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/3/
+2026-03-05 10:18:24,652 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/4/
+2026-03-05 10:18:24,653 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/5/
+2026-03-05 10:18:24,653 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/10/
+2026-03-05 10:18:24,665 - INFO - [3] Aguilar, Pete: 在 press 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:25,180 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:18:30,540 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /FlagOrder.aspx?ssdd=GA12
+2026-03-05 10:18:42,987 - INFO - [2] Aderholt, Robert: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:18:42,987 - INFO - [2] Aderholt, Robert: 完成 media 的所有翻页，共处理 2 页，累计找到 2 篇涉华文章
+2026-03-05 10:18:43,171 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:18:44,916 - INFO - [3] Aguilar, Pete: 在 press 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:18:47,193 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 10:18:48,055 - INFO - [1] Adams, Alma: 在 job postings 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:18:48,055 - INFO - [1] Adams, Alma: 完成 job postings 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:18:48,139 - INFO - [3] Aguilar, Pete: 正在处理 press 第 2 页
+2026-03-05 10:18:48,147 - INFO - [3] Aguilar, Pete: 在 press 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:48,362 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 2 页
+2026-03-05 10:18:48,372 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:50,524 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:18:52,087 - INFO - [1] Adams, Alma: 正在处理 media center 第 1 页
+2026-03-05 10:18:52,102 - INFO - [1] Adams, Alma: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:18:52,294 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 10:18:56,509 - INFO - [2] Aderholt, Robert: 正在处理 press releases 第 1 页
+2026-03-05 10:18:56,520 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:00,900 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Protecting the Vulnerable...
+2026-03-05 10:19:09,416 - INFO - [3] Aguilar, Pete: 在 press 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:19:11,176 - INFO - [1] Adams, Alma: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:19:11,177 - INFO - [1] Adams, Alma: 完成 media center 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:19:11,177 - INFO - [6] 正在处理: Amo, Gabe - https://amo.house.gov
+2026-03-05 10:19:12,061 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:19:12,061 - INFO - [5] Allen, Rick: 完成 newsletters 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:19:12,065 - INFO - [7] 正在处理: Amodei, Mark - https://amodei.house.gov
+2026-03-05 10:19:13,341 - INFO - [3] Aguilar, Pete: 正在处理 press 第 3 页
+2026-03-05 10:19:13,349 - INFO - [3] Aguilar, Pete: 在 press 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:13,419 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:19:17,234 - INFO - [6] Amo, Gabe: 找到 9 个新闻相关链接
+2026-03-05 10:19:22,089 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:19:22,089 - INFO - [2] Aderholt, Robert: 完成 press releases 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:19:22,840 - INFO - [6] Amo, Gabe: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:19:22,848 - INFO - [6] Amo, Gabe: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:26,380 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 10:19:26,381 - INFO - [8] 正在处理: Ansari, Yassamin - https://ansari.house.gov/
+2026-03-05 10:19:28,921 - INFO - [6] Amo, Gabe: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:19:35,327 - INFO - [3] Aguilar, Pete: 在 press 第 3 页最终找到 0 篇涉华文章
+2026-03-05 10:19:37,161 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:19:38,200 - INFO - [3] Aguilar, Pete: 正在处理 press 第 4 页
+2026-03-05 10:19:38,207 - INFO - [3] Aguilar, Pete: 在 press 第 4 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:38,463 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:19:39,189 - INFO - [7] Amodei, Mark: 找到 11 个新闻相关链接
+2026-03-05 10:19:42,879 - INFO - [7] Amodei, Mark: 正在处理 military academy nomination application form 第 1 页
+2026-03-05 10:19:42,879 - INFO - [7] Amodei, Mark: 在 military academy nomination application form 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:42,879 - INFO - [7] Amodei, Mark: 在 military academy nomination application form 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:19:42,880 - INFO - [7] Amodei, Mark: 完成 military academy nomination application form 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:19:46,245 - INFO - [6] Amo, Gabe: 在 newsletter subscribe 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:19:46,245 - INFO - [6] Amo, Gabe: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:19:48,303 - INFO - [7] Amodei, Mark: 正在处理 news 第 1 页
+2026-03-05 10:19:48,316 - INFO - [7] Amodei, Mark: 在 news 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:19:49,204 - INFO - [6] Amo, Gabe: 文章日期早于2021年，跳过
+2026-03-05 10:19:49,988 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:19:50,629 - INFO - [8] Ansari, Yassamin: 找到 4 个新闻相关链接
+2026-03-05 10:19:53,474 - INFO - [6] Amo, Gabe: 正在处理 media center 第 1 页
+2026-03-05 10:19:53,483 - INFO - [6] Amo, Gabe: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:54,369 - INFO - [8] Ansari, Yassamin: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:19:54,382 - INFO - [8] Ansari, Yassamin: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:19:55,831 - INFO - [3] Aguilar, Pete: 在 press 第 4 页最终找到 0 篇涉华文章
+2026-03-05 10:20:01,497 - INFO - [3] Aguilar, Pete: 正在处理 press 第 5 页
+2026-03-05 10:20:01,505 - INFO - [3] Aguilar, Pete: 在 press 第 5 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:02,730 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:20:08,746 - INFO - [7] Amodei, Mark: 在 news 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:20:08,746 - INFO - [7] Amodei, Mark: 完成 news 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:20:14,710 - INFO - [7] Amodei, Mark: 文章日期早于2021年，跳过
+2026-03-05 10:20:15,433 - INFO - [6] Amo, Gabe: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:20:15,433 - INFO - [6] Amo, Gabe: 完成 media center 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:20:18,426 - INFO - [8] Ansari, Yassamin: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:20:18,427 - INFO - [8] Ansari, Yassamin: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:20:19,450 - INFO - [7] Amodei, Mark: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:20:19,459 - INFO - [7] Amodei, Mark: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:20,940 - INFO - [6] Amo, Gabe: 正在处理 press releases 第 1 页
+2026-03-05 10:20:20,952 - INFO - [6] Amo, Gabe: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:21,313 - INFO - [8] Ansari, Yassamin: 正在处理 media 第 1 页
+2026-03-05 10:20:21,332 - INFO - [8] Ansari, Yassamin: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:21,412 - INFO - [3] Aguilar, Pete: 在 press 第 5 页最终找到 0 篇涉华文章
+2026-03-05 10:20:24,499 - INFO - [3] Aguilar, Pete: 正在处理 press 第 6 页
+2026-03-05 10:20:24,508 - INFO - [3] Aguilar, Pete: 在 press 第 6 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:27,597 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:20:40,526 - INFO - [7] Amodei, Mark: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:20:40,526 - INFO - [7] Amodei, Mark: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:20:40,527 - INFO - [9] 正在处理: Arrington, Jodey - https://arrington.house.gov
+2026-03-05 10:20:41,140 - INFO - [8] Ansari, Yassamin: 潜在文章中发现涉华内容 - Press Releases...
+2026-03-05 10:20:41,141 - INFO - [8] Ansari, Yassamin: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:20:41,141 - INFO - [8] Ansari, Yassamin: 完成 media 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:20:43,547 - INFO - [8] Ansari, Yassamin: 成功提取文章 - Congresswoman Yassamin Ansari...
+2026-03-05 10:20:43,547 - INFO - [10] 正在处理: Auchincloss, Jake - https://auchincloss.house.gov
+2026-03-05 10:20:45,593 - INFO - [6] Amo, Gabe: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:20:45,594 - INFO - [6] Amo, Gabe: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:20:45,595 - INFO - [11] 正在处理: Babin, Brian - https://babin.house.gov
+2026-03-05 10:20:46,350 - INFO - [3] Aguilar, Pete: 在 press 第 6 页最终找到 0 篇涉华文章
+2026-03-05 10:20:46,350 - INFO - [3] Aguilar, Pete: 完成 press 的所有翻页，共处理 6 页，累计找到 0 篇涉华文章
+2026-03-05 10:20:46,351 - INFO - [12] 正在处理: Bacon, Don - https://bacon.house.gov
+2026-03-05 10:20:47,552 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))': /
+2026-03-05 10:20:49,212 - INFO - [12] Bacon, Don: 找到 4 个新闻相关链接
+2026-03-05 10:20:51,142 - INFO - [11] Babin, Brian: 找到 5 个新闻相关链接
+2026-03-05 10:20:52,003 - INFO - [12] Bacon, Don: 正在处理 newsroom 第 1 页
+2026-03-05 10:20:52,016 - INFO - [12] Bacon, Don: 在 newsroom 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:20:57,435 - INFO - [11] Babin, Brian: 正在处理 newsroom 第 1 页
+2026-03-05 10:20:57,459 - INFO - [11] Babin, Brian: 在 newsroom 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:20:59,068 - INFO - [12] Bacon, Don: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:21:07,169 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:21:07,721 - INFO - [10] Auchincloss, Jake: 找到 10 个新闻相关链接
+2026-03-05 10:21:08,714 - INFO - [12] Bacon, Don: 在 newsroom 第 1 页最终找到 2 篇涉华文章
+2026-03-05 10:21:08,714 - INFO - [12] Bacon, Don: 完成 newsroom 的所有翻页，共处理 1 页，累计找到 2 篇涉华文章
+2026-03-05 10:21:11,919 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:21:12,365 - INFO - [10] Auchincloss, Jake: 正在处理 newsroom 第 1 页
+2026-03-05 10:21:12,368 - INFO - [10] Auchincloss, Jake: 发现翻页链接: https://auchincloss.house.gov/media/press-releases/release-reps-auchincloss-and-amodei-introduce-the-hot-rock-act-to-unleash-next-generation-geothermal-energy
+2026-03-05 10:21:12,381 - INFO - [10] Auchincloss, Jake: 在 newsroom 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:21:12,572 - INFO - [12] Bacon, Don: 文章日期早于2021年，跳过
+2026-03-05 10:21:15,404 - INFO - [12] Bacon, Don: 成功提取文章 - Biography...
+2026-03-05 10:21:18,956 - INFO - [12] Bacon, Don: 正在处理 press releases 第 1 页
+2026-03-05 10:21:18,972 - INFO - [12] Bacon, Don: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:21:21,338 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:21:22,207 - INFO - [12] Bacon, Don: 潜在文章中发现涉华内容 - Agriculture...
+2026-03-05 10:21:24,874 - INFO - [10] Auchincloss, Jake: 潜在文章中发现涉华内容 - Sponsored Legislation...
+2026-03-05 10:21:34,114 - INFO - [10] Auchincloss, Jake: 潜在文章中发现涉华内容 - Press Releases...
+2026-03-05 10:21:36,957 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /AddressAuthentication?id=TX36
+2026-03-05 10:21:37,585 - INFO - [10] Auchincloss, Jake: 在 newsroom 第 1 页最终找到 2 篇涉华文章
+2026-03-05 10:21:38,021 - INFO - [11] Babin, Brian: 在 newsroom 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:21:38,021 - INFO - [11] Babin, Brian: 完成 newsroom 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:21:40,246 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:21:40,648 - ERROR - [9] Arrington, Jodey: 网络请求错误: HTTPSConnectionPool(host='arrington.house.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2026-03-05 10:21:40,654 - INFO - [13] 正在处理: Baird, James - https://baird.house.gov/
+2026-03-05 10:21:40,844 - INFO - [10] Auchincloss, Jake: 正在处理 newsroom 第 2 页
+2026-03-05 10:21:40,853 - INFO - [10] Auchincloss, Jake: 在 newsroom 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:21:40,942 - INFO - [12] Bacon, Don: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:21:40,943 - INFO - [12] Bacon, Don: 完成 press releases 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:21:42,615 - INFO - [11] Babin, Brian: 正在处理 press releases 第 1 页
+2026-03-05 10:21:42,629 - INFO - [11] Babin, Brian: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:21:44,873 - INFO - [12] Bacon, Don: 成功提取文章 - issues...
+2026-03-05 10:21:45,571 - INFO - [13] Baird, James: 找到 4 个新闻相关链接
+2026-03-05 10:21:45,653 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:21:49,544 - INFO - [12] Bacon, Don: 正在处理 press office 第 1 页
+2026-03-05 10:21:49,549 - INFO - [12] Bacon, Don: 在 press office 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:21:49,860 - INFO - [13] Baird, James: 正在处理 media 第 1 页
+2026-03-05 10:21:49,864 - INFO - [13] Baird, James: 发现翻页链接: https://baird.house.gov/kids
+2026-03-05 10:21:49,878 - INFO - [13] Baird, James: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:08,174 - INFO - [11] Babin, Brian: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:22:08,175 - INFO - [11] Babin, Brian: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:22:08,230 - INFO - [10] Auchincloss, Jake: 在 newsroom 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:22:08,230 - INFO - [10] Auchincloss, Jake: 完成 newsroom 的所有翻页，共处理 2 页，累计找到 2 篇涉华文章
+2026-03-05 10:22:09,361 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:22:10,240 - INFO - [13] Baird, James: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:22:10,667 - INFO - [10] Auchincloss, Jake: 成功提取文章 - My Legislation...
+2026-03-05 10:22:13,011 - INFO - [10] Auchincloss, Jake: 成功提取文章 - Press Releases...
+2026-03-05 10:22:13,702 - INFO - [11] Babin, Brian: 正在处理 enewsletter archive 第 1 页
+2026-03-05 10:22:13,704 - INFO - [11] Babin, Brian: 发现翻页链接: https://babin.house.gov/news/email/show.aspx?ID=Q6L6YKZ4T3UN2SFZEE3IZRBMHI
+2026-03-05 10:22:13,705 - INFO - [11] Babin, Brian: 发现翻页链接: https://babin.house.gov/news/email/default.aspx?Page=2
+2026-03-05 10:22:13,710 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:14,349 - INFO - [13] Baird, James: 正在处理 media 第 2 页
+2026-03-05 10:22:14,356 - INFO - [13] Baird, James: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:16,799 - INFO - [12] Bacon, Don: 在 press office 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:22:16,799 - INFO - [12] Bacon, Don: 完成 press office 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:22:16,799 - INFO - [14] 正在处理: Balderson, Troy - https://balderson.house.gov
+2026-03-05 10:22:17,583 - INFO - [10] Auchincloss, Jake: 正在处理 in the news 第 1 页
+2026-03-05 10:22:17,601 - INFO - [10] Auchincloss, Jake: 在 in the news 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:35,151 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:22:39,467 - INFO - [13] Baird, James: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:22:39,467 - INFO - [13] Baird, James: 完成 media 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:22:39,752 - INFO - [10] Auchincloss, Jake: 潜在文章中发现涉华内容 - FY22 Community Project Funding Requests...
+2026-03-05 10:22:39,752 - INFO - [10] Auchincloss, Jake: 在 in the news 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:22:39,752 - INFO - [10] Auchincloss, Jake: 完成 in the news 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:22:40,124 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:22:41,680 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:22:42,169 - INFO - [10] Auchincloss, Jake: 成功提取文章 - FY22 Community Project Funding Requests...
+2026-03-05 10:22:42,169 - INFO - [15] 正在处理: Balint, Becca - https://balint.house.gov
+2026-03-05 10:22:43,225 - INFO - [11] Babin, Brian: 正在处理 enewsletter archive 第 2 页
+2026-03-05 10:22:43,227 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:43,227 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:22:43,229 - INFO - [14] Balderson, Troy: 找到 5 个新闻相关链接
+2026-03-05 10:22:43,970 - INFO - [13] Baird, James: 正在处理 press releases 第 1 页
+2026-03-05 10:22:43,980 - INFO - [13] Baird, James: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:46,916 - INFO - [11] Babin, Brian: 正在处理 enewsletter archive 第 3 页
+2026-03-05 10:22:46,919 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:47,259 - INFO - [15] Balint, Becca: 找到 5 个新闻相关链接
+2026-03-05 10:22:49,108 - INFO - [14] Balderson, Troy: 正在处理 in the news 第 1 页
+2026-03-05 10:22:49,111 - INFO - [14] Balderson, Troy: 发现翻页链接: https://balderson.house.gov/community-project-funding-fy26/community-project-funding-fy27-main-page.htm
+2026-03-05 10:22:49,121 - INFO - [14] Balderson, Troy: 在 in the news 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:22:54,210 - INFO - [15] Balint, Becca: 正在处理 media 第 1 页
+2026-03-05 10:22:54,224 - INFO - [15] Balint, Becca: 在 media 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:22:59,432 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:23:03,927 - INFO - [13] Baird, James: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:23:03,927 - INFO - [13] Baird, James: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:23:08,802 - INFO - [11] Babin, Brian: 在 enewsletter archive 第 3 页最终找到 0 篇涉华文章
+2026-03-05 10:23:08,803 - INFO - [11] Babin, Brian: 完成 enewsletter archive 的所有翻页，共处理 3 页，累计找到 0 篇涉华文章
+2026-03-05 10:23:08,804 - INFO - [16] 正在处理: Barr, Andy - https://barr.house.gov/
+2026-03-05 10:23:09,390 - INFO - [14] Balderson, Troy: 在 in the news 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:23:09,985 - INFO - [13] Baird, James: 正在处理 e-newsletter sign up 第 1 页
+2026-03-05 10:23:09,991 - INFO - [13] Baird, James: 在 e-newsletter sign up 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:23:14,699 - INFO - [14] Balderson, Troy: 正在处理 in the news 第 2 页
+2026-03-05 10:23:14,706 - INFO - [14] Balderson, Troy: 在 in the news 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:23:17,054 - INFO - [15] Balint, Becca: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:23:17,055 - INFO - [15] Balint, Becca: 完成 media 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:23:19,851 - INFO - [15] Balint, Becca: 文章日期早于2021年，跳过
+2026-03-05 10:23:23,783 - INFO - [15] Balint, Becca: 正在处理 press releases 第 1 页
+2026-03-05 10:23:23,791 - INFO - [15] Balint, Becca: 在 press releases 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:23:29,728 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:23:32,928 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:23:33,718 - INFO - [13] Baird, James: 在 e-newsletter sign up 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:23:33,719 - INFO - [13] Baird, James: 完成 e-newsletter sign up 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:23:33,721 - INFO - [17] 正在处理: Barragan, Nanette - https://barragan.house.gov
+2026-03-05 10:23:33,813 - INFO - [16] Barr, Andy: 找到 4 个新闻相关链接
+2026-03-05 10:23:38,139 - INFO - [16] Barr, Andy: 正在处理 newsletter subscription 第 1 页
+2026-03-05 10:23:38,148 - INFO - [16] Barr, Andy: 在 newsletter subscription 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:23:39,379 - INFO - [17] Barragan, Nanette: 找到 4 个新闻相关链接
+2026-03-05 10:23:39,741 - INFO - [14] Balderson, Troy: 在 in the news 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:23:39,741 - INFO - [14] Balderson, Troy: 完成 in the news 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:23:43,570 - INFO - [17] Barragan, Nanette: 正在处理 subscribe to e-newsletter 第 1 页
+2026-03-05 10:23:43,577 - INFO - [17] Barragan, Nanette: 在 subscribe to e-newsletter 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:23:45,586 - INFO - [14] Balderson, Troy: 正在处理 balderson bulletin e-newsletter archive 第 1 页
+2026-03-05 10:23:45,588 - INFO - [14] Balderson, Troy: 发现翻页链接: https://balderson.house.gov/news/email/default.aspx?Page=2
+2026-03-05 10:23:45,593 - INFO - [14] Balderson, Troy: 在 balderson bulletin e-newsletter archive 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:23:45,731 - INFO - [16] Barr, Andy: 潜在文章中发现涉华内容 - About Andy...
+2026-03-05 10:23:49,472 - INFO - [16] Barr, Andy: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:23:54,012 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:23:54,061 - INFO -   发现YouTube链接，尝试获取transcript: https://urldefense.com/v3/__https:/youtu.be/vm15hdu30MY__;!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!Iuwgc9eUz3qb7koNfRBTiD3bNE4FfE8u9lZNb9HCdIR_CRWUKVnbdI6bN4L4p93bkIo5ASZdxNt5EPP74XTUfdNA56eND9JTdZRSJpPn$
+2026-03-05 10:23:55,026 - INFO - [17] Barragan, Nanette: 潜在文章中发现涉华内容 - Accomplishments for CA-44...
+2026-03-05 10:24:02,186 - INFO - [16] Barr, Andy: 在 newsletter subscription 第 1 页最终找到 2 篇涉华文章
+2026-03-05 10:24:02,187 - INFO - [16] Barr, Andy: 完成 newsletter subscription 的所有翻页，共处理 1 页，累计找到 2 篇涉华文章
+2026-03-05 10:24:05,701 - INFO - [16] Barr, Andy: 成功提取文章 - About Andy...
+2026-03-05 10:24:08,444 - INFO - [16] Barr, Andy: 成功提取文章 - Committees and Caucuses...
+2026-03-05 10:24:08,962 - INFO - [17] Barragan, Nanette: 在 subscribe to e-newsletter 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:24:08,963 - INFO - [17] Barragan, Nanette: 完成 subscribe to e-newsletter 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:24:09,642 - WARNING - 获取YouTube transcript失败 vm15hdu30MY: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:24:11,765 - INFO - [17] Barragan, Nanette: 成功提取文章 - Congresswoman Barragan...
+2026-03-05 10:24:12,261 - INFO - [14] Balderson, Troy: 在 balderson bulletin e-newsletter archive 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:24:13,567 - INFO - [16] Barr, Andy: 正在处理 media center 第 1 页
+2026-03-05 10:24:13,573 - INFO - [16] Barr, Andy: 发现翻页链接: https://barr.house.gov/press-releases?page=83
+2026-03-05 10:24:13,583 - INFO - [16] Barr, Andy: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:24:13,770 - INFO -   发现YouTube链接，尝试获取transcript: https://urldefense.com/v3/__https:/youtu.be/L3_4-0nopms__;!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!Iuwgc9eUz3qb7koNfRBTiD3bNE4FfE8u9lZNb9HCdIR_CRWUKVnbdI6bN4L4p93bkIo5ASZdxNt5EPP74XTUfdNA56eND9JTdaVksttn$
+2026-03-05 10:24:15,687 - INFO - [17] Barragan, Nanette: 正在处理 media 第 1 页
+2026-03-05 10:24:15,690 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/news/page/2/
+2026-03-05 10:24:15,690 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/news/page/3/
+2026-03-05 10:24:15,690 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/news/page/4/
+2026-03-05 10:24:15,691 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/news/page/5/
+2026-03-05 10:24:15,691 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/news/page/10/
+2026-03-05 10:24:15,698 - INFO - [17] Barragan, Nanette: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:24:17,603 - INFO - [14] Balderson, Troy: 正在处理 balderson bulletin e-newsletter archive 第 2 页
+2026-03-05 10:24:17,608 - INFO - [14] Balderson, Troy: 在 balderson bulletin e-newsletter archive 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:24:22,284 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /capital-recap/
+2026-03-05 10:24:34,147 - WARNING - 获取YouTube transcript失败 L3_4-0nopms: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:24:35,439 - INFO - [14] Balderson, Troy: 在 balderson bulletin e-newsletter archive 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:24:35,439 - INFO - [14] Balderson, Troy: 完成 balderson bulletin e-newsletter archive 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:24:37,843 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /member/andy-barr/B001282?d=DwMFaQ&c=L93KkjKsAC98uTvC4KvQDdTDRzAeWDDRmG6S3YXllH0&r=wxmZwwJPhSPZNXaDNk7Tfs-CVyw2EXfKUOYlUYq2f1E&m=88k3NdyGO57q1N4RwCZ5ntEjjxwqSkH2cp9EWHK6dek&s=i3PSUuAzF2zfjguks8g9VkwJCJ6f-rqY-qM8lDDzZTA&e=&q=%7B%22sponsorship%22%3A%22cosponsored%22%2C%22congress%22%3A%5B%22118%22%5D%7D
+2026-03-05 10:24:38,421 - INFO - [14] Balderson, Troy: 正在处理 subscribe to my newsletter 第 1 页
+2026-03-05 10:24:38,425 - INFO - [14] Balderson, Troy: 在 subscribe to my newsletter 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:24:38,429 - INFO -   发现YouTube链接，尝试获取transcript: https://urldefense.com/v3/__https:/youtu.be/vIzTzN6lK0I__;!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!Iuwgc9eUz3qb7koNfRBTiD3bNE4FfE8u9lZNb9HCdIR_CRWUKVnbdI6bN4L4p93bkIo5ASZdxNt5EPP74XTUfdNA56eND9JTdR0WzmG7$
+2026-03-05 10:24:41,148 - INFO - [17] Barragan, Nanette: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:24:42,547 - WARNING -   处理跳转链接失败 https://alford.house.gov/capital-recap/: HTTPSConnectionPool(host='alford.house.gov', port=443): Max retries exceeded with url: /capital-recap/ (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out')))
+2026-03-05 10:24:43,338 - INFO - [14] Balderson, Troy: 在 subscribe to my newsletter 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:24:43,338 - INFO - [14] Balderson, Troy: 完成 subscribe to my newsletter 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:24:43,338 - INFO - [18] 正在处理: Barrett, Tom - https://barrett.house.gov/
+2026-03-05 10:24:46,939 - INFO - [17] Barragan, Nanette: 正在处理 media 第 2 页
+2026-03-05 10:24:46,946 - INFO - [17] Barragan, Nanette: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:24:55,890 - WARNING - 获取YouTube transcript失败 vIzTzN6lK0I: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:24:55,896 - INFO - [15] Balint, Becca: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:24:55,896 - INFO - [15] Balint, Becca: 完成 press releases 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:24:57,716 - INFO - [16] Barr, Andy: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:25:00,241 - ERROR - [15] Balint, Becca: 提取文章失败 https://balint.house.gov/documentsingle.aspx?DocumentID=662: 404 Client Error: Not Found for url: https://balint.house.gov/documentsingle.aspx?DocumentID=662
+2026-03-05 10:25:00,781 - INFO - [16] Barr, Andy: 正在处理 media center 第 2 页
+2026-03-05 10:25:00,792 - INFO - [16] Barr, Andy: 在 media center 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:25:00,998 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=C286yguO3Hs
+2026-03-05 10:25:04,129 - INFO - [15] Balint, Becca: 正在处理 media kit 第 1 页
+2026-03-05 10:25:04,138 - INFO - [15] Balint, Becca: 在 media kit 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:25:07,499 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:25:08,388 - INFO - [17] Barragan, Nanette: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:25:11,299 - INFO - [17] Barragan, Nanette: 正在处理 media 第 3 页
+2026-03-05 10:25:11,309 - INFO - [17] Barragan, Nanette: 在 media 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:25:14,419 - WARNING - 获取YouTube transcript失败 C286yguO3Hs: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:25:14,499 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=q4igP9nR1gI
+2026-03-05 10:25:17,221 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=HZm-hO9lpS4
+2026-03-05 10:25:22,911 - INFO - [16] Barr, Andy: 在 media center 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:25:22,912 - INFO - [16] Barr, Andy: 完成 media center 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:25:22,914 - INFO - [19] 正在处理: Baumgartner, Michael - https://baumgartner.house.gov/
+2026-03-05 10:25:27,318 - INFO - [19] Baumgartner, Michael: 找到 9 个新闻相关链接
+2026-03-05 10:25:30,874 - WARNING - 获取YouTube transcript失败 q4igP9nR1gI: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:25:31,233 - INFO - [19] Baumgartner, Michael: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:25:31,240 - INFO - [19] Baumgartner, Michael: 在 newsletter subscribe 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:25:31,818 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:25:33,335 - INFO - [17] Barragan, Nanette: 在 media 第 3 页最终找到 0 篇涉华文章
+2026-03-05 10:25:34,903 - WARNING - 获取YouTube transcript失败 HZm-hO9lpS4: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:25:35,642 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=q4igP9nR1gI
+2026-03-05 10:25:37,179 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=9wt16_67vOY
+2026-03-05 10:25:37,421 - INFO - [17] Barragan, Nanette: 正在处理 media 第 4 页
+2026-03-05 10:25:37,429 - INFO - [17] Barragan, Nanette: 在 media 第 4 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:25:39,704 - INFO - [19] Baumgartner, Michael: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:25:49,702 - WARNING - 获取YouTube transcript失败 q4igP9nR1gI: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:25:54,222 - WARNING - 获取YouTube transcript失败 9wt16_67vOY: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:25:54,231 - INFO - [4] Alford, Mark: 潜在文章中发现涉华内容 - Mark Alford's America Archive...
+2026-03-05 10:25:55,163 - INFO - [19] Baumgartner, Michael: 在 newsletter subscribe 第 1 页最终找到 2 篇涉华文章
+2026-03-05 10:25:55,164 - INFO - [19] Baumgartner, Michael: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 2 篇涉华文章
+2026-03-05 10:25:57,873 - INFO - [4] Alford, Mark: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:25:57,873 - INFO - [4] Alford, Mark: 完成 media 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:25:58,750 - INFO - [17] Barragan, Nanette: 在 media 第 4 页最终找到 0 篇涉华文章
+2026-03-05 10:25:59,811 - INFO - [19] Baumgartner, Michael: 成功提取文章 - National Security/China...
+2026-03-05 10:26:00,342 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:26:00,998 - INFO - [18] Barrett, Tom: 找到 9 个新闻相关链接
+2026-03-05 10:26:03,577 - INFO - [15] Balint, Becca: 在 media kit 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:26:03,579 - INFO - [15] Balint, Becca: 完成 media kit 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:26:03,592 - INFO - [20] 正在处理: Bean, Aaron - https://bean.house.gov
+2026-03-05 10:26:03,787 - INFO - [19] Baumgartner, Michael: 文章日期早于2021年，跳过
+2026-03-05 10:26:04,422 - INFO - [17] Barragan, Nanette: 正在处理 media 第 5 页
+2026-03-05 10:26:04,495 - INFO - [17] Barragan, Nanette: 在 media 第 5 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:26:05,949 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=C286yguO3Hs
+2026-03-05 10:26:09,774 - INFO - [19] Baumgartner, Michael: 正在处理 media 第 1 页
+2026-03-05 10:26:09,778 - INFO - [19] Baumgartner, Michael: 发现翻页链接: https://baumgartner.house.gov/?page=0
+2026-03-05 10:26:09,788 - INFO - [19] Baumgartner, Michael: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:26:23,868 - WARNING - 获取YouTube transcript失败 C286yguO3Hs: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:26:25,001 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /contact/newsletter-subscribe
+2026-03-05 10:26:26,040 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:26:28,691 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=HZm-hO9lpS4
+2026-03-05 10:26:29,581 - INFO - [17] Barragan, Nanette: 在 media 第 5 页最终找到 0 篇涉华文章
+2026-03-05 10:26:34,924 - INFO - [17] Barragan, Nanette: 正在处理 media 第 6 页
+2026-03-05 10:26:34,929 - INFO - [17] Barragan, Nanette: 在 media 第 6 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:26:34,958 - INFO - [19] Baumgartner, Michael: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:26:41,218 - INFO - [19] Baumgartner, Michael: 正在处理 media 第 2 页
+2026-03-05 10:26:41,224 - INFO - [19] Baumgartner, Michael: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:26:45,580 - WARNING - 获取YouTube transcript失败 HZm-hO9lpS4: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:26:48,808 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=9wt16_67vOY
+2026-03-05 10:26:49,264 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /contact/newsletter-subscribe
+2026-03-05 10:26:49,820 - INFO - [19] Baumgartner, Michael: 潜在文章中发现涉华内容 - Agriculture...
+2026-03-05 10:26:50,301 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:26:52,101 - INFO - [20] Bean, Aaron: 找到 10 个新闻相关链接
+2026-03-05 10:26:55,221 - INFO - [20] Bean, Aaron: 正在处理 media 第 1 页
+2026-03-05 10:26:55,231 - INFO - [20] Bean, Aaron: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:26:57,232 - INFO - [17] Barragan, Nanette: 潜在文章中发现涉华内容 - Read MoreDaily Breeze: San Pedro residents gather ...
+2026-03-05 10:27:00,668 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)'))': /contact/newsletter-subscribe
+2026-03-05 10:27:00,886 - INFO - [17] Barragan, Nanette: 在 media 第 6 页最终找到 1 篇涉华文章
+2026-03-05 10:27:00,886 - INFO - [17] Barragan, Nanette: 完成 media 的所有翻页，共处理 6 页，累计找到 1 篇涉华文章
+2026-03-05 10:27:02,710 - INFO - [18] Barrett, Tom: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:27:02,717 - INFO - [18] Barrett, Tom: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:03,161 - WARNING - 获取YouTube transcript失败 9wt16_67vOY: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:27:03,174 - INFO - [4] Alford, Mark: 成功提取文章 - Mark Alford's America Archive...
+2026-03-05 10:27:03,870 - INFO - [19] Baumgartner, Michael: 在 media 第 2 页最终找到 1 篇涉华文章
+2026-03-05 10:27:03,870 - INFO - [19] Baumgartner, Michael: 完成 media 的所有翻页，共处理 2 页，累计找到 1 篇涉华文章
+2026-03-05 10:27:05,662 - INFO - [17] Barragan, Nanette: 成功提取文章 - Congresswoman Barragan...
+2026-03-05 10:27:08,038 - INFO - [19] Baumgartner, Michael: 成功提取文章 - Agriculture...
+2026-03-05 10:27:09,260 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 1 页
+2026-03-05 10:27:09,263 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/category/press-releases/page/2/
+2026-03-05 10:27:09,263 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/category/press-releases/page/3/
+2026-03-05 10:27:09,263 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/category/press-releases/page/4/
+2026-03-05 10:27:09,264 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/category/press-releases/page/5/
+2026-03-05 10:27:09,264 - INFO - [17] Barragan, Nanette: 发现翻页链接: https://barragan.house.gov/category/press-releases/page/10/
+2026-03-05 10:27:09,269 - INFO - [17] Barragan, Nanette: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:11,999 - INFO - [19] Baumgartner, Michael: 正在处理 press releases 第 1 页
+2026-03-05 10:27:12,013 - INFO - [19] Baumgartner, Michael: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:15,624 - INFO - [20] Bean, Aaron: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:15,625 - INFO - [20] Bean, Aaron: 完成 media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:27:21,250 - INFO - [20] Bean, Aaron: 正在处理 press releases 第 1 页
+2026-03-05 10:27:21,260 - INFO - [20] Bean, Aaron: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:23,563 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=TmAgyj6aGvg
+2026-03-05 10:27:24,176 - INFO - [18] Barrett, Tom: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:24,176 - INFO - [18] Barrett, Tom: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:27:27,122 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /news/documentquery.aspx?DocumentTypeID=27
+2026-03-05 10:27:27,934 - INFO - [4] Alford, Mark: 正在处理 press releases 第 1 页
+2026-03-05 10:27:27,944 - INFO - [4] Alford, Mark: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:30,222 - INFO - [18] Barrett, Tom: 正在处理 media 第 1 页
+2026-03-05 10:27:30,225 - INFO - [18] Barrett, Tom: 发现翻页链接: https://barrett.house.gov/?page=0
+2026-03-05 10:27:30,233 - INFO - [18] Barrett, Tom: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:36,049 - INFO - [19] Baumgartner, Michael: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:36,049 - INFO - [19] Baumgartner, Michael: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:27:36,050 - INFO - [21] 正在处理: Beatty, Joyce - https://beatty.house.gov
+2026-03-05 10:27:36,226 - INFO - 已保存 10 篇文章到 representatives_website_china_related_articles.csv
+2026-03-05 10:27:39,889 - INFO - [21] Beatty, Joyce: 找到 10 个新闻相关链接
+2026-03-05 10:27:40,396 - WARNING - 获取YouTube transcript失败 TmAgyj6aGvg: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:27:44,182 - INFO - [21] Beatty, Joyce: 正在处理 media 第 1 页
+2026-03-05 10:27:44,196 - INFO - [21] Beatty, Joyce: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:45,029 - INFO - [20] Bean, Aaron: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:45,030 - INFO - [20] Bean, Aaron: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:27:47,607 - INFO - [20] Bean, Aaron: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:27:47,612 - INFO - [20] Bean, Aaron: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:49,876 - INFO - [4] Alford, Mark: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:49,877 - INFO - [4] Alford, Mark: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:27:53,857 - INFO - [4] Alford, Mark: 正在处理 newsletter archive 第 1 页
+2026-03-05 10:27:53,861 - INFO - [4] Alford, Mark: 发现翻页链接: https://alford.house.gov/news/email/show.aspx?ID=2ILP7W3NXUU5E
+2026-03-05 10:27:53,861 - INFO - [4] Alford, Mark: 发现翻页链接: https://alford.house.gov/news/email/default.aspx?Page=2
+2026-03-05 10:27:53,872 - INFO - [4] Alford, Mark: 在 newsletter archive 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:27:54,793 - INFO - [18] Barrett, Tom: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:27:58,780 - INFO - [18] Barrett, Tom: 正在处理 media 第 2 页
+2026-03-05 10:27:58,786 - INFO - [18] Barrett, Tom: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:03,828 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /2026/01/23/rep-barragan-reintroduces-resolution-to-highlight-serious-risks-posed-by-air-pollution-and-extreme-heat-to-latina-maternal-and-infant-health/
+2026-03-05 10:28:06,456 - INFO - [21] Beatty, Joyce: 潜在文章中发现涉华内容 - Press Releases...
+2026-03-05 10:28:06,456 - INFO - [21] Beatty, Joyce: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:28:06,456 - INFO - [21] Beatty, Joyce: 完成 media 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:28:08,981 - INFO - [17] Barragan, Nanette: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:28:10,156 - INFO - [20] Bean, Aaron: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:28:10,157 - INFO - [20] Bean, Aaron: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:28:10,158 - INFO - [22] 正在处理: Begich, Nicholas - https://begich.house.gov/
+2026-03-05 10:28:10,342 - INFO - [21] Beatty, Joyce: 成功提取文章 - Press Releases...
+2026-03-05 10:28:12,053 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 2 页
+2026-03-05 10:28:12,060 - INFO - [17] Barragan, Nanette: 在 press releases 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:15,409 - INFO - [4] Alford, Mark: 在 newsletter archive 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:28:15,793 - INFO - [21] Beatty, Joyce: 正在处理 the beatty bulletin 第 1 页
+2026-03-05 10:28:15,807 - INFO - [21] Beatty, Joyce: 在 the beatty bulletin 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:19,146 - INFO - [4] Alford, Mark: 正在处理 newsletter archive 第 2 页
+2026-03-05 10:28:19,147 - INFO - [4] Alford, Mark: 在 newsletter archive 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:19,147 - INFO - [4] Alford, Mark: 在 newsletter archive 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:28:22,471 - INFO - [18] Barrett, Tom: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:28:22,471 - INFO - [18] Barrett, Tom: 完成 media 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:28:22,857 - INFO - [4] Alford, Mark: 正在处理 newsletter archive 第 3 页
+2026-03-05 10:28:22,862 - INFO - [4] Alford, Mark: 在 newsletter archive 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:26,623 - INFO - [18] Barrett, Tom: 正在处理 press releases 第 1 页
+2026-03-05 10:28:26,636 - INFO - [18] Barrett, Tom: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:33,723 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:28:34,517 - INFO - [17] Barragan, Nanette: 在 press releases 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:28:36,966 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 3 页
+2026-03-05 10:28:36,972 - INFO - [17] Barragan, Nanette: 在 press releases 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:28:40,224 - INFO - [4] Alford, Mark: 在 newsletter archive 第 3 页最终找到 0 篇涉华文章
+2026-03-05 10:28:40,225 - INFO - [4] Alford, Mark: 完成 newsletter archive 的所有翻页，共处理 3 页，累计找到 0 篇涉华文章
+2026-03-05 10:28:40,237 - INFO - [23] 正在处理: Bell, Wesley - https://bell.house.gov/
+2026-03-05 10:28:41,329 - INFO - [21] Beatty, Joyce: 在 the beatty bulletin 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:28:41,330 - INFO - [21] Beatty, Joyce: 完成 the beatty bulletin 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:28:41,331 - INFO - [24] 正在处理: Bentz, Cliff - https://bentz.house.gov
+2026-03-05 10:28:56,569 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://barrett.house.gov/art
+2026-03-05 10:28:57,976 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:28:58,899 - INFO - [22] Begich, Nicholas: 找到 12 个新闻相关链接
+2026-03-05 10:29:01,042 - INFO - [17] Barragan, Nanette: 在 press releases 第 3 页最终找到 0 篇涉华文章
+2026-03-05 10:29:04,159 - INFO - [22] Begich, Nicholas: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:29:04,167 - INFO - [22] Begich, Nicholas: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:05,057 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 4 页
+2026-03-05 10:29:05,062 - INFO - [17] Barragan, Nanette: 在 press releases 第 4 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:05,459 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:29:06,160 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:29:07,508 - INFO - [23] Bell, Wesley: 找到 8 个新闻相关链接
+2026-03-05 10:29:08,191 - INFO - [24] Bentz, Cliff: 找到 12 个新闻相关链接
+2026-03-05 10:29:11,935 - INFO - [23] Bell, Wesley: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:29:11,943 - INFO - [23] Bell, Wesley: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:13,827 - INFO - [24] Bentz, Cliff: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:29:13,835 - INFO - [24] Bentz, Cliff: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:20,604 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://barrett.house.gov/art
+2026-03-05 10:29:20,677 - INFO - [23] Bell, Wesley: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:29:25,053 - INFO - [22] Begich, Nicholas: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:29:25,054 - INFO - [22] Begich, Nicholas: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:29:27,105 - INFO - [17] Barragan, Nanette: 在 press releases 第 4 页最终找到 0 篇涉华文章
+2026-03-05 10:29:29,439 - INFO - [22] Begich, Nicholas: 正在处理 media 第 1 页
+2026-03-05 10:29:29,442 - INFO - [22] Begich, Nicholas: 发现翻页链接: https://begich.house.gov/?page=0
+2026-03-05 10:29:29,450 - INFO - [22] Begich, Nicholas: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:30,689 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 5 页
+2026-03-05 10:29:30,693 - INFO - [17] Barragan, Nanette: 在 press releases 第 5 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:34,274 - INFO - [23] Bell, Wesley: 在 newsletter subscribe 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:29:34,274 - INFO - [23] Bell, Wesley: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:29:34,405 - INFO - [24] Bentz, Cliff: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:29:34,405 - INFO - [24] Bentz, Cliff: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:29:37,238 - INFO - [23] Bell, Wesley: 文章日期早于2021年，跳过
+2026-03-05 10:29:38,952 - INFO - [24] Bentz, Cliff: 正在处理 media 第 1 页
+2026-03-05 10:29:38,961 - INFO - [24] Bentz, Cliff: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:42,128 - INFO -   发现YouTube链接，尝试获取transcript: https://www.youtube.com/watch?v=g1Qf-Xa9dRA&t=129s
+2026-03-05 10:29:42,631 - INFO - [23] Bell, Wesley: 正在处理 media 第 1 页
+2026-03-05 10:29:42,634 - INFO - [23] Bell, Wesley: 发现翻页链接: https://bell.house.gov/?page=0
+2026-03-05 10:29:42,642 - INFO - [23] Bell, Wesley: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:29:48,637 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://barrett.house.gov/art
+2026-03-05 10:29:57,543 - INFO -   发现YouTube链接，尝试获取transcript: https://youtu.be/EreHG1XZ4x8?si=dtC248q83TitjJ64
+2026-03-05 10:29:58,140 - INFO - [22] Begich, Nicholas: 潜在文章中发现涉华内容 - In the News...
+2026-03-05 10:29:58,141 - INFO - [22] Begich, Nicholas: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:29:59,303 - WARNING - 获取YouTube transcript失败 g1Qf-Xa9dRA: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:30:04,687 - INFO - [22] Begich, Nicholas: 正在处理 media 第 2 页
+2026-03-05 10:30:04,694 - INFO - [22] Begich, Nicholas: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:06,535 - INFO - [23] Bell, Wesley: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:30:09,143 - INFO - [17] Barragan, Nanette: 在 press releases 第 5 页最终找到 0 篇涉华文章
+2026-03-05 10:30:10,728 - INFO - [23] Bell, Wesley: 正在处理 media 第 2 页
+2026-03-05 10:30:10,738 - INFO - [23] Bell, Wesley: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:12,370 - INFO - [17] Barragan, Nanette: 正在处理 press releases 第 6 页
+2026-03-05 10:30:12,377 - INFO - [17] Barragan, Nanette: 在 press releases 第 6 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:17,702 - WARNING - 获取YouTube transcript失败 EreHG1XZ4x8: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-03-05 10:30:24,037 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://barrett.house.gov/internships
+2026-03-05 10:30:26,628 - INFO - [18] Barrett, Tom: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:30:26,628 - INFO - [18] Barrett, Tom: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:30:26,631 - INFO - [25] 正在处理: Bera, Ami - https://bera.house.gov
+2026-03-05 10:30:29,695 - INFO - [22] Begich, Nicholas: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:30:29,695 - INFO - [22] Begich, Nicholas: 完成 media 的所有翻页，共处理 2 页，累计找到 1 篇涉华文章
+2026-03-05 10:30:30,371 - INFO - [23] Bell, Wesley: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:30:30,371 - INFO - [23] Bell, Wesley: 完成 media 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:30:31,744 - INFO - [17] Barragan, Nanette: 在 press releases 第 6 页最终找到 0 篇涉华文章
+2026-03-05 10:30:31,744 - INFO - [17] Barragan, Nanette: 完成 press releases 的所有翻页，共处理 6 页，累计找到 0 篇涉华文章
+2026-03-05 10:30:31,764 - INFO - [26] 正在处理: Bergman, Jack - https://bergman.house.gov
+2026-03-05 10:30:34,193 - INFO - [22] Begich, Nicholas: 成功提取文章 - In the News...
+2026-03-05 10:30:34,310 - INFO - [23] Bell, Wesley: 正在处理 press releases 第 1 页
+2026-03-05 10:30:34,331 - INFO - [23] Bell, Wesley: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:37,458 - INFO - [22] Begich, Nicholas: 正在处理 press releases 第 1 页
+2026-03-05 10:30:37,469 - INFO - [22] Begich, Nicholas: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:42,150 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /media/in-the-news
+2026-03-05 10:30:50,747 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:30:51,623 - INFO - [24] Bentz, Cliff: 潜在文章中发现涉华内容 - Foreign Affairs...
+2026-03-05 10:30:51,623 - INFO - [24] Bentz, Cliff: 在 media 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:30:51,624 - INFO - [24] Bentz, Cliff: 完成 media 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:30:52,351 - INFO - [25] Bera, Ami: 找到 8 个新闻相关链接
+2026-03-05 10:30:55,014 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:30:55,585 - INFO - [24] Bentz, Cliff: 文章日期早于2021年，跳过
+2026-03-05 10:30:56,706 - INFO - [25] Bera, Ami: 正在处理 news 第 1 页
+2026-03-05 10:30:56,731 - INFO - [25] Bera, Ami: 在 news 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:30:58,255 - INFO - [24] Bentz, Cliff: 正在处理 press releases 第 1 页
+2026-03-05 10:30:58,268 - INFO - [24] Bentz, Cliff: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:31:01,655 - INFO - [23] Bell, Wesley: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:31:01,656 - INFO - [23] Bell, Wesley: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:31:01,656 - INFO - [27] 正在处理: Beyer, Donald - https://beyer.house.gov
+2026-03-05 10:31:06,230 - INFO - [22] Begich, Nicholas: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:31:06,231 - INFO - [22] Begich, Nicholas: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:31:06,232 - INFO - [28] 正在处理: Bice, Stephanie - https://bice.house.gov
+2026-03-05 10:31:08,947 - INFO - [28] Bice, Stephanie: 找到 10 个新闻相关链接
+2026-03-05 10:31:12,180 - INFO - [28] Bice, Stephanie: 正在处理 media 第 1 页
+2026-03-05 10:31:12,183 - INFO - [28] Bice, Stephanie: 发现翻页链接: https://bice.house.gov/media/weekly-columns/trump-accounts-next-generation
+2026-03-05 10:31:12,193 - INFO - [28] Bice, Stephanie: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:31:19,440 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:31:23,642 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bentz.house.gov/artcompetition
+2026-03-05 10:31:25,572 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:31:32,387 - INFO - [28] Bice, Stephanie: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:31:38,013 - INFO - [28] Bice, Stephanie: 正在处理 media 第 2 页
+2026-03-05 10:31:38,020 - INFO - [28] Bice, Stephanie: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:31:39,162 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bera.house.gov/contact/meet-ami
+2026-03-05 10:31:41,758 - INFO - [25] Bera, Ami: 在 news 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:31:41,758 - INFO - [25] Bera, Ami: 完成 news 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:31:44,721 - INFO - [25] Bera, Ami: 正在处理 in the news 第 1 页
+2026-03-05 10:31:44,750 - INFO - [25] Bera, Ami: 在 in the news 第 1 页找到 1 篇标题含涉华关键词的文章
+2026-03-05 10:31:47,670 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bentz.house.gov/artcompetition
+2026-03-05 10:31:47,758 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:31:49,600 - INFO - [26] Bergman, Jack: 找到 4 个新闻相关链接
+2026-03-05 10:31:49,972 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /
+2026-03-05 10:31:50,860 - INFO - [27] Beyer, Donald: 找到 5 个新闻相关链接
+2026-03-05 10:31:53,880 - INFO - [27] Beyer, Donald: 正在处理 congressional app challenge 第 1 页
+2026-03-05 10:31:53,891 - INFO - [27] Beyer, Donald: 在 congressional app challenge 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:02,456 - INFO - [28] Bice, Stephanie: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 10:32:02,465 - INFO - [28] Bice, Stephanie: 完成 media 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:07,448 - INFO - [28] Bice, Stephanie: 正在处理 press releases 第 1 页
+2026-03-05 10:32:07,457 - INFO - [28] Bice, Stephanie: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:14,268 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /news
+2026-03-05 10:32:15,702 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bentz.house.gov/artcompetition
+2026-03-05 10:32:16,208 - INFO - [27] Beyer, Donald: 在 congressional app challenge 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:32:16,210 - INFO - [27] Beyer, Donald: 完成 congressional app challenge 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:16,931 - INFO - [26] Bergman, Jack: 正在处理 media 第 1 页
+2026-03-05 10:32:16,984 - INFO - [26] Bergman, Jack: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:19,174 - INFO - [27] Beyer, Donald: 正在处理 newsroom 第 1 页
+2026-03-05 10:32:19,195 - INFO - [27] Beyer, Donald: 在 newsroom 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:27,413 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bera.house.gov/get-help/grant-applicants
+2026-03-05 10:32:33,060 - INFO - [28] Bice, Stephanie: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:32:33,061 - INFO - [28] Bice, Stephanie: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:36,597 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /artcompetition
+2026-03-05 10:32:36,766 - INFO - [28] Bice, Stephanie: 正在处理 in the news 第 1 页
+2026-03-05 10:32:36,786 - INFO - [28] Bice, Stephanie: 在 in the news 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:38,781 - INFO - [26] Bergman, Jack: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:32:38,781 - INFO - [26] Bergman, Jack: 完成 media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:41,169 - INFO - [27] Beyer, Donald: 在 newsroom 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:32:41,169 - INFO - [27] Beyer, Donald: 完成 newsroom 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:42,657 - INFO - [26] Bergman, Jack: 正在处理 press releases 第 1 页
+2026-03-05 10:32:42,667 - INFO - [26] Bergman, Jack: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:44,375 - INFO - [27] Beyer, Donald: 正在处理 press releases 第 1 页
+2026-03-05 10:32:44,385 - INFO - [27] Beyer, Donald: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:32:51,421 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=7890): Read timed out. (read timeout=20)")': http://bera.house.gov/get-help/grant-applicants
+2026-03-05 10:32:59,391 - INFO - [28] Bice, Stephanie: 在 in the news 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:32:59,391 - INFO - [28] Bice, Stephanie: 完成 in the news 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:32:59,393 - INFO - [29] 正在处理: Biggs, Andy - https://biggs.house.gov
+2026-03-05 10:33:01,637 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /artcompetition
+2026-03-05 10:33:04,392 - INFO - [27] Beyer, Donald: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:04,392 - INFO - [27] Beyer, Donald: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:04,393 - INFO - [30] 正在处理: Biggs, Sheri - https://sheribiggs.house.gov/
+2026-03-05 10:33:05,196 - INFO - [29] Biggs, Andy: 找到 12 个新闻相关链接
+2026-03-05 10:33:06,567 - INFO - [26] Bergman, Jack: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:06,568 - INFO - [26] Bergman, Jack: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:07,105 - INFO - [30] Biggs, Sheri: 找到 8 个新闻相关链接
+2026-03-05 10:33:09,119 - INFO - [29] Biggs, Andy: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:33:09,125 - INFO - [29] Biggs, Andy: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:11,245 - INFO - [26] Bergman, Jack: 正在处理 e-newsletter sign up 第 1 页
+2026-03-05 10:33:11,258 - INFO - [26] Bergman, Jack: 在 e-newsletter sign up 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:12,234 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /get-help/grant-applicants
+2026-03-05 10:33:12,807 - INFO - [30] Biggs, Sheri: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:33:12,812 - INFO - [30] Biggs, Sheri: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:14,148 - INFO - [25] Bera, Ami: 在 in the news 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:33:14,148 - INFO - [25] Bera, Ami: 完成 in the news 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:33:17,839 - INFO - [25] Bera, Ami: 文章日期早于2021年，跳过
+2026-03-05 10:33:22,742 - INFO - [25] Bera, Ami: 正在处理 press releases 第 1 页
+2026-03-05 10:33:22,756 - INFO - [25] Bera, Ami: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:28,951 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /services/congressional-app-challenge
+2026-03-05 10:33:32,304 - INFO - [26] Bergman, Jack: 在 e-newsletter sign up 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:32,305 - INFO - [26] Bergman, Jack: 完成 e-newsletter sign up 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:32,305 - INFO - [31] 正在处理: Bilirakis, Gus - https://bilirakis.house.gov/
+2026-03-05 10:33:36,630 - INFO - [30] Biggs, Sheri: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:36,630 - INFO - [30] Biggs, Sheri: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:37,639 - INFO - [31] Bilirakis, Gus: 找到 9 个新闻相关链接
+2026-03-05 10:33:38,085 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', TimeoutError('_ssl.c:989: The handshake operation timed out'))': /media/whats-biggs-idea-podcast
+2026-03-05 10:33:41,624 - INFO - [30] Biggs, Sheri: 正在处理 media 第 1 页
+2026-03-05 10:33:41,629 - INFO - [30] Biggs, Sheri: 发现翻页链接: https://sheribiggs.house.gov/?page=0
+2026-03-05 10:33:41,645 - INFO - [30] Biggs, Sheri: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:43,558 - INFO - [31] Bilirakis, Gus: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 10:33:43,569 - INFO - [31] Bilirakis, Gus: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:46,992 - INFO - [25] Bera, Ami: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:46,993 - INFO - [25] Bera, Ami: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:46,993 - INFO - [32] 正在处理: Bishop, Sanford - https://bishop.house.gov/
+2026-03-05 10:33:49,145 - INFO - [24] Bentz, Cliff: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:33:49,146 - INFO - [24] Bentz, Cliff: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 10:33:49,146 - INFO - [33] 正在处理: Boebert, Lauren - https://boebert.house.gov
+2026-03-05 10:33:52,094 - INFO - [32] Bishop, Sanford: 找到 14 个新闻相关链接
+2026-03-05 10:33:53,953 - INFO - [33] Boebert, Lauren: 找到 10 个新闻相关链接
+2026-03-05 10:33:56,821 - INFO - [33] Boebert, Lauren: 正在处理 news 第 1 页
+2026-03-05 10:33:56,834 - INFO - [33] Boebert, Lauren: 在 news 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:33:57,377 - INFO - [32] Bishop, Sanford: 正在处理 newsletters, town halls, & updates 第 1 页
+2026-03-05 10:33:57,386 - INFO - [32] Bishop, Sanford: 在 newsletters, town halls, & updates 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:34:01,351 - INFO - [31] Bilirakis, Gus: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:34:01,427 - INFO - [30] Biggs, Sheri: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:34:07,074 - INFO - [32] Bishop, Sanford: 潜在文章中发现涉华内容 - Committees and Caucuses...
+2026-03-05 10:34:07,128 - INFO - [31] Bilirakis, Gus: 在 newsletter subscribe 第 1 页最终找到 1 篇涉华文章
+2026-03-05 10:34:07,133 - INFO - [31] Bilirakis, Gus: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 10:34:08,259 - INFO - [30] Biggs, Sheri: 正在处理 media 第 2 页
+2026-03-05 10:34:08,266 - INFO - [30] Biggs, Sheri: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:34:10,290 - INFO - [31] Bilirakis, Gus: 文章日期早于2021年，跳过
+2026-03-05 10:34:13,007 - INFO - [31] Bilirakis, Gus: 正在处理 newsletter unsubscribe 第 1 页
+2026-03-05 10:34:13,015 - INFO - [31] Bilirakis, Gus: 在 newsletter unsubscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 10:34:16,014 - INFO - [33] Boebert, Lauren: 在 news 第 1 页最终找到 0 篇涉华文章
+2026-03-05 10:34:16,014 - INFO - [33] Boebert, Lauren: 完成 news 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
