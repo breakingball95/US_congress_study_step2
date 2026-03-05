@@ -743,8 +743,6 @@ def scrape_representative_website(session, rep_data, index):
         page_article_links = []
         all_article_links = []
         
-        logger.info(f"[{index}] {name}: 开始搜索，初始all_article_links长度: {len(all_article_links)}")
-        
         # 尝试使用搜索功能：在主页搜索关键词，限定在Press Releases
         logger.info(f"[{index}] {name}: 尝试在主页搜索关键词...")
         
@@ -817,7 +815,6 @@ def scrape_representative_website(session, rep_data, index):
                                 
                                 # 将搜索结果添加到总列表
                                 all_article_links.extend(page_article_links)
-                                logger.info(f"[{index}] {name}: 添加搜索结果后all_article_links长度: {len(all_article_links)}")
                                 
                                 # 尝试获取下一页搜索结果
                                 next_search_url = get_next_page_url(search_url, search_page_count)
