@@ -1,0 +1,619 @@
+脚本开始执行...
+模块导入成功
+开始执行主函数
+开始获取众议员信息...
+正在请求URL: https://www.house.gov/representatives
+请求成功，状态码: 200
+HTML解析成功
+尝试从 By Last Name 视图提取数据...
+找到 81 个表格
+找到议员信息表格
+表格中有 8 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 10 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 53 行数据
+找到议员信息表格
+表格中有 9 行数据
+找到议员信息表格
+表格中有 6 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 29 行数据
+找到议员信息表格
+表格中有 15 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 18 行数据
+找到议员信息表格
+表格中有 10 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 7 行数据
+找到议员信息表格
+表格中有 7 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 9 行数据
+找到议员信息表格
+表格中有 10 行数据
+找到议员信息表格
+表格中有 14 行数据
+找到议员信息表格
+表格中有 9 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 9 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 4 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 13 行数据
+找到议员信息表格
+表格中有 4 行数据
+找到议员信息表格
+表格中有 27 行数据
+找到议员信息表格
+表格中有 15 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 16 行数据
+找到议员信息表格
+表格中有 6 行数据
+找到议员信息表格
+表格中有 7 行数据
+找到议员信息表格
+表格中有 18 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 8 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 10 行数据
+找到议员信息表格
+表格中有 39 行数据
+找到议员信息表格
+表格中有 5 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 12 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 11 行数据
+找到议员信息表格
+表格中有 3 行数据
+找到议员信息表格
+表格中有 9 行数据
+找到议员信息表格
+表格中有 2 行数据
+找到议员信息表格
+表格中有 11 行数据
+添加众议员: Adams, Alma (North Carolina, North Carolina 12th, state)
+添加众议员: Aderholt, Robert (Alabama, Alabama 4th, state)
+添加众议员: Aguilar, Pete (California, California 33rd, state)
+添加众议员: Alford, Mark (Missouri, Missouri 4th, state)
+添加众议员: Allen, Rick (Georgia, Georgia 12th, state)
+添加众议员: Amo, Gabe (Rhode Island, Rhode Island 1st, state)
+添加众议员: Amodei, Mark (Nevada, Nevada 2nd, state)
+添加众议员: Ansari, Yassamin (Arizona, Arizona 3rd, state)
+添加众议员: Arrington, Jodey (Texas, Texas 19th, state)
+添加众议员: Auchincloss, Jake (Massachusetts, Massachusetts 4th, state)
+找到议员信息表格
+表格中有 36 行数据
+添加众议员: Babin, Brian (Texas, Texas 36th, state)
+添加众议员: Bacon, Don (Nebraska, Nebraska 2nd, state)
+添加众议员: Baird, James (Indiana, Indiana 4th, state)
+添加众议员: Balderson, Troy (Ohio, Ohio 12th, state)
+添加众议员: Balint, Becca (Vermont, Vermont At Large, state)
+添加众议员: Barr, Andy (Kentucky, Kentucky 6th, state)
+添加众议员: Barragan, Nanette (California, California 44th, state)
+添加众议员: Barrett, Tom (Michigan, Michigan 7th, state)
+添加众议员: Baumgartner, Michael (Washington, Washington 5th, state)
+添加众议员: Bean, Aaron (Florida, Florida 4th, state)
+添加众议员: Beatty, Joyce (Ohio, Ohio 3rd, state)
+添加众议员: Begich, Nicholas (Alaska, Alaska At Large, state)
+添加众议员: Bell, Wesley (Missouri, Missouri 1st, state)
+添加众议员: Bentz, Cliff (Oregon, Oregon 2nd, state)
+添加众议员: Bera, Ami (California, California 6th, state)
+添加众议员: Bergman, Jack (Michigan, Michigan 1st, state)
+添加众议员: Beyer, Donald (Virginia, Virginia 8th, state)
+添加众议员: Bice, Stephanie (Oklahoma, Oklahoma 5th, state)
+添加众议员: Biggs, Andy (Arizona, Arizona 5th, state)
+添加众议员: Biggs, Sheri (South Carolina, South Carolina 3rd, state)
+添加众议员: Bilirakis, Gus (Florida, Florida 12th, state)
+添加众议员: Bishop, Sanford (Georgia, Georgia 2nd, state)
+添加众议员: Boebert, Lauren (Colorado, Colorado 4th, state)
+添加众议员: Bonamici, Suzanne (Oregon, Oregon 1st, state)
+添加众议员: Bost, Mike (Illinois, Illinois 12th, state)
+添加众议员: Boyle, Brendan (Pennsylvania, Pennsylvania 2nd, state)
+添加众议员: Brecheen, Josh (Oklahoma, Oklahoma 2nd, state)
+添加众议员: Bresnahan, Robert (Pennsylvania, Pennsylvania 8th, state)
+添加众议员: Brown, Shontel (Ohio, Ohio 11th, state)
+添加众议员: Brownley, Julia (California, California 26th, state)
+添加众议员: Buchanan, Vern (Florida, Florida 16th, state)
+添加众议员: Budzinski, Nikki (Illinois, Illinois 13th, state)
+添加众议员: Burchett, Tim (Tennessee, Tennessee 2nd, state)
+添加众议员: Burlison, Eric (Missouri, Missouri 7th, state)
+添加众议员: Bynum, Janelle (Oregon, Oregon 5th, state)
+找到议员信息表格
+表格中有 41 行数据
+添加众议员: Calvert, Ken (California, California 41st, state)
+添加众议员: Cammack, Kat (Florida, Florida 3rd, state)
+添加众议员: Carbajal, Salud (California, California 24th, state)
+添加众议员: Carey, Mike (Ohio, Ohio 15th, state)
+添加众议员: Carson, Andre (Indiana, Indiana 7th, state)
+添加众议员: Carter, Earl (Georgia, Georgia 1st, state)
+添加众议员: Carter, John (Texas, Texas 31st, state)
+添加众议员: Carter, Troy (Louisiana, Louisiana 2nd, state)
+添加众议员: Casar, Greg (Texas, Texas 35th, state)
+添加众议员: Case, Ed (Hawaii, Hawaii 1st, state)
+添加众议员: Casten, Sean (Illinois, Illinois 6th, state)
+添加众议员: Castor, Kathy (Florida, Florida 14th, state)
+添加众议员: Castro, Joaquin (Texas, Texas 20th, state)
+添加众议员: Cherfilus-McCormick, Sheila (Florida, Florida 20th, state)
+添加众议员: Chu, Judy (California, California 28th, state)
+添加众议员: Ciscomani, Juan (Arizona, Arizona 6th, state)
+添加众议员: Cisneros, Gilbert (California, California 31st, state)
+添加众议员: Clark, Katherine (Massachusetts, Massachusetts 5th, state)
+添加众议员: Clarke, Yvette (New York, New York 9th, state)
+添加众议员: Cleaver, Emanuel (Missouri, Missouri 5th, state)
+添加众议员: Cline, Ben (Virginia, Virginia 6th, state)
+添加众议员: Cloud, Michael (Texas, Texas 27th, state)
+添加众议员: Clyburn, James (South Carolina, South Carolina 6th, state)
+添加众议员: Clyde, Andrew (Georgia, Georgia 9th, state)
+添加众议员: Cohen, Steve (Tennessee, Tennessee 9th, state)
+添加众议员: Cole, Tom (Oklahoma, Oklahoma 4th, state)
+添加众议员: Collins, Mike (Georgia, Georgia 10th, state)
+添加众议员: Comer, James (Kentucky, Kentucky 1st, state)
+添加众议员: Conaway, Herbert (New Jersey, New Jersey 3rd, state)
+添加众议员: Correa, J. (California, California 46th, state)
+添加众议员: Costa, Jim (California, California 21st, state)
+添加众议员: Courtney, Joe (Connecticut, Connecticut 2nd, state)
+添加众议员: Craig, Angie (Minnesota, Minnesota 2nd, state)
+添加众议员: Crane, Elijah (Arizona, Arizona 2nd, state)
+添加众议员: Crank, Jeff (Colorado, Colorado 5th, state)
+添加众议员: Crawford, Eric (Arkansas, Arkansas 1st, state)
+添加众议员: Crenshaw, Dan (Texas, Texas 2nd, state)
+添加众议员: Crockett, Jasmine (Texas, Texas 30th, state)
+添加众议员: Crow, Jason (Colorado, Colorado 6th, state)
+添加众议员: Cuellar, Henry (Texas, Texas 28th, state)
+找到议员信息表格
+表格中有 20 行数据
+添加众议员: Davids, Sharice (Kansas, Kansas 3rd, state)
+添加众议员: Davidson, Warren (Ohio, Ohio 8th, state)
+添加众议员: Davis, Danny (Illinois, Illinois 7th, state)
+添加众议员: Davis, Donald (North Carolina, North Carolina 1st, state)
+添加众议员: Dean, Madeleine (Pennsylvania, Pennsylvania 4th, state)
+添加众议员: DeGette, Diana (Colorado, Colorado 1st, state)
+添加众议员: De La Cruz, Monica (Texas, Texas 15th, state)
+添加众议员: DeLauro, Rosa (Connecticut, Connecticut 3rd, state)
+添加众议员: DelBene, Suzan (Washington, Washington 1st, state)
+添加众议员: Deluzio, Christopher (Pennsylvania, Pennsylvania 17th, state)
+添加众议员: DeSaulnier, Mark (California, California 10th, state)
+添加众议员: DesJarlais, Scott (Tennessee, Tennessee 4th, state)
+添加众议员: Dexter, Maxine (Oregon, Oregon 3rd, state)
+添加众议员: Diaz-Balart, Mario (Florida, Florida 26th, state)
+添加众议员: Dingell, Debbie (Michigan, Michigan 6th, state)
+添加众议员: Doggett, Lloyd (Texas, Texas 37th, state)
+添加众议员: Donalds, Byron (Florida, Florida 19th, state)
+添加众议员: Downing, Troy (Montana, Montana 2nd, state)
+添加众议员: Dunn, Neal (Florida, Florida 2nd, state)
+找到议员信息表格
+表格中有 11 行数据
+添加众议员: Edwards, Chuck (North Carolina, North Carolina 11th, state)
+添加众议员: Elfreth, Sarah (Maryland, Maryland 3rd, state)
+添加众议员: Ellzey, Jake (Texas, Texas 6th, state)
+添加众议员: Emmer, Tom (Minnesota, Minnesota 6th, state)
+添加众议员: Escobar, Veronica (Texas, Texas 16th, state)
+添加众议员: Espaillat, Adriano (New York, New York 13th, state)
+添加众议员: Estes, Ron (Kansas, Kansas 4th, state)
+添加众议员: Evans, Dwight (Pennsylvania, Pennsylvania 3rd, state)
+添加众议员: Evans, Gabe (Colorado, Colorado 8th, state)
+添加众议员: Ezell, Mike (Mississippi, Mississippi 4th, state)
+找到议员信息表格
+表格中有 24 行数据
+添加众议员: Fallon, Pat (Texas, Texas 4th, state)
+添加众议员: Fedorchak, Julie (North Dakota, North Dakota At Large, state)
+添加众议员: Feenstra, Randy (Iowa, Iowa 4th, state)
+添加众议员: Fields, Cleo (Louisiana, Louisiana 6th, state)
+添加众议员: Figures, Shomari (Alabama, Alabama 2nd, state)
+添加众议员: Fine, Randy (Florida, Florida 6th, state)
+添加众议员: Finstad, Brad (Minnesota, Minnesota 1st, state)
+添加众议员: Fischbach, Michelle (Minnesota, Minnesota 7th, state)
+添加众议员: Fitzgerald, Scott (Wisconsin, Wisconsin 5th, state)
+添加众议员: Fitzpatrick, Brian (Pennsylvania, Pennsylvania 1st, state)
+添加众议员: Fleischmann, Charles (Tennessee, Tennessee 3rd, state)
+添加众议员: Fletcher, Lizzie (Texas, Texas 7th, state)
+添加众议员: Flood, Mike (Nebraska, Nebraska 1st, state)
+添加众议员: Fong, Vince (California, California 20th, state)
+添加众议员: Foster, Bill (Illinois, Illinois 11th, state)
+添加众议员: Foushee, Valerie (North Carolina, North Carolina 4th, state)
+添加众议员: Foxx, Virginia (North Carolina, North Carolina 5th, state)
+添加众议员: Frankel, Lois (Florida, Florida 22nd, state)
+添加众议员: Franklin, Scott (Florida, Florida 18th, state)
+添加众议员: Friedman, Laura (California, California 30th, state)
+添加众议员: Frost, Maxwell (Florida, Florida 10th, state)
+添加众议员: Fry, Russell (South Carolina, South Carolina 7th, state)
+添加众议员: Fulcher, Russ (Idaho, Idaho 1st, state)
+找到议员信息表格
+表格中有 28 行数据
+添加众议员: Garamendi, John (California, California 8th, state)
+添加众议员: Garbarino, Andrew (New York, New York 2nd, state)
+添加众议员: Garcia, Jesus (Illinois, Illinois 4th, state)
+添加众议员: Garcia, Robert (California, California 42nd, state)
+添加众议员: Garcia, Sylvia (Texas, Texas 29th, state)
+添加众议员: Gill, Brandon (Texas, Texas 26th, state)
+添加众议员: Gillen, Laura (New York, New York 4th, state)
+添加众议员: Gimenez, Carlos (Florida, Florida 28th, state)
+添加众议员: Golden, Jared (Maine, Maine 2nd, state)
+添加众议员: Goldman, Craig (Texas, Texas 12th, state)
+添加众议员: Goldman, Daniel (New York, New York 10th, state)
+添加众议员: Gomez, Jimmy (California, California 34th, state)
+添加众议员: Gonzales, Tony (Texas, Texas 23rd, state)
+添加众议员: Gonzalez, Vicente (Texas, Texas 34th, state)
+添加众议员: Gooden, Lance (Texas, Texas 5th, state)
+添加众议员: Goodlander, Maggie (New Hampshire, New Hampshire 2nd, state)
+添加众议员: Gosar, Paul (Arizona, Arizona 9th, state)
+添加众议员: Gottheimer, Josh (New Jersey, New Jersey 5th, state)
+添加众议员: Graves, Sam (Missouri, Missouri 6th, state)
+添加众议员: Gray, Adam (California, California 13th, state)
+添加众议员: Green, Al (Texas, Texas 9th, state)
+添加众议员: Greene, Marjorie Taylor (Georgia, Georgia 14th, state)
+添加众议员: Griffith, H. (Virginia, Virginia 9th, state)
+添加众议员: Grijalva, Adelita (Arizona, Arizona 7th, state)
+添加众议员: Grothman, Glenn (Wisconsin, Wisconsin 6th, state)
+添加众议员: Guest, Michael (Mississippi, Mississippi 3rd, state)
+添加众议员: Guthrie, Brett (Kentucky, Kentucky 2nd, state)
+找到议员信息表格
+表格中有 26 行数据
+添加众议员: Hageman, Harriet (Wyoming, Wyoming At Large, state)
+添加众议员: Hamadeh, Abraham (Arizona, Arizona 8th, state)
+添加众议员: Harder, Josh (California, California 9th, state)
+添加众议员: Haridopolos, Mike (Florida, Florida 8th, state)
+添加众议员: Harrigan, Pat (North Carolina, North Carolina 10th, state)
+添加众议员: Harris, Andy (Maryland, Maryland 1st, state)
+添加众议员: Harris, Mark (North Carolina, North Carolina 8th, state)
+添加众议员: Harshbarger, Diana (Tennessee, Tennessee 1st, state)
+添加众议员: Hayes, Jahana (Connecticut, Connecticut 5th, state)
+添加众议员: Hern, Kevin (Oklahoma, Oklahoma 1st, state)
+添加众议员: Hernandez, Pablo (Puerto Rico, Puerto Rico Resident Commissioner, us_territories)
+添加众议员: Higgins, Clay (Louisiana, Louisiana 3rd, state)
+添加众议员: Hill, J. (Arkansas, Arkansas 2nd, state)
+添加众议员: Himes, James (Connecticut, Connecticut 4th, state)
+添加众议员: Hinson, Ashley (Iowa, Iowa 2nd, state)
+添加众议员: Horsford, Steven (Nevada, Nevada 4th, state)
+添加众议员: Houchin, Erin (Indiana, Indiana 9th, state)
+添加众议员: Houlahan, Chrissy (Pennsylvania, Pennsylvania 6th, state)
+添加众议员: Hoyer, Steny (Maryland, Maryland 5th, state)
+添加众议员: Hoyle, Val (Oregon, Oregon 4th, state)
+添加众议员: Hudson, Richard (North Carolina, North Carolina 9th, state)
+添加众议员: Huffman, Jared (California, California 2nd, state)
+添加众议员: Huizenga, Bill (Michigan, Michigan 4th, state)
+添加众议员: Hunt, Wesley (Texas, Texas 38th, state)
+添加众议员: Hurd, Jeff (Colorado, Colorado 3rd, state)
+找到议员信息表格
+表格中有 3 行数据
+添加众议员: Issa, Darrell (California, California 48th, state)
+添加众议员: Ivey, Glenn (Maryland, Maryland 4th, state)
+找到议员信息表格
+表格中有 15 行数据
+添加众议员: Jack, Brian (Georgia, Georgia 3rd, state)
+添加众议员: Jackson, Jonathan (Illinois, Illinois 1st, state)
+添加众议员: Jackson, Ronny (Texas, Texas 13th, state)
+添加众议员: Jacobs, Sara (California, California 51st, state)
+添加众议员: James, John (Michigan, Michigan 10th, state)
+添加众议员: Jayapal, Pramila (Washington, Washington 7th, state)
+添加众议员: Jeffries, Hakeem (New York, New York 8th, state)
+添加众议员: Johnson, Dusty (South Dakota, South Dakota At Large, state)
+添加众议员: Johnson, Henry (Georgia, Georgia 4th, state)
+添加众议员: Johnson, Julie (Texas, Texas 32nd, state)
+添加众议员: Johnson, Mike (Louisiana, Louisiana 4th, state)
+添加众议员: Jordan, Jim (Ohio, Ohio 4th, state)
+添加众议员: Joyce, David (Ohio, Ohio 14th, state)
+添加众议员: Joyce, John (Pennsylvania, Pennsylvania 13th, state)
+找到议员信息表格
+表格中有 18 行数据
+添加众议员: Kamlager-Dove, Sydney (California, California 37th, state)
+添加众议员: Kaptur, Marcy (Ohio, Ohio 9th, state)
+添加众议员: Kean, Thomas (New Jersey, New Jersey 7th, state)
+添加众议员: Keating, William (Massachusetts, Massachusetts 9th, state)
+添加众议员: Kelly, Mike (Pennsylvania, Pennsylvania 16th, state)
+添加众议员: Kelly, Robin (Illinois, Illinois 2nd, state)
+添加众议员: Kelly, Trent (Mississippi, Mississippi 1st, state)
+添加众议员: Kennedy, Mike (Utah, Utah 3rd, state)
+添加众议员: Kennedy, Timothy (New York, New York 26th, state)
+添加众议员: Khanna, Ro (California, California 17th, state)
+添加众议员: Kiggans, Jennifer (Virginia, Virginia 2nd, state)
+添加众议员: Kiley, Kevin (California, California 3rd, state)
+添加众议员: Kim, Young (California, California 40th, state)
+添加众议员: King-Hinds, Kimberlyn (Northern Mariana Islands, Northern Mariana Islands Delegate, us_territories)
+添加众议员: Knott, Brad (North Carolina, North Carolina 13th, state)
+添加众议员: Krishnamoorthi, Raja (Illinois, Illinois 8th, state)
+添加众议员: Kustoff, David (Tennessee, Tennessee 8th, state)
+找到议员信息表格
+表格中有 25 行数据
+添加众议员: LaHood, Darin (Illinois, Illinois 16th, state)
+添加众议员: LaLota, Nick (New York, New York 1st, state)
+添加众议员: LaMalfa, Doug (California, California 1st, state)
+添加众议员: Landsman, Greg (Ohio, Ohio 1st, state)
+添加众议员: Langworthy, Nicholas (New York, New York 23rd, state)
+添加众议员: Larsen, Rick (Washington, Washington 2nd, state)
+添加众议员: Larson, John (Connecticut, Connecticut 1st, state)
+添加众议员: Latimer, George (New York, New York 16th, state)
+添加众议员: Latta, Robert (Ohio, Ohio 5th, state)
+添加众议员: Lawler, Michael (New York, New York 17th, state)
+添加众议员: Lee, Laurel (Florida, Florida 15th, state)
+添加众议员: Lee, Summer (Pennsylvania, Pennsylvania 12th, state)
+添加众议员: Lee, Susie (Nevada, Nevada 3rd, state)
+添加众议员: Leger Fernandez, Teresa (New Mexico, New Mexico 3rd, state)
+添加众议员: Letlow, Julia (Louisiana, Louisiana 5th, state)
+添加众议员: Levin, Mike (California, California 49th, state)
+添加众议员: Liccardo, Sam (California, California 16th, state)
+添加众议员: Lieu, Ted (California, California 36th, state)
+添加众议员: Lofgren, Zoe (California, California 18th, state)
+添加众议员: Loudermilk, Barry (Georgia, Georgia 11th, state)
+添加众议员: Lucas, Frank (Oklahoma, Oklahoma 3rd, state)
+添加众议员: Luna, Anna Paulina (Florida, Florida 13th, state)
+添加众议员: Luttrell, Morgan (Texas, Texas 8th, state)
+添加众议员: Lynch, Stephen (Massachusetts, Massachusetts 8th, state)
+找到议员信息表格
+表格中有 54 行数据
+添加众议员: Mace, Nancy (South Carolina, South Carolina 1st, state)
+添加众议员: Mackenzie, Ryan (Pennsylvania, Pennsylvania 7th, state)
+添加众议员: Magaziner, Seth (Rhode Island, Rhode Island 2nd, state)
+添加众议员: Malliotakis, Nicole (New York, New York 11th, state)
+添加众议员: Maloy, Celeste (Utah, Utah 2nd, state)
+添加众议员: Mann, Tracey (Kansas, Kansas 1st, state)
+添加众议员: Mannion, John (New York, New York 22nd, state)
+添加众议员: Massie, Thomas (Kentucky, Kentucky 4th, state)
+添加众议员: Mast, Brian (Florida, Florida 21st, state)
+添加众议员: Matsui, Doris (California, California 7th, state)
+添加众议员: McBath, Lucy (Georgia, Georgia 6th, state)
+添加众议员: McBride, Sarah (Delaware, Delaware At Large, state)
+添加众议员: McCaul, Michael (Texas, Texas 10th, state)
+添加众议员: McClain, Lisa (Michigan, Michigan 9th, state)
+添加众议员: McClain Delaney, April (Maryland, Maryland 6th, state)
+添加众议员: McClellan, Jennifer (Virginia, Virginia 4th, state)
+添加众议员: McClintock, Tom (California, California 5th, state)
+添加众议员: McCollum, Betty (Minnesota, Minnesota 4th, state)
+添加众议员: McCormick, Richard (Georgia, Georgia 7th, state)
+添加众议员: McDonald Rivet, Kristen (Michigan, Michigan 8th, state)
+添加众议员: McDowell, Addison (North Carolina, North Carolina 6th, state)
+添加众议员: McGarvey, Morgan (Kentucky, Kentucky 3rd, state)
+添加众议员: McGovern, James (Massachusetts, Massachusetts 2nd, state)
+添加众议员: McGuire, John (Virginia, Virginia 5th, state)
+添加众议员: McIver, LaMonica (New Jersey, New Jersey 10th, state)
+添加众议员: Meeks, Gregory (New York, New York 5th, state)
+添加众议员: Menefee, Christian (Texas, Texas 18th, state)
+添加众议员: Menendez, Robert (New Jersey, New Jersey 8th, state)
+添加众议员: Meng, Grace (New York, New York 6th, state)
+添加众议员: Messmer, Mark (Indiana, Indiana 8th, state)
+添加众议员: Meuser, Daniel (Pennsylvania, Pennsylvania 9th, state)
+添加众议员: Mfume, Kweisi (Maryland, Maryland 7th, state)
+添加众议员: Miller, Carol (West Virginia, West Virginia 1st, state)
+添加众议员: Miller, Mary (Illinois, Illinois 15th, state)
+添加众议员: Miller, Max (Ohio, Ohio 7th, state)
+添加众议员: Miller-Meeks, Mariannette (Iowa, Iowa 1st, state)
+添加众议员: Mills, Cory (Florida, Florida 7th, state)
+添加众议员: Min, Dave (California, California 47th, state)
+添加众议员: Moolenaar, John (Michigan, Michigan 2nd, state)
+添加众议员: Moore, Barry (Alabama, Alabama 1st, state)
+添加众议员: Moore, Blake (Utah, Utah 1st, state)
+添加众议员: Moore, Gwen (Wisconsin, Wisconsin 4th, state)
+添加众议员: Moore, Riley (West Virginia, West Virginia 2nd, state)
+添加众议员: Moore, Tim (North Carolina, North Carolina 14th, state)
+添加众议员: Moran, Nathaniel (Texas, Texas 1st, state)
+添加众议员: Morelle, Joseph (New York, New York 25th, state)
+添加众议员: Morrison, Kelly (Minnesota, Minnesota 3rd, state)
+添加众议员: Moskowitz, Jared (Florida, Florida 23rd, state)
+添加众议员: Moulton, Seth (Massachusetts, Massachusetts 6th, state)
+添加众议员: Moylan, James (Guam, Guam Delegate, us_territories)
+添加众议员: Mrvan, Frank (Indiana, Indiana 1st, state)
+添加众议员: Mullin, Kevin (California, California 15th, state)
+添加众议员: Murphy, Gregory (North Carolina, North Carolina 3rd, state)
+找到议员信息表格
+表格中有 10 行数据
+添加众议员: Nadler, Jerrold (New York, New York 12th, state)
+添加众议员: Neal, Richard (Massachusetts, Massachusetts 1st, state)
+添加众议员: Neguse, Joe (Colorado, Colorado 2nd, state)
+添加众议员: Nehls, Troy (Texas, Texas 22nd, state)
+添加众议员: Newhouse, Dan (Washington, Washington 4th, state)
+添加众议员: Norcross, Donald (New Jersey, New Jersey 1st, state)
+添加众议员: Norman, Ralph (South Carolina, South Carolina 5th, state)
+添加众议员: Norton, Eleanor (District of Columbia, District of Columbia Delegate, federal_district)
+添加众议员: Nunn, Zachary (Iowa, Iowa 3rd, state)
+找到议员信息表格
+表格中有 8 行数据
+添加众议员: Obernolte, Jay (California, California 23rd, state)
+添加众议员: Ocasio-Cortez, Alexandria (New York, New York 14th, state)
+添加众议员: Ogles, Andrew (Tennessee, Tennessee 5th, state)
+添加众议员: Olszewski, Johnny (Maryland, Maryland 2nd, state)
+添加众议员: Omar, Ilhan (Minnesota, Minnesota 5th, state)
+添加众议员: Onder, Robert (Missouri, Missouri 3rd, state)
+添加众议员: Owens, Burgess (Utah, Utah 4th, state)
+找到议员信息表格
+表格中有 17 行数据
+添加众议员: Pallone, Frank (New Jersey, New Jersey 6th, state)
+添加众议员: Palmer, Gary (Alabama, Alabama 6th, state)
+添加众议员: Panetta, Jimmy (California, California 19th, state)
+添加众议员: Pappas, Chris (New Hampshire, New Hampshire 1st, state)
+添加众议员: Patronis, Jimmy (Florida, Florida 1st, state)
+添加众议员: Pelosi, Nancy (California, California 11th, state)
+添加众议员: Perez, Marie (Washington, Washington 3rd, state)
+添加众议员: Perry, Scott (Pennsylvania, Pennsylvania 10th, state)
+添加众议员: Peters, Scott (California, California 50th, state)
+添加众议员: Pettersen, Brittany (Colorado, Colorado 7th, state)
+添加众议员: Pfluger, August (Texas, Texas 11th, state)
+添加众议员: Pingree, Chellie (Maine, Maine 1st, state)
+添加众议员: Plaskett, Stacey (Virgin Islands, Virgin Islands Delegate, us_territories)
+添加众议员: Pocan, Mark (Wisconsin, Wisconsin 2nd, state)
+添加众议员: Pou, Nellie (New Jersey, New Jersey 9th, state)
+添加众议员: Pressley, Ayanna (Massachusetts, Massachusetts 7th, state)
+找到议员信息表格
+表格中有 2 行数据
+添加众议员: Quigley, Mike (Illinois, Illinois 5th, state)
+找到议员信息表格
+表格中有 18 行数据
+添加众议员: Radewagen, Aumua Amata (American Samoa, American Samoa Delegate, us_territories)
+添加众议员: Ramirez, Delia (Illinois, Illinois 3rd, state)
+添加众议员: Randall, Emily (Washington, Washington 6th, state)
+添加众议员: Raskin, Jamie (Maryland, Maryland 8th, state)
+添加众议员: Reschenthaler, Guy (Pennsylvania, Pennsylvania 14th, state)
+添加众议员: Riley, Josh (New York, New York 19th, state)
+添加众议员: Rivas, Luz (California, California 29th, state)
+添加众议员: Rogers, Harold (Kentucky, Kentucky 5th, state)
+添加众议员: Rogers, Mike (Alabama, Alabama 3rd, state)
+添加众议员: Rose, John (Tennessee, Tennessee 6th, state)
+添加众议员: Ross, Deborah (North Carolina, North Carolina 2nd, state)
+添加众议员: Rouzer, David (North Carolina, North Carolina 7th, state)
+添加众议员: Roy, Chip (Texas, Texas 21st, state)
+添加众议员: Ruiz, Raul (California, California 25th, state)
+添加众议员: Rulli, Michael A. (Ohio, Ohio 6th, state)
+添加众议员: Rutherford, John (Florida, Florida 5th, state)
+添加众议员: Ryan, Patrick (New York, New York 18th, state)
+找到议员信息表格
+表格中有 45 行数据
+添加众议员: Salazar, Maria (Florida, Florida 27th, state)
+添加众议员: Salinas, Andrea (Oregon, Oregon 6th, state)
+添加众议员: Sanchez, Linda (California, California 38th, state)
+添加众议员: Scalise, Steve (Louisiana, Louisiana 1st, state)
+添加众议员: Scanlon, Mary Gay (Pennsylvania, Pennsylvania 5th, state)
+添加众议员: Schakowsky, Janice (Illinois, Illinois 9th, state)
+添加众议员: Schmidt, Derek (Kansas, Kansas 2nd, state)
+添加众议员: Schneider, Bradley (Illinois, Illinois 10th, state)
+添加众议员: Scholten, Hillary (Michigan, Michigan 3rd, state)
+添加众议员: Schrier, Kim (Washington, Washington 8th, state)
+添加众议员: Schweikert, David (Arizona, Arizona 1st, state)
+添加众议员: Scott, Austin (Georgia, Georgia 8th, state)
+添加众议员: Scott, David (Georgia, Georgia 13th, state)
+添加众议员: Scott, Robert (Virginia, Virginia 3rd, state)
+添加众议员: Self, Keith (Texas, Texas 3rd, state)
+添加众议员: Sessions, Pete (Texas, Texas 17th, state)
+添加众议员: Sewell, Terri (Alabama, Alabama 7th, state)
+添加众议员: Sherman, Brad (California, California 32nd, state)
+添加众议员: Sherrill, Mikie (New Jersey, New Jersey 11th, state)
+添加众议员: Shreve, Jefferson (Indiana, Indiana 6th, state)
+添加众议员: Simon, Lateefah (California, California 12th, state)
+添加众议员: Simpson, Michael (Idaho, Idaho 2nd, state)
+添加众议员: Smith, Adam (Washington, Washington 9th, state)
+添加众议员: Smith, Adrian (Nebraska, Nebraska 3rd, state)
+添加众议员: Smith, Christopher (New Jersey, New Jersey 4th, state)
+添加众议员: Smith, Jason (Missouri, Missouri 8th, state)
+添加众议员: Smucker, Lloyd (Pennsylvania, Pennsylvania 11th, state)
+添加众议员: Sorensen, Eric (Illinois, Illinois 17th, state)
+添加众议员: Soto, Darren (Florida, Florida 9th, state)
+添加众议员: Spartz, Victoria (Indiana, Indiana 5th, state)
+添加众议员: Stansbury, Melanie (New Mexico, New Mexico 1st, state)
+添加众议员: Stanton, Greg (Arizona, Arizona 4th, state)
+添加众议员: Stauber, Pete (Minnesota, Minnesota 8th, state)
+添加众议员: Stefanik, Elise (New York, New York 21st, state)
+添加众议员: Steil, Bryan (Wisconsin, Wisconsin 1st, state)
+添加众议员: Steube, W. (Florida, Florida 17th, state)
+添加众议员: Stevens, Haley (Michigan, Michigan 11th, state)
+添加众议员: Strickland, Marilyn (Washington, Washington 10th, state)
+添加众议员: Strong, Dale (Alabama, Alabama 5th, state)
+添加众议员: Stutzman, Marlin (Indiana, Indiana 3rd, state)
+添加众议员: Subramanyam, Suhas (Virginia, Virginia 10th, state)
+添加众议员: Suozzi, Thomas R. (New York, New York 3rd, state)
+添加众议员: Swalwell, Eric (California, California 14th, state)
+添加众议员: Sykes, Emilia (Ohio, Ohio 13th, state)
+找到议员信息表格
+表格中有 19 行数据
+添加众议员: Takano, Mark (California, California 39th, state)
+添加众议员: Taylor, David (Ohio, Ohio 2nd, state)
+添加众议员: Tenney, Claudia (New York, New York 24th, state)
+添加众议员: Thanedar, Shri (Michigan, Michigan 13th, state)
+添加众议员: Thompson, Bennie (Mississippi, Mississippi 2nd, state)
+添加众议员: Thompson, Glenn (Pennsylvania, Pennsylvania 15th, state)
+添加众议员: Thompson, Mike (California, California 4th, state)
+添加众议员: Tiffany, Thomas (Wisconsin, Wisconsin 7th, state)
+添加众议员: Timmons, William (South Carolina, South Carolina 4th, state)
+添加众议员: Titus, Dina (Nevada, Nevada 1st, state)
+添加众议员: Tlaib, Rashida (Michigan, Michigan 12th, state)
+添加众议员: Tokuda, Jill (Hawaii, Hawaii 2nd, state)
+添加众议员: Tonko, Paul (New York, New York 20th, state)
+添加众议员: Torres, Norma (California, California 35th, state)
+添加众议员: Torres, Ritchie (New York, New York 15th, state)
+添加众议员: Trahan, Lori (Massachusetts, Massachusetts 3rd, state)
+添加众议员: Tran, Derek (California, California 45th, state)
+添加众议员: Turner, Michael (Ohio, Ohio 10th, state)
+找到议员信息表格
+表格中有 2 行数据
+添加众议员: Underwood, Lauren (Illinois, Illinois 14th, state)
+找到议员信息表格
+表格中有 11 行数据
+添加众议员: Valadao, David (California, California 22nd, state)
+添加众议员: Van Drew, Jefferson (New Jersey, New Jersey 2nd, state)
+添加众议员: Van Duyne, Beth (Texas, Texas 24th, state)
+添加众议员: Van Epps, Matt (Tennessee, Tennessee 7th, state)
+添加众议员: Van Orden, Derrick (Wisconsin, Wisconsin 3rd, state)
+添加众议员: Vargas, Juan (California, California 52nd, state)
+添加众议员: Vasquez, Gabe (New Mexico, New Mexico 2nd, state)
+添加众议员: Veasey, Marc (Texas, Texas 33rd, state)
+添加众议员: Velazquez, Nydia (New York, New York 7th, state)
+添加众议员: Vindman, Eugene (Virginia, Virginia 7th, state)
+找到议员信息表格
+表格中有 18 行数据
+添加众议员: Wagner, Ann (Missouri, Missouri 2nd, state)
+添加众议员: Walberg, Tim (Michigan, Michigan 5th, state)
+添加众议员: Walkinshaw, James (Virginia, Virginia 11th, state)
+添加众议员: Wasserman Schultz, Debbie (Florida, Florida 25th, state)
+添加众议员: Waters, Maxine (California, California 43rd, state)
+添加众议员: Watson Coleman, Bonnie (New Jersey, New Jersey 12th, state)
+添加众议员: Weber, Randy (Texas, Texas 14th, state)
+添加众议员: Webster, Daniel (Florida, Florida 11th, state)
+添加众议员: Westerman, Bruce (Arkansas, Arkansas 4th, state)
+添加众议员: Whitesides, George (California, California 27th, state)
+添加众议员: Wied, Tony (Wisconsin, Wisconsin 8th, state)
+添加众议员: Williams, Nikema (Georgia, Georgia 5th, state)
+添加众议员: Williams, Roger (Texas, Texas 25th, state)
+添加众议员: Wilson, Frederica (Florida, Florida 24th, state)
+添加众议员: Wilson, Joe (South Carolina, South Carolina 2nd, state)
+添加众议员: Wittman, Robert (Virginia, Virginia 1st, state)
+添加众议员: Womack, Steve (Arkansas, Arkansas 3rd, state)
+找到议员信息表格
+表格中有 2 行数据
+添加众议员: Yakym, Rudy (Indiana, Indiana 2nd, state)
+找到议员信息表格
+表格中有 2 行数据
+添加众议员: Zinke, Ryan (Montana, Montana 1st, state)
+从 By Last Name 视图找到 441 位众议员
+去重后找到 441 个唯一链接
+开始保存到CSV...
+找到 441 位众议员的网站链接
+已保存为CSV格式: D:\coding\US_congress_study\house_representatives_websites.csv
+爬取完成！
+脚本执行完毕

@@ -1,0 +1,649 @@
+2026-03-04 23:44:11,311 - INFO - 爬虫启动
+2026-03-04 23:44:11,478 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-04 23:44:11,479 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-04 23:44:11,479 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-04 23:44:11,479 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-04 23:44:11,479 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-04 23:44:14,953 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-04 23:44:15,007 - INFO - [4] Alford, Mark: 找到 11 个新闻相关链接
+2026-03-04 23:44:58,168 - INFO - 爬虫启动
+2026-03-04 23:44:58,310 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-04 23:44:58,310 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-04 23:44:58,310 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-04 23:44:58,311 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-04 23:44:58,311 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-04 23:45:01,575 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-04 23:45:03,028 - INFO - [4] Alford, Mark: 找到 11 个新闻相关链接
+2026-03-04 23:45:03,395 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-04 23:45:03,714 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-04 23:45:03,726 - INFO - [5] Allen, Rick: 找到 10 个新闻相关链接
+2026-03-04 23:45:06,570 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇涉华文章
+2026-03-04 23:45:07,130 - INFO - [4] Alford, Mark: 在 media 找到 0 篇涉华文章
+2026-03-04 23:45:07,391 - INFO - [5] Allen, Rick: 在 media 找到 0 篇涉华文章
+2026-03-04 23:45:07,755 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇涉华文章
+2026-03-04 23:45:07,822 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇涉华文章
+2026-03-04 23:45:09,822 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇涉华文章
+2026-03-04 23:45:10,580 - INFO - [4] Alford, Mark: 在 press releases 找到 0 篇涉华文章
+2026-03-04 23:45:12,035 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇涉华文章
+2026-03-04 23:45:12,164 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇涉华文章
+2026-03-04 23:45:13,351 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇涉华文章
+2026-03-04 23:45:14,913 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇涉华文章
+2026-03-04 23:45:15,187 - INFO - [4] Alford, Mark: 在 in the news 找到 0 篇涉华文章
+2026-03-04 23:45:16,801 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇涉华文章
+2026-03-04 23:45:16,883 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇涉华文章
+2026-03-04 23:45:18,715 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇涉华文章
+2026-03-04 23:45:18,716 - INFO - 爬虫结束
+2026-03-04 23:46:30,729 - INFO - 爬虫启动
+2026-03-04 23:46:30,860 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-04 23:46:30,860 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-04 23:46:30,860 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-04 23:46:30,860 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-04 23:46:30,860 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-04 23:46:34,348 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-04 23:46:35,112 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-04 23:46:36,322 - INFO - [5] Allen, Rick: 找到 10 个新闻相关链接
+2026-03-04 23:46:36,352 - INFO - [4] Alford, Mark: 找到 11 个新闻相关链接
+2026-03-04 23:46:36,418 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-04 23:46:37,567 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:46:37,567 - INFO - [1] Adams, Alma: 还有 44 篇文章需要检查内容
+2026-03-04 23:46:38,931 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:46:38,931 - INFO - [2] Aderholt, Robert: 还有 48 篇文章需要检查内容
+2026-03-04 23:46:39,726 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:46:39,726 - INFO - [4] Alford, Mark: 还有 79 篇文章需要检查内容
+2026-03-04 23:46:39,869 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:46:39,870 - INFO - [5] Allen, Rick: 还有 84 篇文章需要检查内容
+2026-03-04 23:46:40,911 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:46:40,911 - INFO - [3] Aguilar, Pete: 还有 53 篇文章需要检查内容
+2026-03-04 23:46:56,831 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-04 23:46:58,198 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-04 23:46:58,470 - INFO - [4] Alford, Mark: 潜在文章中发现涉华内容 - Mark Alford's America Archive...
+2026-03-04 23:46:58,470 - INFO - [4] Alford, Mark: 在 media 最终找到 1 篇涉华文章
+2026-03-04 23:47:00,558 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-04 23:47:00,757 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-04 23:47:01,484 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:01,484 - INFO - [1] Adams, Alma: 还有 45 篇文章需要检查内容
+2026-03-04 23:47:01,708 - INFO - [4] Alford, Mark: 成功提取文章 - Mark Alford's America Archive...
+2026-03-04 23:47:02,757 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:02,757 - INFO - [5] Allen, Rick: 还有 59 篇文章需要检查内容
+2026-03-04 23:47:04,439 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:04,439 - INFO - [3] Aguilar, Pete: 还有 53 篇文章需要检查内容
+2026-03-04 23:47:05,499 - INFO - [4] Alford, Mark: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:05,499 - INFO - [4] Alford, Mark: 还有 54 篇文章需要检查内容
+2026-03-04 23:47:05,773 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:05,773 - INFO - [2] Aderholt, Robert: 还有 77 篇文章需要检查内容
+2026-03-04 23:47:22,917 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-04 23:47:24,286 - INFO - [2] Aderholt, Robert: 在 media 最终找到 0 篇涉华文章
+2026-03-04 23:47:24,451 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:47:24,703 - INFO - [4] Alford, Mark: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:47:25,555 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-04 23:47:25,806 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:25,806 - INFO - [1] Adams, Alma: 还有 76 篇文章需要检查内容
+2026-03-04 23:47:27,004 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:27,004 - INFO - [2] Aderholt, Robert: 还有 77 篇文章需要检查内容
+2026-03-04 23:47:27,965 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:27,965 - INFO - [5] Allen, Rick: 还有 46 篇文章需要检查内容
+2026-03-04 23:47:28,667 - INFO - [4] Alford, Mark: 在 in the news 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:28,669 - INFO - [4] Alford, Mark: 还有 36 篇文章需要检查内容
+2026-03-04 23:47:30,844 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:47:30,845 - INFO - [3] Aguilar, Pete: 还有 73 篇文章需要检查内容
+2026-03-04 23:47:45,858 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-04 23:47:46,775 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:47:47,574 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-04 23:47:48,004 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-04 23:47:49,705 - INFO - [4] Alford, Mark: 在 in the news 最终找到 0 篇涉华文章
+2026-03-04 23:47:49,716 - INFO - 已保存 1 篇文章到 representatives_website_china_related_articles.csv
+2026-03-04 23:47:49,716 - INFO - 爬虫结束
+2026-03-04 23:47:52,886 - INFO - 爬虫启动
+2026-03-04 23:47:53,017 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-04 23:47:53,017 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-04 23:47:53,017 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-04 23:47:53,018 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-04 23:47:53,018 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-04 23:47:56,626 - INFO - [4] Alford, Mark: 找到 11 个新闻相关链接
+2026-03-04 23:47:56,792 - INFO - [5] Allen, Rick: 找到 10 个新闻相关链接
+2026-03-04 23:47:57,803 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-04 23:47:58,447 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-04 23:47:59,251 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-04 23:48:00,716 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:00,716 - INFO - [5] Allen, Rick: 还有 84 篇文章需要检查内容
+2026-03-04 23:48:00,910 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:00,911 - INFO - [4] Alford, Mark: 还有 79 篇文章需要检查内容
+2026-03-04 23:48:01,378 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:01,378 - INFO - [2] Aderholt, Robert: 还有 48 篇文章需要检查内容
+2026-03-04 23:48:01,540 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:01,540 - INFO - [3] Aguilar, Pete: 还有 53 篇文章需要检查内容
+2026-03-04 23:48:03,165 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:03,166 - INFO - [1] Adams, Alma: 还有 44 篇文章需要检查内容
+2026-03-04 23:48:19,721 - INFO - [4] Alford, Mark: 潜在文章中发现涉华内容 - Mark Alford's America Archive...
+2026-03-04 23:48:19,722 - INFO - [4] Alford, Mark: 在 media 最终找到 1 篇涉华文章
+2026-03-04 23:48:19,930 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-04 23:48:19,945 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-04 23:48:21,515 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-04 23:48:22,739 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:22,739 - INFO - [1] Adams, Alma: 还有 45 篇文章需要检查内容
+2026-03-04 23:48:22,950 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:22,950 - INFO - [5] Allen, Rick: 还有 59 篇文章需要检查内容
+2026-03-04 23:48:24,388 - INFO - [4] Alford, Mark: 成功提取文章 - Mark Alford's America Archive...
+2026-03-04 23:48:25,054 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-04 23:48:25,784 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:25,784 - INFO - [3] Aguilar, Pete: 还有 53 篇文章需要检查内容
+2026-03-04 23:48:26,799 - INFO - [4] Alford, Mark: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:26,799 - INFO - [4] Alford, Mark: 还有 54 篇文章需要检查内容
+2026-03-04 23:48:28,208 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:28,208 - INFO - [2] Aderholt, Robert: 还有 77 篇文章需要检查内容
+2026-03-04 23:48:42,927 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:48:44,206 - INFO - [4] Alford, Mark: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:48:46,069 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:46,069 - INFO - [5] Allen, Rick: 还有 46 篇文章需要检查内容
+2026-03-04 23:48:46,455 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-04 23:48:46,607 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-04 23:48:47,612 - INFO - [4] Alford, Mark: 在 in the news 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:47,612 - INFO - [4] Alford, Mark: 还有 36 篇文章需要检查内容
+2026-03-04 23:48:48,305 - INFO - [2] Aderholt, Robert: 在 media 最终找到 0 篇涉华文章
+2026-03-04 23:48:49,613 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:49,613 - INFO - [3] Aguilar, Pete: 还有 73 篇文章需要检查内容
+2026-03-04 23:48:51,926 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:51,926 - INFO - [1] Adams, Alma: 还有 76 篇文章需要检查内容
+2026-03-04 23:48:53,184 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-04 23:48:53,184 - INFO - [2] Aderholt, Robert: 还有 77 篇文章需要检查内容
+2026-03-04 23:49:04,636 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-04 23:49:05,258 - INFO - [4] Alford, Mark: 在 in the news 最终找到 0 篇涉华文章
+2026-03-04 23:49:09,522 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-04 23:49:13,158 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-04 23:49:15,356 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-04 23:49:15,358 - INFO - 已保存 1 篇文章到 representatives_website_china_related_articles.csv
+2026-03-04 23:49:15,359 - INFO - 爬虫结束
+2026-03-05 00:05:35,932 - INFO - 爬虫启动
+2026-03-05 00:05:36,046 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:05:36,046 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:05:36,046 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:05:36,046 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:05:36,046 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:05:39,733 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:05:39,735 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:05:40,150 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:05:40,262 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:05:40,651 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:05:42,921 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:05:43,910 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:05:44,358 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:05:44,428 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:05:45,321 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:02,510 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-05 00:06:04,035 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-05 00:06:04,108 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:06:06,583 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:06,929 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:06,983 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:06:07,914 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:10,168 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:19,519 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:06:24,582 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:06:27,793 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-05 00:06:29,391 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:06:31,797 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:32,193 - INFO - [2] Aderholt, Robert: 在 media 最终找到 2 篇涉华文章
+2026-03-05 00:06:32,210 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:33,145 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-05 00:06:34,982 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:06:36,326 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:38,408 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:06:42,674 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:06:51,234 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-05 00:06:56,575 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-05 00:06:58,171 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-05 00:07:01,121 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:07:38,727 - INFO - 爬虫启动
+2026-03-05 00:07:38,856 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:07:38,857 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:07:38,857 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:07:38,857 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:07:38,857 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:07:41,862 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:07:42,532 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:07:42,912 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:07:43,493 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:07:44,147 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:07:45,093 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:07:45,654 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:07:45,789 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:07:45,903 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:07:49,304 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:00,072 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:08:02,158 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:08:04,518 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:04,564 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:06,175 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-05 00:08:06,985 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-05 00:08:10,808 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:11,749 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:08:12,123 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:16,515 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:08:24,607 - INFO - [2] Aderholt, Robert: 在 media 最终找到 2 篇涉华文章
+2026-03-05 00:08:27,908 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-05 00:08:27,991 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:08:30,448 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:33,133 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:08:33,881 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:08:36,774 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:37,673 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:37,909 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-05 00:08:41,317 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:08:50,406 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-05 00:08:54,918 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:08:57,355 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-05 00:08:58,924 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-05 00:09:47,978 - INFO - 爬虫启动
+2026-03-05 00:09:48,111 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:09:48,111 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:09:48,111 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:09:48,111 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:09:48,112 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:09:51,427 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:09:52,213 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:09:52,267 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:09:52,780 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:09:53,266 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:09:55,416 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:09:55,818 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:09:56,014 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:09:56,821 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:09:57,421 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:13,755 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-05 00:10:15,091 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-05 00:10:15,210 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:10:18,112 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:18,274 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:18,306 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:10:20,363 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:22,297 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:30,514 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:10:34,211 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:10:36,784 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-05 00:10:38,379 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-05 00:10:40,125 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:10:40,344 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:40,584 - INFO - [2] Aderholt, Robert: 在 media 最终找到 2 篇涉华文章
+2026-03-05 00:10:43,348 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:44,820 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:45,003 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:10:50,050 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:10:53,647 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:10:58,654 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-05 00:11:05,473 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-05 00:11:07,179 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-05 00:11:14,479 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:12:46,025 - INFO - 爬虫启动
+2026-03-05 00:13:33,155 - INFO - 爬虫启动
+2026-03-05 00:13:33,285 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:13:33,285 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:13:33,285 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:13:33,285 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:13:33,285 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:13:36,240 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:13:37,465 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:13:37,863 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:13:37,994 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:13:39,338 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:13:42,647 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:13:43,006 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:13:43,127 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:13:53,126 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:13:55,990 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-05 00:13:56,179 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /
+2026-03-05 00:13:57,081 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:14:00,127 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:01,894 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:14:02,202 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:04,706 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:14:04,765 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:07,266 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:15,571 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:14:17,180 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-05 00:14:19,269 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:14:21,546 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:23,961 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-05 00:14:24,771 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-05 00:14:26,953 - INFO - [2] Aderholt, Robert: 在 media 最终找到 2 篇涉华文章
+2026-03-05 00:14:27,249 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:28,760 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:30,981 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:14:36,339 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:14:36,597 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-05 00:14:40,115 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:14:46,312 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-05 00:14:49,660 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:14:52,063 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:15:00,901 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:15:14,302 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-05 00:15:42,625 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:18:58,522 - INFO - 爬虫启动
+2026-03-05 00:19:03,140 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:19:03,140 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:19:03,140 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:19:03,141 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:19:03,141 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:19:06,870 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:19:08,377 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:19:08,836 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:19:08,937 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:19:09,025 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:19:11,270 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:13,292 - INFO - [5] Allen, Rick: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:13,364 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:13,881 - INFO - [1] Adams, Alma: 在 social media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:14,430 - INFO - [4] Alford, Mark: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:31,635 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:19:32,877 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 最终找到 0 篇涉华文章
+2026-03-05 00:19:33,925 - INFO - [5] Allen, Rick: 在 media 最终找到 0 篇涉华文章
+2026-03-05 00:19:35,614 - INFO - [1] Adams, Alma: 在 social media 最终找到 0 篇涉华文章
+2026-03-05 00:19:35,702 - INFO - [2] Aderholt, Robert: 在 media 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:37,807 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:38,691 - INFO - [1] Adams, Alma: 在 job postings 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:38,836 - INFO - [5] Allen, Rick: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:44,231 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:19:48,035 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:19:53,976 - INFO - [5] Allen, Rick: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:19:54,311 - INFO - [2] Aderholt, Robert: 在 media 最终找到 2 篇涉华文章
+2026-03-05 00:19:55,445 - INFO - [1] Adams, Alma: 在 job postings 最终找到 0 篇涉华文章
+2026-03-05 00:19:58,639 - INFO - [5] Allen, Rick: 在 newsletters 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:19:58,835 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:19:59,356 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 最终找到 0 篇涉华文章
+2026-03-05 00:19:59,483 - INFO - [1] Adams, Alma: 在 media center 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:20:01,536 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:20:03,699 - INFO - [3] Aguilar, Pete: 在 press 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:20:04,679 - INFO - [2] Aderholt, Robert: 在 press releases 找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:20:17,790 - INFO - [1] Adams, Alma: 在 media center 最终找到 0 篇涉华文章
+2026-03-05 00:20:21,367 - INFO - [2] Aderholt, Robert: 在 press releases 最终找到 0 篇涉华文章
+2026-03-05 00:20:22,234 - INFO - [5] Allen, Rick: 在 newsletters 最终找到 0 篇涉华文章
+2026-03-05 00:20:22,312 - INFO - [3] Aguilar, Pete: 在 press 最终找到 0 篇涉华文章
+2026-03-05 00:28:15,955 - INFO - 爬虫启动
+2026-03-05 00:28:16,087 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:28:16,087 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:28:16,088 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:28:16,088 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:28:16,088 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:28:19,108 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:28:19,305 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:28:20,690 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:28:21,308 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:28:21,777 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:28:23,310 - INFO - [5] Allen, Rick: 正在处理 media 第 1 页
+2026-03-05 00:28:23,316 - INFO - [5] Allen, Rick: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:24,729 - INFO - [1] Adams, Alma: 正在处理 social media 第 1 页
+2026-03-05 00:28:24,732 - INFO - [1] Adams, Alma: 在 social media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:24,941 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:28:24,941 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/#
+2026-03-05 00:28:24,944 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:26,049 - INFO - [4] Alford, Mark: 正在处理 media 第 1 页
+2026-03-05 00:28:26,054 - INFO - [4] Alford, Mark: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:26,815 - INFO - [2] Aderholt, Robert: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:28:26,818 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:41,500 - INFO - [1] Adams, Alma: 在 social media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:28:41,500 - INFO - [1] Adams, Alma: 完成 social media 的所有翻页，共处理 1 页
+2026-03-05 00:28:44,955 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:28:44,955 - INFO - [2] Aderholt, Robert: 完成 newsletter subscribe 的所有翻页，共处理 1 页
+2026-03-05 00:28:44,990 - INFO - [1] Adams, Alma: 正在处理 job postings 第 1 页
+2026-03-05 00:28:44,993 - INFO - [1] Adams, Alma: 在 job postings 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:45,248 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:28:46,867 - INFO - [5] Allen, Rick: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:28:46,867 - INFO - [5] Allen, Rick: 完成 media 的所有翻页，共处理 1 页
+2026-03-05 00:28:49,005 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 2 页
+2026-03-05 00:28:49,008 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:50,009 - INFO - [2] Aderholt, Robert: 正在处理 media 第 1 页
+2026-03-05 00:28:50,010 - INFO - [2] Aderholt, Robert: 发现翻页链接: https://aderholt.house.gov/?page=0
+2026-03-05 00:28:50,014 - INFO - [2] Aderholt, Robert: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:50,226 - INFO - [5] Allen, Rick: 正在处理 press releases 第 1 页
+2026-03-05 00:28:50,229 - INFO - [5] Allen, Rick: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:28:57,131 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:29:00,795 - INFO - [1] Adams, Alma: 在 job postings 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:00,795 - INFO - [1] Adams, Alma: 完成 job postings 的所有翻页，共处理 1 页
+2026-03-05 00:29:01,727 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:29:03,294 - INFO - [1] Adams, Alma: 正在处理 media center 第 1 页
+2026-03-05 00:29:03,299 - INFO - [1] Adams, Alma: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:06,668 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:29:06,668 - INFO - [3] Aguilar, Pete: 完成 newsletter subscribe 的所有翻页，共处理 2 页
+2026-03-05 00:29:07,842 - INFO - [2] Aderholt, Robert: 在 media 第 1 页最终找到 2 篇涉华文章
+2026-03-05 00:29:11,341 - INFO - [2] Aderholt, Robert: 正在处理 media 第 2 页
+2026-03-05 00:29:11,344 - INFO - [2] Aderholt, Robert: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:11,497 - INFO - [3] Aguilar, Pete: 正在处理 newsletter unsubscribe 第 1 页
+2026-03-05 00:29:11,500 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:15,193 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:29:16,206 - INFO - [5] Allen, Rick: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:16,206 - INFO - [5] Allen, Rick: 完成 press releases 的所有翻页，共处理 1 页
+2026-03-05 00:29:19,449 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 1 页
+2026-03-05 00:29:19,450 - INFO - [5] Allen, Rick: 发现翻页链接: https://allen.house.gov/news/email/default.aspx?Page=2
+2026-03-05 00:29:19,452 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:22,819 - INFO - [1] Adams, Alma: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:22,820 - INFO - [1] Adams, Alma: 完成 media center 的所有翻页，共处理 1 页
+2026-03-05 00:29:29,625 - INFO - [2] Aderholt, Robert: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:29:29,625 - INFO - [2] Aderholt, Robert: 完成 media 的所有翻页，共处理 2 页
+2026-03-05 00:29:30,430 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:30,430 - INFO - [3] Aguilar, Pete: 完成 newsletter unsubscribe 的所有翻页，共处理 1 页
+2026-03-05 00:29:34,415 - INFO - [3] Aguilar, Pete: 正在处理 press 第 1 页
+2026-03-05 00:29:34,416 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/2/
+2026-03-05 00:29:34,416 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/3/
+2026-03-05 00:29:34,416 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/4/
+2026-03-05 00:29:34,416 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/5/
+2026-03-05 00:29:34,416 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/10/
+2026-03-05 00:29:34,419 - INFO - [3] Aguilar, Pete: 在 press 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:35,002 - INFO - [2] Aderholt, Robert: 正在处理 press releases 第 1 页
+2026-03-05 00:29:35,006 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:40,476 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Protecting the Vulnerable...
+2026-03-05 00:29:43,572 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:48,450 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 2 页
+2026-03-05 00:29:48,452 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:29:54,597 - INFO - [3] Aguilar, Pete: 在 press 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:29:57,144 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 00:29:57,144 - INFO - [2] Aderholt, Robert: 完成 press releases 的所有翻页，共处理 1 页
+2026-03-05 00:29:59,552 - INFO - [3] Aguilar, Pete: 正在处理 press 第 2 页
+2026-03-05 00:29:59,555 - INFO - [3] Aguilar, Pete: 在 press 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:30:02,336 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:30:12,424 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:30:12,424 - INFO - [5] Allen, Rick: 完成 newsletters 的所有翻页，共处理 2 页
+2026-03-05 00:30:21,213 - INFO - [3] Aguilar, Pete: 在 press 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:30:25,737 - INFO - [3] Aguilar, Pete: 正在处理 press 第 3 页
+2026-03-05 00:30:25,740 - INFO - [3] Aguilar, Pete: 在 press 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:30:44,621 - INFO - [3] Aguilar, Pete: 在 press 第 3 页最终找到 0 篇涉华文章
+2026-03-05 00:30:44,621 - INFO - [3] Aguilar, Pete: 完成 press 的所有翻页，共处理 3 页
+2026-03-05 00:32:32,630 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:33:34,194 - INFO - 爬虫启动
+2026-03-05 00:33:34,328 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:33:34,328 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:33:34,328 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:33:34,328 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:33:34,328 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:33:38,879 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:33:38,933 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:33:39,049 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:33:39,236 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:33:39,834 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:33:41,661 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:33:41,662 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/#
+2026-03-05 00:33:41,665 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:33:41,977 - INFO - [4] Alford, Mark: 正在处理 media 第 1 页
+2026-03-05 00:33:41,982 - INFO - [4] Alford, Mark: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:33:42,433 - INFO - [2] Aderholt, Robert: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:33:42,436 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:33:43,987 - INFO - [1] Adams, Alma: 正在处理 social media 第 1 页
+2026-03-05 00:33:43,990 - INFO - [1] Adams, Alma: 在 social media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:33:45,176 - INFO - [5] Allen, Rick: 正在处理 media 第 1 页
+2026-03-05 00:33:45,181 - INFO - [5] Allen, Rick: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:33:55,837 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:34:02,283 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:03,469 - INFO - [1] Adams, Alma: 在 social media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:03,469 - INFO - [1] Adams, Alma: 完成 social media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:04,431 - INFO - [5] Allen, Rick: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:04,431 - INFO - [5] Allen, Rick: 完成 media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:07,058 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:07,058 - INFO - [2] Aderholt, Robert: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:07,399 - INFO - [1] Adams, Alma: 正在处理 job postings 第 1 页
+2026-03-05 00:34:07,403 - INFO - [1] Adams, Alma: 在 job postings 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:07,408 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 2 页
+2026-03-05 00:34:07,411 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:08,640 - INFO - [5] Allen, Rick: 正在处理 press releases 第 1 页
+2026-03-05 00:34:08,643 - INFO - [5] Allen, Rick: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:10,451 - INFO - [2] Aderholt, Robert: 正在处理 media 第 1 页
+2026-03-05 00:34:10,452 - INFO - [2] Aderholt, Robert: 发现翻页链接: https://aderholt.house.gov/?page=0
+2026-03-05 00:34:10,456 - INFO - [2] Aderholt, Robert: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:16,484 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:34:19,830 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:34:27,242 - INFO - [5] Allen, Rick: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:27,242 - INFO - [5] Allen, Rick: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:27,976 - INFO - [1] Adams, Alma: 在 job postings 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:27,976 - INFO - [1] Adams, Alma: 完成 job postings 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:28,014 - INFO - [2] Aderholt, Robert: 在 media 第 1 页最终找到 2 篇涉华文章
+2026-03-05 00:34:29,309 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:34:29,309 - INFO - [3] Aguilar, Pete: 完成 newsletter subscribe 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:30,640 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 1 页
+2026-03-05 00:34:30,641 - INFO - [5] Allen, Rick: 发现翻页链接: https://allen.house.gov/news/email/default.aspx?Page=2
+2026-03-05 00:34:30,643 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:32,091 - INFO - [2] Aderholt, Robert: 正在处理 media 第 2 页
+2026-03-05 00:34:32,094 - INFO - [2] Aderholt, Robert: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:33,139 - INFO - [1] Adams, Alma: 正在处理 media center 第 1 页
+2026-03-05 00:34:33,144 - INFO - [1] Adams, Alma: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:33,258 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:34:33,638 - INFO - [3] Aguilar, Pete: 正在处理 newsletter unsubscribe 第 1 页
+2026-03-05 00:34:33,641 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:51,110 - INFO - [2] Aderholt, Robert: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:34:51,110 - INFO - [2] Aderholt, Robert: 完成 media 的所有翻页，共处理 2 页，累计找到 2 篇涉华文章
+2026-03-05 00:34:52,738 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:52,738 - INFO - [3] Aguilar, Pete: 完成 newsletter unsubscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:53,393 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:34:53,991 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:55,886 - INFO - [1] Adams, Alma: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:34:55,887 - INFO - [1] Adams, Alma: 完成 media center 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:34:57,235 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:34:57,903 - INFO - [3] Aguilar, Pete: 正在处理 press 第 1 页
+2026-03-05 00:34:57,904 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/2/
+2026-03-05 00:34:57,904 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/3/
+2026-03-05 00:34:57,904 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/4/
+2026-03-05 00:34:57,904 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/5/
+2026-03-05 00:34:57,904 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/10/
+2026-03-05 00:34:57,908 - INFO - [3] Aguilar, Pete: 在 press 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:34:59,087 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 2 页
+2026-03-05 00:34:59,089 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:35:02,439 - INFO - [2] Aderholt, Robert: 正在处理 press releases 第 1 页
+2026-03-05 00:35:02,443 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:35:06,282 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Protecting the Vulnerable...
+2026-03-05 00:35:16,437 - INFO - [3] Aguilar, Pete: 在 press 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:35:16,749 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:35:16,749 - INFO - [5] Allen, Rick: 完成 newsletters 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 00:35:20,627 - INFO - [3] Aguilar, Pete: 正在处理 press 第 2 页
+2026-03-05 00:35:20,630 - INFO - [3] Aguilar, Pete: 在 press 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:35:25,120 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 00:35:25,120 - INFO - [2] Aderholt, Robert: 完成 press releases 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 00:35:30,106 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:35:40,798 - INFO - [3] Aguilar, Pete: 在 press 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:35:43,170 - INFO - [3] Aguilar, Pete: 正在处理 press 第 3 页
+2026-03-05 00:35:43,175 - INFO - [3] Aguilar, Pete: 在 press 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:35:53,008 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:36:02,508 - INFO - [3] Aguilar, Pete: 在 press 第 3 页最终找到 0 篇涉华文章
+2026-03-05 00:36:06,269 - INFO - [3] Aguilar, Pete: 正在处理 press 第 4 页
+2026-03-05 00:36:06,272 - INFO - [3] Aguilar, Pete: 在 press 第 4 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:36:29,603 - INFO - [3] Aguilar, Pete: 在 press 第 4 页最终找到 0 篇涉华文章
+2026-03-05 00:36:34,543 - INFO - [3] Aguilar, Pete: 正在处理 press 第 5 页
+2026-03-05 00:36:34,545 - INFO - [3] Aguilar, Pete: 在 press 第 5 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:36:53,391 - INFO - [3] Aguilar, Pete: 在 press 第 5 页最终找到 0 篇涉华文章
+2026-03-05 00:36:57,618 - INFO - [3] Aguilar, Pete: 正在处理 press 第 6 页
+2026-03-05 00:36:57,621 - INFO - [3] Aguilar, Pete: 在 press 第 6 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:04,735 - INFO - 爬虫启动
+2026-03-05 00:39:07,950 - INFO - [1] 正在处理: Adams, Alma - https://adams.house.gov
+2026-03-05 00:39:07,950 - INFO - [2] 正在处理: Aderholt, Robert - https://aderholt.house.gov/
+2026-03-05 00:39:07,950 - INFO - [3] 正在处理: Aguilar, Pete - https://aguilar.house.gov/
+2026-03-05 00:39:07,950 - INFO - [4] 正在处理: Alford, Mark - https://alford.house.gov
+2026-03-05 00:39:07,950 - INFO - [5] 正在处理: Allen, Rick - https://allen.house.gov
+2026-03-05 00:39:11,631 - INFO - [2] Aderholt, Robert: 找到 7 个新闻相关链接
+2026-03-05 00:39:11,765 - INFO - [4] Alford, Mark: 找到 6 个新闻相关链接
+2026-03-05 00:39:12,091 - INFO - [3] Aguilar, Pete: 找到 5 个新闻相关链接
+2026-03-05 00:39:13,059 - INFO - [1] Adams, Alma: 找到 14 个新闻相关链接
+2026-03-05 00:39:14,461 - INFO - [5] Allen, Rick: 找到 4 个新闻相关链接
+2026-03-05 00:39:14,679 - INFO - [2] Aderholt, Robert: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:39:14,683 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:15,156 - INFO - [4] Alford, Mark: 正在处理 media 第 1 页
+2026-03-05 00:39:15,162 - INFO - [4] Alford, Mark: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:15,829 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 1 页
+2026-03-05 00:39:15,830 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/#
+2026-03-05 00:39:15,833 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:18,280 - INFO - [1] Adams, Alma: 正在处理 social media 第 1 页
+2026-03-05 00:39:18,283 - INFO - [1] Adams, Alma: 在 social media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:18,289 - INFO - [5] Allen, Rick: 正在处理 media 第 1 页
+2026-03-05 00:39:18,295 - INFO - [5] Allen, Rick: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:31,417 - INFO - [2] Aderholt, Robert: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:39:31,417 - INFO - [2] Aderholt, Robert: 完成 newsletter subscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:39:35,490 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:39:36,186 - INFO - [2] Aderholt, Robert: 正在处理 media 第 1 页
+2026-03-05 00:39:36,188 - INFO - [2] Aderholt, Robert: 发现翻页链接: https://aderholt.house.gov/?page=0
+2026-03-05 00:39:36,194 - INFO - [2] Aderholt, Robert: 在 media 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:37,992 - INFO - [1] Adams, Alma: 在 social media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:39:37,992 - INFO - [1] Adams, Alma: 完成 social media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:39:39,057 - INFO - [5] Allen, Rick: 在 media 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:39:39,057 - INFO - [5] Allen, Rick: 完成 media 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:39:39,194 - INFO - [3] Aguilar, Pete: 正在处理 newsletter subscribe 第 2 页
+2026-03-05 00:39:39,200 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:41,470 - INFO - [1] Adams, Alma: 正在处理 job postings 第 1 页
+2026-03-05 00:39:41,473 - INFO - [1] Adams, Alma: 在 job postings 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:42,468 - INFO - [5] Allen, Rick: 正在处理 press releases 第 1 页
+2026-03-05 00:39:42,472 - INFO - [5] Allen, Rick: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:39:44,020 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - American Strength...
+2026-03-05 00:39:49,071 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Faith and Religious Freedom...
+2026-03-05 00:39:57,939 - INFO - [2] Aderholt, Robert: 在 media 第 1 页最终找到 2 篇涉华文章
+2026-03-05 00:40:02,583 - INFO - [2] Aderholt, Robert: 正在处理 media 第 2 页
+2026-03-05 00:40:02,586 - INFO - [2] Aderholt, Robert: 在 media 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:04,633 - INFO - [5] Allen, Rick: 在 press releases 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:04,633 - INFO - [5] Allen, Rick: 完成 press releases 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:40:05,173 - INFO - [1] Adams, Alma: 在 job postings 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:05,173 - INFO - [1] Adams, Alma: 完成 job postings 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:40:06,846 - INFO - [3] Aguilar, Pete: 在 newsletter subscribe 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:40:06,846 - INFO - [3] Aguilar, Pete: 完成 newsletter subscribe 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 00:40:07,976 - INFO - [1] Adams, Alma: 正在处理 media center 第 1 页
+2026-03-05 00:40:07,981 - INFO - [1] Adams, Alma: 在 media center 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:11,150 - INFO - [3] Aguilar, Pete: 正在处理 newsletter unsubscribe 第 1 页
+2026-03-05 00:40:11,152 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:12,086 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 1 页
+2026-03-05 00:40:12,088 - INFO - [5] Allen, Rick: 发现翻页链接: https://allen.house.gov/news/email/default.aspx?Page=2
+2026-03-05 00:40:12,091 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:24,159 - INFO - [2] Aderholt, Robert: 在 media 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:40:24,160 - INFO - [2] Aderholt, Robert: 完成 media 的所有翻页，共处理 2 页，累计找到 2 篇涉华文章
+2026-03-05 00:40:28,643 - INFO - [3] Aguilar, Pete: 在 newsletter unsubscribe 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:28,643 - INFO - [3] Aguilar, Pete: 完成 newsletter unsubscribe 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:40:29,181 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:40:29,902 - INFO - [1] Adams, Alma: 在 media center 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:29,902 - INFO - [1] Adams, Alma: 完成 media center 的所有翻页，共处理 1 页，累计找到 0 篇涉华文章
+2026-03-05 00:40:32,448 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:40:32,721 - INFO - [5] Allen, Rick: 在 newsletters 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:33,542 - INFO - [3] Aguilar, Pete: 正在处理 press 第 1 页
+2026-03-05 00:40:33,543 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/2/
+2026-03-05 00:40:33,543 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/3/
+2026-03-05 00:40:33,543 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/4/
+2026-03-05 00:40:33,543 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/5/
+2026-03-05 00:40:33,543 - INFO - [3] Aguilar, Pete: 发现翻页链接: https://aguilar.house.gov/press/page/10/
+2026-03-05 00:40:33,547 - INFO - [3] Aguilar, Pete: 在 press 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:34,124 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /capital-recap/
+2026-03-05 00:40:36,993 - INFO - [2] Aderholt, Robert: 正在处理 press releases 第 1 页
+2026-03-05 00:40:36,998 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:37,744 - INFO - [5] Allen, Rick: 正在处理 newsletters 第 2 页
+2026-03-05 00:40:37,746 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:39,776 - INFO - [2] Aderholt, Robert: 潜在文章中发现涉华内容 - Protecting the Vulnerable...
+2026-03-05 00:40:54,082 - INFO - [3] Aguilar, Pete: 在 press 第 1 页最终找到 0 篇涉华文章
+2026-03-05 00:40:55,965 - INFO - [2] Aderholt, Robert: 在 press releases 第 1 页最终找到 1 篇涉华文章
+2026-03-05 00:40:55,965 - INFO - [2] Aderholt, Robert: 完成 press releases 的所有翻页，共处理 1 页，累计找到 1 篇涉华文章
+2026-03-05 00:40:56,886 - INFO - [3] Aguilar, Pete: 正在处理 press 第 2 页
+2026-03-05 00:40:56,890 - INFO - [3] Aguilar, Pete: 在 press 第 2 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:40:57,985 - INFO - [5] Allen, Rick: 在 newsletters 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:40:57,985 - INFO - [5] Allen, Rick: 完成 newsletters 的所有翻页，共处理 2 页，累计找到 0 篇涉华文章
+2026-03-05 00:41:00,933 - INFO - [2] Aderholt, Robert: 文章日期早于2021年，跳过
+2026-03-05 00:41:14,023 - INFO - [3] Aguilar, Pete: 在 press 第 2 页最终找到 0 篇涉华文章
+2026-03-05 00:41:17,031 - INFO - [3] Aguilar, Pete: 正在处理 press 第 3 页
+2026-03-05 00:41:17,034 - INFO - [3] Aguilar, Pete: 在 press 第 3 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:41:37,902 - INFO - [3] Aguilar, Pete: 在 press 第 3 页最终找到 0 篇涉华文章
+2026-03-05 00:41:41,600 - INFO - [3] Aguilar, Pete: 正在处理 press 第 4 页
+2026-03-05 00:41:41,603 - INFO - [3] Aguilar, Pete: 在 press 第 4 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:42:00,575 - INFO - [3] Aguilar, Pete: 在 press 第 4 页最终找到 0 篇涉华文章
+2026-03-05 00:42:03,012 - INFO - [3] Aguilar, Pete: 正在处理 press 第 5 页
+2026-03-05 00:42:03,014 - INFO - [3] Aguilar, Pete: 在 press 第 5 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:42:25,755 - INFO - [3] Aguilar, Pete: 在 press 第 5 页最终找到 0 篇涉华文章
+2026-03-05 00:42:30,963 - INFO - [3] Aguilar, Pete: 正在处理 press 第 6 页
+2026-03-05 00:42:30,965 - INFO - [3] Aguilar, Pete: 在 press 第 6 页找到 0 篇标题含涉华关键词的文章
+2026-03-05 00:42:50,053 - INFO - [3] Aguilar, Pete: 在 press 第 6 页最终找到 0 篇涉华文章
+2026-03-05 00:42:50,053 - INFO - [3] Aguilar, Pete: 完成 press 的所有翻页，共处理 6 页，累计找到 0 篇涉华文章
