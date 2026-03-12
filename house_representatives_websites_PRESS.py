@@ -21,9 +21,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
 # 配置参数
-MAX_WORKERS = 5  # 并发浏览器数
-PAGE_LOAD_TIMEOUT = 30
-IMPLICIT_WAIT = 10
+MAX_WORKERS = 5  # 并发浏览器数，兼顾效率和稳定性
+PAGE_LOAD_TIMEOUT = 25  # 页面加载超时时间
+SCRIPT_TIMEOUT = 20  # 脚本执行超时时间
+IMPLICIT_WAIT = 8  # 隐式等待时间
+MAX_RETRIES = 3  # 最大重试次数（不超过3次）
+MIN_DELAY_BETWEEN_REQUESTS = 2  # 请求间最小延迟（秒）
+MAX_DELAY_BETWEEN_REQUESTS = 4  # 请求间最大延迟（秒）
 
 # 全局变量
 progress_lock = threading.Lock()
@@ -109,6 +113,11 @@ def create_driver():
     options.add_experimental_option('excludeSwitches', ['enable-automation'])
     options.add_experimental_option('useAutomationExtension', False)
     
+    # 优化性能
+    options.add_argument('--disable-extensions')
+    options.add_argument('--disable-images')
+    options.add_argument('--disable-css')
+    
     user_agents = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -118,13 +127,18 @@ def create_driver():
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
     driver.set_page_load_timeout(PAGE_LOAD_TIMEOUT)
+    driver.set_script_timeout(SCRIPT_TIMEOUT)
     driver.implicitly_wait(IMPLICIT_WAIT)
 
     return driver
 
 
-def smart_delay(min_delay=1.0, max_delay=2.0):
-    """智能延迟"""
+def smart_delay(min_delay=None, max_delay=None):
+    """智能延迟 - 使用配置参数控制延迟，避免IP被封"""
+    if min_delay is None:
+        min_delay = MIN_DELAY_BETWEEN_REQUESTS
+    if max_delay is None:
+        max_delay = MAX_DELAY_BETWEEN_REQUESTS
     delay = random.uniform(min_delay, max_delay)
     time.sleep(delay)
 
@@ -136,6 +150,36 @@ def normalize_url(url):
     if parsed.query:
         return f"{parsed.scheme}://{parsed.netloc}{parsed.path}?{parsed.query}"
     return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+
+
+def load_page_with_retry(driver, url, max_retries=MAX_RETRIES):
+    """带重试机制的页面加载 - 最多重试3次，避免IP被封"""
+    from selenium.common.exceptions import TimeoutException, WebDriverException
+    
+    for attempt in range(max_retries):
+        try:
+            driver.get(url)
+            return True
+        except TimeoutException:
+            logger.warning(f"页面加载超时 (尝试 {attempt + 1}/{max_retries}): {url}")
+            if attempt < max_retries - 1:
+                # 使用更长的延迟，避免IP被封
+                wait_time = 3 + attempt * 2  # 第1次等待3秒，第2次等待5秒
+                logger.info(f"等待 {wait_time} 秒后重试...")
+                time.sleep(wait_time)
+            else:
+                logger.error(f"页面加载失败，已达最大重试次数 ({max_retries}): {url}")
+                return False
+        except WebDriverException as e:
+            logger.warning(f"页面加载失败 (尝试 {attempt + 1}/{max_retries}): {url}, 错误: {str(e)}")
+            if attempt < max_retries - 1:
+                wait_time = 3 + attempt * 2
+                logger.info(f"等待 {wait_time} 秒后重试...")
+                time.sleep(wait_time)
+            else:
+                logger.error(f"页面加载失败，已达最大重试次数 ({max_retries}): {url}")
+                return False
+    return False
 
 
 def find_press_releases_link(driver, base_url, exclude_media_center=False):
@@ -168,20 +212,26 @@ def find_press_releases_link(driver, base_url, exclude_media_center=False):
                     continue
 
                 # 如果exclude_media_center为True，跳过Media Center等一级菜单链接
+                # 但保留包含 "press releases" 的链接
                 if exclude_media_center:
                     # 检查是否是一级菜单链接（media center, media-center等）
-                    is_media_center = False
-                    for mc_keyword in ['media center', 'media-center', 'newsroom', 'news room']:
-                        if mc_keyword in text_lower or mc_keyword in href_lower:
-                            is_media_center = True
-                            break
-                    # 如果是一级菜单链接，跳过
-                    if is_media_center:
-                        continue
-                    # 如果链接文本只包含"media"/"press"/"news"但不包含"releases"，也跳过
-                    if (text_lower in ['media', 'press', 'news', 'media center', 'press room', 'newsroom']) and \
-                       ('release' not in text_lower and 'releases' not in text_lower):
-                        continue
+                    # 但链接文本包含 "press releases" 的不跳过
+                    has_press_release = 'press release' in text_lower or 'press-release' in href_lower
+                    
+                    if not has_press_release:
+                        # 检查是否是一级菜单链接
+                        is_media_center = False
+                        for mc_keyword in ['media center', 'media-center', 'newsroom', 'news room']:
+                            if mc_keyword in text_lower or mc_keyword in href_lower:
+                                is_media_center = True
+                                break
+                        # 如果是一级菜单链接且不是press releases，跳过
+                        if is_media_center:
+                            continue
+                        # 如果链接文本只包含"media"/"press"/"news"但不包含"releases"，也跳过
+                        if (text_lower in ['media', 'press', 'news']) and \
+                           ('release' not in text_lower):
+                            continue
 
                 for keyword in PRESS_RELEASES_KEYWORDS:
                     if keyword in href_lower or keyword in text_lower or keyword in title.lower():
@@ -193,7 +243,7 @@ def find_press_releases_link(driver, base_url, exclude_media_center=False):
                                 'text': text if text else keyword
                             })
                             break
-            except:
+            except Exception:
                 continue
     except Exception as e:
         logger.warning(f"查找Press Releases链接失败: {str(e)}")
@@ -213,7 +263,6 @@ def find_primary_menu_links(driver, base_url):
             try:
                 href = link.get_attribute('href')
                 text = link.text.strip()
-                title = link.get_attribute('title') or ''
 
                 if not href:
                     continue
@@ -230,7 +279,7 @@ def find_primary_menu_links(driver, base_url):
                             'url': full_url,
                             'text': text if text else 'Media/Press/News'
                         })
-            except:
+            except Exception:
                 continue
     except Exception as e:
         logger.warning(f"查找一级菜单失败: {str(e)}")
@@ -238,11 +287,23 @@ def find_primary_menu_links(driver, base_url):
     return menu_links
 
 
+def get_unique_links(links):
+    """去重链接列表"""
+    seen_urls = set()
+    unique_links = []
+    for link in links:
+        norm_url = normalize_url(link['url'])
+        if norm_url not in seen_urls:
+            seen_urls.add(norm_url)
+            unique_links.append(link)
+    return unique_links
+
+
 def find_press_release_url(index, name, website, district, state, party, committee):
     """查找单个议员的Press Release页面URL"""
     global completed_count, total_count, results
 
-    from selenium.common.exceptions import TimeoutException
+    from selenium.common.exceptions import TimeoutException, WebDriverException
 
     driver = None
     result = {
@@ -262,21 +323,20 @@ def find_press_release_url(index, name, website, district, state, party, committ
         driver = create_driver()
         logger.info(f"[{index}] {name}: 开始查找 {website}")
 
-        smart_delay()
-        driver.get(website)
+        smart_delay()  # 使用默认延迟（2-4秒）
+        
+        # 使用带重试的页面加载
+        if not load_page_with_retry(driver, website):
+            result['status'] = 'timeout'
+            logger.error(f"[{index}] {name}: 页面加载超时")
+            failed_sites.append({'name': name, 'website': website, 'error': '页面加载超时'})
+            return result
 
-        # 第一步：直接在主页查找Press Releases链接（排除Media Center等一级菜单）
+        # 第一步：直接在主页查找Press Releases链接（排除Media Center等一级菜单，但保留Press Releases）
         pr_links = find_press_releases_link(driver, website, exclude_media_center=True)
 
         if pr_links:
-            # 去重并选择第一个
-            seen_urls = set()
-            unique_links = []
-            for link in pr_links:
-                norm_url = normalize_url(link['url'])
-                if norm_url not in seen_urls:
-                    seen_urls.add(norm_url)
-                    unique_links.append(link)
+            unique_links = get_unique_links(pr_links)
             
             if unique_links:
                 result['press_release_url'] = unique_links[0]['url']
@@ -294,21 +354,18 @@ def find_press_release_url(index, name, website, district, state, party, committ
                 
                 for menu_link in menu_links[:3]:
                     try:
-                        smart_delay()
-                        driver.get(menu_link['url'])
+                        smart_delay()  # 使用默认延迟（2-4秒）
+                        
+                        # 使用带重试的页面加载
+                        if not load_page_with_retry(driver, menu_link['url']):
+                            logger.warning(f"[{index}] {name}: 菜单页面加载超时 - {menu_link['url']}")
+                            continue
 
-                        # 在一级菜单页面查找Press Releases链接（不排除Media Center，因为有些网站Press Releases在Media Center下）
+                        # 在一级菜单页面查找Press Releases链接（不排除Media Center）
                         sub_pr_links = find_press_releases_link(driver, website, exclude_media_center=False)
                         
                         if sub_pr_links:
-                            # 去重
-                            seen_urls = set()
-                            unique_links = []
-                            for link in sub_pr_links:
-                                norm_url = normalize_url(link['url'])
-                                if norm_url not in seen_urls:
-                                    seen_urls.add(norm_url)
-                                    unique_links.append(link)
+                            unique_links = get_unique_links(sub_pr_links)
                             
                             if unique_links:
                                 result['press_release_url'] = unique_links[0]['url']
@@ -330,6 +387,11 @@ def find_press_release_url(index, name, website, district, state, party, committ
         error_msg = f"页面加载超时"
         logger.error(f"[{index}] {name}: {error_msg}")
         failed_sites.append({'name': name, 'website': website, 'error': error_msg})
+    except WebDriverException as e:
+        result['status'] = 'error'
+        error_msg = f"WebDriver错误: {str(e)}"
+        logger.error(f"[{index}] {name}: {error_msg}")
+        failed_sites.append({'name': name, 'website': website, 'error': error_msg})
     except Exception as e:
         result['status'] = 'error'
         error_msg = f"未知错误: {str(e)}"
@@ -339,7 +401,7 @@ def find_press_release_url(index, name, website, district, state, party, committ
         if driver:
             try:
                 driver.quit()
-            except:
+            except Exception:
                 pass
 
     with progress_lock:

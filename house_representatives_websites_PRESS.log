@@ -15,3 +15,177 @@
 2026-03-12 17:44:18,135 - INFO - [1] Adams, Alma: 在菜单 Press Release 中找到Press Release链接 - https://adams.house.gov/media-center/press-releases#main-content
 2026-03-12 17:44:21,158 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
 2026-03-12 17:44:21,167 - INFO - 查找结束 - 成功: 4, 未找到: 1, 失败: 0
+2026-03-12 17:55:10,348 - INFO - Press Release URL查找工具启动
+2026-03-12 17:55:37,033 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-12 17:55:37,034 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-12 17:55:37,037 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-12 17:55:37,037 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-12 17:55:37,038 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-12 17:55:58,883 - ERROR - [4] Alford, Mark: 未知错误: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=146.0.7680.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xb4ee63+10893]
+	chromedriver!GetHandleVerifier [0xb4ef94+109c4]
+	chromedriver!(No symbol) [0x932130]
+	chromedriver!(No symbol) [0x92f63e]
+	chromedriver!(No symbol) [0x9226f4]
+	chromedriver!(No symbol) [0x92415c]
+	chromedriver!(No symbol) [0x922b92]
+	chromedriver!(No symbol) [0x9224c5]
+	chromedriver!(No symbol) [0x9221c5]
+	chromedriver!(No symbol) [0x9202d8]
+	chromedriver!(No symbol) [0x9209ea]
+	chromedriver!(No symbol) [0x935bce]
+	chromedriver!(No symbol) [0x9bb3d4]
+	chromedriver!(No symbol) [0x99dafc]
+	chromedriver!(No symbol) [0x9ba8d4]
+	chromedriver!(No symbol) [0x99d896]
+	chromedriver!(No symbol) [0x970229]
+	chromedriver!(No symbol) [0x970fe4]
+	chromedriver!GetHandleVerifier [0xdb1fe9+273a19]
+	chromedriver!GetHandleVerifier [0xdad5f3+26f023]
+	chromedriver!GetHandleVerifier [0xdcb31b+28cd4b]
+	chromedriver!GetHandleVerifier [0xb67dd8+29808]
+	chromedriver!GetHandleVerifier [0xb6fb1d+3154d]
+	chromedriver!GetHandleVerifier [0xb57888+192b8]
+	chromedriver!GetHandleVerifier [0xb57a52+19482]
+	chromedriver!GetHandleVerifier [0xb4116a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76c6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc827e+ee]
+
+2026-03-12 17:55:59,275 - ERROR - [3] Aguilar, Pete: 未知错误: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=146.0.7680.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xb4ee63+10893]
+	chromedriver!GetHandleVerifier [0xb4ef94+109c4]
+	chromedriver!(No symbol) [0x932130]
+	chromedriver!(No symbol) [0x92f63e]
+	chromedriver!(No symbol) [0x9226f4]
+	chromedriver!(No symbol) [0x92415c]
+	chromedriver!(No symbol) [0x922b92]
+	chromedriver!(No symbol) [0x9224c5]
+	chromedriver!(No symbol) [0x9221c5]
+	chromedriver!(No symbol) [0x9202d8]
+	chromedriver!(No symbol) [0x9209ea]
+	chromedriver!(No symbol) [0x935bce]
+	chromedriver!(No symbol) [0x9bb3d4]
+	chromedriver!(No symbol) [0x99dafc]
+	chromedriver!(No symbol) [0x9ba8d4]
+	chromedriver!(No symbol) [0x99d896]
+	chromedriver!(No symbol) [0x970229]
+	chromedriver!(No symbol) [0x970fe4]
+	chromedriver!GetHandleVerifier [0xdb1fe9+273a19]
+	chromedriver!GetHandleVerifier [0xdad5f3+26f023]
+	chromedriver!GetHandleVerifier [0xdcb31b+28cd4b]
+	chromedriver!GetHandleVerifier [0xb67dd8+29808]
+	chromedriver!GetHandleVerifier [0xb6fb1d+3154d]
+	chromedriver!GetHandleVerifier [0xb57888+192b8]
+	chromedriver!GetHandleVerifier [0xb57a52+19482]
+	chromedriver!GetHandleVerifier [0xb4116a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76c6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc827e+ee]
+
+2026-03-12 17:55:59,401 - ERROR - [2] Aderholt, Robert: 未知错误: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=146.0.7680.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xb4ee63+10893]
+	chromedriver!GetHandleVerifier [0xb4ef94+109c4]
+	chromedriver!(No symbol) [0x932130]
+	chromedriver!(No symbol) [0x92f63e]
+	chromedriver!(No symbol) [0x9226f4]
+	chromedriver!(No symbol) [0x92415c]
+	chromedriver!(No symbol) [0x922b92]
+	chromedriver!(No symbol) [0x9224c5]
+	chromedriver!(No symbol) [0x9221c5]
+	chromedriver!(No symbol) [0x9202d8]
+	chromedriver!(No symbol) [0x9209ea]
+	chromedriver!(No symbol) [0x935bce]
+	chromedriver!(No symbol) [0x9bb3d4]
+	chromedriver!(No symbol) [0x99dafc]
+	chromedriver!(No symbol) [0x9ba8d4]
+	chromedriver!(No symbol) [0x99d896]
+	chromedriver!(No symbol) [0x970229]
+	chromedriver!(No symbol) [0x970fe4]
+	chromedriver!GetHandleVerifier [0xdb1fe9+273a19]
+	chromedriver!GetHandleVerifier [0xdad5f3+26f023]
+	chromedriver!GetHandleVerifier [0xdcb31b+28cd4b]
+	chromedriver!GetHandleVerifier [0xb67dd8+29808]
+	chromedriver!GetHandleVerifier [0xb6fb1d+3154d]
+	chromedriver!GetHandleVerifier [0xb57888+192b8]
+	chromedriver!GetHandleVerifier [0xb57a52+19482]
+	chromedriver!GetHandleVerifier [0xb4116a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76c6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc827e+ee]
+
+2026-03-12 17:56:08,296 - ERROR - [1] Adams, Alma: 页面加载超时
+2026-03-12 17:56:08,415 - ERROR - [5] Allen, Rick: 页面加载超时
+2026-03-12 17:56:10,608 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
+2026-03-12 17:56:10,610 - INFO - 查找结束 - 成功: 0, 未找到: 0, 失败: 5
+2026-03-12 17:56:19,090 - INFO - Press Release URL查找工具启动
+2026-03-12 17:56:57,824 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-12 17:56:57,840 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-12 17:56:57,848 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-12 17:56:57,850 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-12 17:56:57,874 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-12 17:57:29,970 - ERROR - [2] Aderholt, Robert: 页面加载超时
+2026-03-12 17:57:30,016 - ERROR - [4] Alford, Mark: 页面加载超时
+2026-03-12 17:57:51,749 - INFO - [3] Aguilar, Pete: 直接在主页找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-12 17:57:55,869 - ERROR - [1] Adams, Alma: 页面加载超时
+2026-03-12 17:57:56,382 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-12 17:58:09,406 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-12 17:58:23,190 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
+2026-03-12 17:58:23,196 - INFO - 查找结束 - 成功: 2, 未找到: 0, 失败: 3
+2026-03-12 18:07:50,375 - INFO - Press Release URL查找工具启动
+2026-03-12 18:08:09,595 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-12 18:08:09,603 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-12 18:08:09,560 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-12 18:08:09,584 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-12 18:08:09,607 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-12 18:08:38,394 - WARNING - 页面加载超时 (尝试 1/3): https://alford.house.gov
+2026-03-12 18:08:39,261 - INFO - 等待 3 秒后重试...
+2026-03-12 18:08:41,712 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc8ee63+10893]
+	chromedriver!GetHandleVerifier [0xc8ef94+109c4]
+	chromedriver!(No symbol) [0xa72130]
+	chromedriver!(No symbol) [0xa62493]
+	chromedriver!(No symbol) [0xa621c5]
+	chromedriver!(No symbol) [0xa602d8]
+	chromedriver!(No symbol) [0xa60b26]
+	chromedriver!(No symbol) [0xa6d9db]
+	chromedriver!(No symbol) [0xa7f77e]
+	chromedriver!(No symbol) [0xa851e6]
+	chromedriver!(No symbol) [0xa611ac]
+	chromedriver!(No symbol) [0xa7f4f2]
+	chromedriver!(No symbol) [0xafa7e4]
+	chromedriver!(No symbol) [0xadd896]
+	chromedriver!(No symbol) [0xab0229]
+	chromedriver!(No symbol) [0xab0fe4]
+	chromedriver!GetHandleVerifier [0xef1fe9+273a19]
+	chromedriver!GetHandleVerifier [0xeed5f3+26f023]
+	chromedriver!GetHandleVerifier [0xf0b31b+28cd4b]
+	chromedriver!GetHandleVerifier [0xca7dd8+29808]
+	chromedriver!GetHandleVerifier [0xcafb1d+3154d]
+	chromedriver!GetHandleVerifier [0xc97888+192b8]
+	chromedriver!GetHandleVerifier [0xc97a52+19482]
+	chromedriver!GetHandleVerifier [0xc8116a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76c6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77dc827e+ee]
+
+2026-03-12 18:08:50,550 - INFO - [3] Aguilar, Pete: 找到 6 个一级菜单链接，开始检查...
+2026-03-12 18:09:03,452 - WARNING - 页面加载超时 (尝试 1/3): https://aderholt.house.gov/
+2026-03-12 18:09:03,458 - INFO - 等待 3 秒后重试...
+2026-03-12 18:09:03,588 - WARNING - 页面加载超时 (尝试 1/3): https://adams.house.gov
+2026-03-12 18:09:03,599 - INFO - 等待 3 秒后重试...
+2026-03-12 18:09:13,321 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-12 18:09:14,009 - WARNING - 页面加载超时 (尝试 2/3): https://alford.house.gov
+2026-03-12 18:09:14,013 - INFO - 等待 5 秒后重试...
+2026-03-12 18:09:33,314 - INFO - [3] Aguilar, Pete: 在菜单 PRESS 中找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-12 18:09:34,936 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-12 18:09:35,602 - INFO - [2] Aderholt, Robert: 直接在主页找到Press Release链接 - https://aderholt.house.gov/media-center/press-releases
+2026-03-12 18:09:36,412 - INFO - [1] Adams, Alma: 直接在主页找到Press Release链接 - https://adams.house.gov/media-center/press-releases

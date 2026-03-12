@@ -1,6 +1,6 @@
 ﻿name,website,district,state,party,committee,press_release_url,press_release_text,found_method,status
 "Aguilar, Pete",https://aguilar.house.gov/,California 33rd,California,D,Appropriations,https://aguilar.house.gov/category/congress_press_release/,Press Releases,direct,success
-"Aderholt, Robert",https://aderholt.house.gov/,Alabama 4th,Alabama,R,Appropriations,https://aderholt.house.gov/media-center,MEDIA,via_menu:MEDIA,success
-"Alford, Mark",https://alford.house.gov,Missouri 4th,Missouri,R,Appropriations|Small Business,https://alford.house.gov/news/documentquery.aspx?DocumentTypeID=27,Press Releases,via_menu:MEDIA,success
-"Allen, Rick",https://allen.house.gov,Georgia 12th,Georgia,R,Education and Workforce|Energy and Commerce,,,,not_found
-"Adams, Alma",https://adams.house.gov,North Carolina 12th,North Carolina,D,Agriculture|Education and Workforce,https://adams.house.gov/media-center/press-releases#main-content,Skip to main content,via_menu:Press Release,success
+"Allen, Rick",https://allen.house.gov,Georgia 12th,Georgia,R,Education and Workforce|Energy and Commerce,https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27,Press Releases,via_menu:MEDIA,success
+"Aderholt, Robert",https://aderholt.house.gov/,Alabama 4th,Alabama,R,Appropriations,,,,timeout
+"Adams, Alma",https://adams.house.gov,North Carolina 12th,North Carolina,D,Agriculture|Education and Workforce,,,,timeout
+"Alford, Mark",https://alford.house.gov,Missouri 4th,Missouri,R,Appropriations|Small Business,,,,timeout
