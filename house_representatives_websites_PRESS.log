@@ -1,0 +1,17 @@
+2026-03-12 17:42:58,412 - INFO - Press Release URL查找工具启动
+2026-03-12 17:43:17,621 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-12 17:43:17,621 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-12 17:43:17,622 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-12 17:43:17,622 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-12 17:43:17,627 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-12 17:43:40,278 - INFO - [3] Aguilar, Pete: 直接在主页找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-12 17:43:47,968 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-12 17:43:55,129 - INFO - [5] Allen, Rick: 未找到Press Release页面
+2026-03-12 17:43:56,957 - INFO - [2] Aderholt, Robert: 找到 5 个一级菜单链接，开始检查...
+2026-03-12 17:43:57,235 - INFO - [4] Alford, Mark: 找到 2 个一级菜单链接，开始检查...
+2026-03-12 17:44:04,570 - INFO - [1] Adams, Alma: 找到 4 个一级菜单链接，开始检查...
+2026-03-12 17:44:08,428 - INFO - [2] Aderholt, Robert: 在菜单 MEDIA 中找到Press Release链接 - https://aderholt.house.gov/media-center
+2026-03-12 17:44:12,822 - INFO - [4] Alford, Mark: 在菜单 MEDIA 中找到Press Release链接 - https://alford.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-12 17:44:18,135 - INFO - [1] Adams, Alma: 在菜单 Press Release 中找到Press Release链接 - https://adams.house.gov/media-center/press-releases#main-content
+2026-03-12 17:44:21,158 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
+2026-03-12 17:44:21,167 - INFO - 查找结束 - 成功: 4, 未找到: 1, 失败: 0
