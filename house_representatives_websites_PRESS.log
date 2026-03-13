@@ -189,3 +189,1511 @@ Stacktrace:
 2026-03-12 18:09:34,936 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
 2026-03-12 18:09:35,602 - INFO - [2] Aderholt, Robert: 直接在主页找到Press Release链接 - https://aderholt.house.gov/media-center/press-releases
 2026-03-12 18:09:36,412 - INFO - [1] Adams, Alma: 直接在主页找到Press Release链接 - https://adams.house.gov/media-center/press-releases
+2026-03-13 09:12:51,718 - INFO - Press Release URL查找工具启动
+2026-03-13 09:13:19,966 - ERROR - [1] Adams, Alma: 未知错误: [WinError 5] 拒绝访问。: 'C:\\Users\\user\\.wdm\\drivers\\chromedriver\\win64\\146.0.7680.76\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\user\\.wdm\\drivers\\chromedriver\\win64\\146.0.7680.76\\chromedriver.exe'
+2026-03-13 09:13:24,320 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-13 09:13:24,320 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-13 09:13:24,320 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-13 09:13:24,321 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-13 09:13:38,944 - INFO - [3] Aguilar, Pete: 直接在主页找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-13 09:13:39,508 - INFO - [2] Aderholt, Robert: 直接在主页找到Press Release链接 - https://aderholt.house.gov/media-center/press-releases
+2026-03-13 09:13:41,055 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:13:43,579 - INFO - [4] Alford, Mark: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:13:47,867 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:13:50,911 - INFO - [4] Alford, Mark: 在菜单 MEDIA 中找到Press Release链接 - https://alford.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:13:53,163 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
+2026-03-13 09:13:53,166 - INFO - 查找结束 - 成功: 4, 未找到: 0, 失败: 1
+2026-03-13 09:20:39,094 - INFO - Press Release URL查找工具启动
+2026-03-13 09:20:46,779 - INFO - ChromeDriver已安装: C:\Users\user\.wdm\drivers\chromedriver\win64\146.0.7680.76\chromedriver-win32/chromedriver.exe
+2026-03-13 09:20:52,738 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-13 09:20:52,742 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-13 09:20:52,745 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-13 09:20:52,745 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-13 09:20:52,746 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-13 09:21:13,386 - INFO - [3] Aguilar, Pete: 直接在主页找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-13 09:21:14,314 - INFO - [1] Adams, Alma: 直接在主页找到Press Release链接 - https://adams.house.gov/media-center/press-releases
+2026-03-13 09:21:14,880 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:21:16,027 - INFO - [4] Alford, Mark: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:21:17,710 - INFO - [2] Aderholt, Robert: 直接在主页找到Press Release链接 - https://aderholt.house.gov/media-center/press-releases
+2026-03-13 09:21:22,204 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:21:23,768 - INFO - [4] Alford, Mark: 在菜单 MEDIA 中找到Press Release链接 - https://alford.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:21:28,264 - INFO - 已保存 5 条结果到 house_representatives_websites_PRESS_test.csv
+2026-03-13 09:21:28,270 - INFO - 查找结束 - 成功: 5, 未找到: 0, 失败: 0
+2026-03-13 09:22:23,480 - INFO - Press Release URL查找工具启动
+2026-03-13 09:22:32,090 - INFO - ChromeDriver已安装: C:\Users\user\.wdm\drivers\chromedriver\win64\146.0.7680.76\chromedriver-win32/chromedriver.exe
+2026-03-13 09:22:37,212 - INFO - [4] Alford, Mark: 开始查找 https://alford.house.gov
+2026-03-13 09:22:37,212 - INFO - [5] Allen, Rick: 开始查找 https://allen.house.gov
+2026-03-13 09:22:37,213 - INFO - [2] Aderholt, Robert: 开始查找 https://aderholt.house.gov/
+2026-03-13 09:22:37,213 - INFO - [3] Aguilar, Pete: 开始查找 https://aguilar.house.gov/
+2026-03-13 09:22:37,213 - INFO - [1] Adams, Alma: 开始查找 https://adams.house.gov
+2026-03-13 09:22:51,810 - INFO - [3] Aguilar, Pete: 直接在主页找到Press Release链接 - https://aguilar.house.gov/category/congress_press_release/
+2026-03-13 09:22:53,673 - INFO - [2] Aderholt, Robert: 直接在主页找到Press Release链接 - https://aderholt.house.gov/media-center/press-releases
+2026-03-13 09:22:54,947 - INFO - [5] Allen, Rick: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:22:58,191 - INFO - [1] Adams, Alma: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 09:23:01,685 - INFO - [6] Amo, Gabe: 开始查找 https://amo.house.gov
+2026-03-13 09:23:01,703 - INFO - [7] Amodei, Mark: 开始查找 https://amodei.house.gov
+2026-03-13 09:23:05,815 - INFO - [4] Alford, Mark: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:23:06,442 - INFO - [5] Allen, Rick: 在菜单 MEDIA 中找到Press Release链接 - https://allen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:23:09,256 - INFO - [1] Adams, Alma: 在菜单 Media Center 中找到Press Release链接 - https://adams.house.gov/media-center
+2026-03-13 09:23:12,743 - INFO - [8] Ansari, Yassamin: 开始查找 https://ansari.house.gov/
+2026-03-13 09:23:15,480 - INFO - [6] Amo, Gabe: 直接在主页找到Press Release链接 - https://amo.house.gov/press-releases
+2026-03-13 09:23:15,627 - INFO - [4] Alford, Mark: 在菜单 MEDIA 中找到Press Release链接 - https://alford.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:23:20,261 - INFO - [7] Amodei, Mark: 直接在主页找到Press Release链接 - https://amodei.house.gov/news-releases
+2026-03-13 09:23:23,945 - INFO - [9] Arrington, Jodey: 开始查找 https://arrington.house.gov
+2026-03-13 09:23:25,682 - INFO - [11] Babin, Brian: 开始查找 https://babin.house.gov
+2026-03-13 09:23:25,719 - INFO - [10] Auchincloss, Jake: 开始查找 https://auchincloss.house.gov
+2026-03-13 09:23:25,796 - INFO - [12] Bacon, Don: 开始查找 https://bacon.house.gov
+2026-03-13 09:23:29,639 - INFO - [8] Ansari, Yassamin: 直接在主页找到Press Release链接 - https://ansari.house.gov/media/press-releases
+2026-03-13 09:23:53,927 - WARNING - 页面加载超时 (尝试 1/3): https://auchincloss.house.gov
+2026-03-13 09:23:53,931 - INFO - 等待 3 秒后重试...
+2026-03-13 09:24:00,163 - INFO - [11] Babin, Brian: 未找到Press Release页面
+2026-03-13 09:24:00,508 - INFO - [9] Arrington, Jodey: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:24:04,812 - INFO - [10] Auchincloss, Jake: 直接在主页找到Press Release链接 - https://auchincloss.house.gov/media/press-releases
+2026-03-13 09:24:09,642 - INFO - [9] Arrington, Jodey: 在菜单 NEWSROOM 中找到Press Release链接 - https://arrington.house.gov/news/documentquery.aspx
+2026-03-13 09:24:09,794 - INFO - [12] Bacon, Don: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:24:16,171 - INFO - [14] Balderson, Troy: 开始查找 https://balderson.house.gov
+2026-03-13 09:24:16,181 - INFO - [16] Barr, Andy: 开始查找 https://barr.house.gov/
+2026-03-13 09:24:16,186 - INFO - [13] Baird, James: 开始查找 https://baird.house.gov/
+2026-03-13 09:24:16,187 - INFO - [15] Balint, Becca: 开始查找 https://balint.house.gov
+2026-03-13 09:24:18,219 - INFO - [12] Bacon, Don: 在菜单 Newsroom 中找到Press Release链接 - https://bacon.house.gov/news/
+2026-03-13 09:24:28,563 - INFO - [17] Barragan, Nanette: 开始查找 https://barragan.house.gov
+2026-03-13 09:24:39,303 - INFO - [16] Barr, Andy: 直接在主页找到Press Release链接 - https://barr.house.gov/press-releases
+2026-03-13 09:24:39,382 - INFO - [14] Balderson, Troy: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:24:39,642 - INFO - [13] Baird, James: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:24:41,282 - INFO - [17] Barragan, Nanette: 直接在主页找到Press Release链接 - https://barragan.house.gov/category/press-releases/
+2026-03-13 09:24:45,992 - INFO - [15] Balint, Becca: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:24:47,209 - INFO - [18] Barrett, Tom: 开始查找 https://barrett.house.gov/
+2026-03-13 09:24:48,152 - INFO - [14] Balderson, Troy: 在菜单 IN THE NEWS 中找到Press Release链接 - https://balderson.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:24:48,997 - INFO - [13] Baird, James: 在菜单 MEDIA 中找到Press Release链接 - https://baird.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:24:50,394 - INFO - [19] Baumgartner, Michael: 开始查找 https://baumgartner.house.gov/
+2026-03-13 09:24:52,952 - INFO - [20] Bean, Aaron: 开始查找 https://bean.house.gov
+2026-03-13 09:24:54,153 - INFO - [21] Beatty, Joyce: 开始查找 https://beatty.house.gov
+2026-03-13 09:24:57,198 - INFO - [15] Balint, Becca: 在菜单 MEDIA 中找到Press Release链接 - https://balint.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:25:04,787 - INFO - [18] Barrett, Tom: 直接在主页找到Press Release链接 - https://barrett.house.gov/media/press-releases
+2026-03-13 09:25:07,368 - INFO - [20] Bean, Aaron: 直接在主页找到Press Release链接 - https://bean.house.gov/media/press-releases
+2026-03-13 09:25:07,598 - INFO - [19] Baumgartner, Michael: 直接在主页找到Press Release链接 - https://baumgartner.house.gov/media/press-releases
+2026-03-13 09:25:08,160 - INFO - [21] Beatty, Joyce: 直接在主页找到Press Release链接 - https://beatty.house.gov/media-center/press-releases
+2026-03-13 09:25:09,853 - INFO - [22] Begich, Nicholas: 开始查找 https://begich.house.gov/
+2026-03-13 09:25:12,995 - INFO - [23] Bell, Wesley: 开始查找 https://bell.house.gov/
+2026-03-13 09:25:13,120 - INFO - [24] Bentz, Cliff: 开始查找 https://bentz.house.gov
+2026-03-13 09:25:13,143 - INFO - [25] Bera, Ami: 开始查找 https://bera.house.gov
+2026-03-13 09:25:13,854 - INFO - [26] Bergman, Jack: 开始查找 https://bergman.house.gov
+2026-03-13 09:25:29,101 - INFO - [23] Bell, Wesley: 直接在主页找到Press Release链接 - https://bell.house.gov/media/press-releases
+2026-03-13 09:25:30,682 - INFO - [24] Bentz, Cliff: 直接在主页找到Press Release链接 - https://bentz.house.gov/media/press-releases
+2026-03-13 09:25:30,894 - INFO - [22] Begich, Nicholas: 直接在主页找到Press Release链接 - https://begich.house.gov/media/press-releases
+2026-03-13 09:25:33,122 - INFO - [25] Bera, Ami: 直接在主页找到Press Release链接 - https://bera.house.gov/news/press-releases
+2026-03-13 09:25:34,720 - INFO - [26] Bergman, Jack: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:25:39,745 - INFO - [29] Biggs, Andy: 开始查找 https://biggs.house.gov
+2026-03-13 09:25:39,780 - INFO - [27] Beyer, Donald: 开始查找 https://beyer.house.gov
+2026-03-13 09:25:39,832 - INFO - [30] Biggs, Sheri: 开始查找 https://sheribiggs.house.gov/
+2026-03-13 09:25:39,868 - INFO - [28] Bice, Stephanie: 开始查找 https://bice.house.gov
+2026-03-13 09:25:42,067 - INFO - [26] Bergman, Jack: 在菜单 Media 中找到Press Release链接 - https://bergman.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:25:46,810 - INFO - [31] Bilirakis, Gus: 开始查找 https://bilirakis.house.gov/
+2026-03-13 09:25:55,716 - INFO - [28] Bice, Stephanie: 直接在主页找到Press Release链接 - https://bice.house.gov/media/press-releases
+2026-03-13 09:25:56,931 - INFO - [27] Beyer, Donald: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:26:02,226 - INFO - [29] Biggs, Andy: 直接在主页找到Press Release链接 - https://biggs.house.gov/media/press-releases
+2026-03-13 09:26:06,679 - INFO - [30] Biggs, Sheri: 直接在主页找到Press Release链接 - https://sheribiggs.house.gov/media/press-releases
+2026-03-13 09:26:06,808 - INFO - [31] Bilirakis, Gus: 直接在主页找到Press Release链接 - https://bilirakis.house.gov/media/press-releases
+2026-03-13 09:26:07,730 - INFO - [27] Beyer, Donald: 在菜单 NEWSROOM 中找到Press Release链接 - https://beyer.house.gov/news/
+2026-03-13 09:26:13,498 - INFO - [32] Bishop, Sanford: 开始查找 https://bishop.house.gov/
+2026-03-13 09:26:13,582 - INFO - [33] Boebert, Lauren: 开始查找 https://boebert.house.gov
+2026-03-13 09:26:14,804 - INFO - [34] Bonamici, Suzanne: 开始查找 https://bonamici.house.gov
+2026-03-13 09:26:14,875 - INFO - [35] Bost, Mike: 开始查找 https://bost.house.gov/
+2026-03-13 09:26:14,875 - INFO - [36] Boyle, Brendan: 开始查找 https://boyle.house.gov/
+2026-03-13 09:26:29,148 - INFO - [32] Bishop, Sanford: 直接在主页找到Press Release链接 - https://bishop.house.gov/media-center/press-releases
+2026-03-13 09:26:29,772 - INFO - [34] Bonamici, Suzanne: 直接在主页找到Press Release链接 - https://bonamici.house.gov/media/press-releases
+2026-03-13 09:26:30,591 - INFO - [33] Boebert, Lauren: 直接在主页找到Press Release链接 - https://boebert.house.gov/media/press-releases
+2026-03-13 09:26:31,161 - INFO - [35] Bost, Mike: 直接在主页找到Press Release链接 - https://bost.house.gov/press-releases
+2026-03-13 09:26:34,462 - INFO - [36] Boyle, Brendan: 直接在主页找到Press Release链接 - https://boyle.house.gov/media-center/press-releases
+2026-03-13 09:26:40,404 - INFO - [38] Bresnahan, Robert: 开始查找 https://bresnahan.house.gov/
+2026-03-13 09:26:40,454 - INFO - [40] Brownley, Julia: 开始查找 https://juliabrownley.house.gov
+2026-03-13 09:26:40,458 - INFO - [41] Buchanan, Vern: 开始查找 https://buchanan.house.gov/
+2026-03-13 09:26:40,609 - INFO - [39] Brown, Shontel: 开始查找 https://shontelbrown.house.gov
+2026-03-13 09:26:40,657 - INFO - [37] Brecheen, Josh: 开始查找 https://brecheen.house.gov
+2026-03-13 09:27:00,786 - INFO - [41] Buchanan, Vern: 直接在主页找到Press Release链接 - https://buchanan.house.gov/press-releases
+2026-03-13 09:27:04,674 - INFO - [39] Brown, Shontel: 直接在主页找到Press Release链接 - https://shontelbrown.house.gov/media/press-releases
+2026-03-13 09:27:06,073 - INFO - [38] Bresnahan, Robert: 直接在主页找到Press Release链接 - https://bresnahan.house.gov/media/press-releases
+2026-03-13 09:27:06,316 - INFO - [37] Brecheen, Josh: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:27:07,975 - INFO - [40] Brownley, Julia: 直接在主页找到Press Release链接 - https://juliabrownley.house.gov/category/press-releases/
+2026-03-13 09:27:13,101 - INFO - [43] Burchett, Tim: 开始查找 https://burchett.house.gov
+2026-03-13 09:27:13,295 - INFO - [42] Budzinski, Nikki: 开始查找 https://budzinski.house.gov
+2026-03-13 09:27:13,436 - INFO - [44] Burlison, Eric: 开始查找 https://burlison.house.gov
+2026-03-13 09:27:13,702 - INFO - [45] Bynum, Janelle: 开始查找 https://bynum.house.gov/
+2026-03-13 09:27:22,252 - INFO - [37] Brecheen, Josh: 未找到Press Release页面
+2026-03-13 09:27:28,349 - INFO - [46] Calvert, Ken: 开始查找 https://calvert.house.gov/
+2026-03-13 09:27:33,201 - INFO - [43] Burchett, Tim: 直接在主页找到Press Release链接 - https://burchett.house.gov/media/press-releases
+2026-03-13 09:27:39,636 - INFO - [45] Bynum, Janelle: 直接在主页找到Press Release链接 - https://bynum.house.gov/media/press-releases
+2026-03-13 09:27:39,705 - INFO - [44] Burlison, Eric: 直接在主页找到Press Release链接 - https://burlison.house.gov/media/press-releases
+2026-03-13 09:27:39,782 - INFO - [42] Budzinski, Nikki: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 09:27:42,160 - INFO - [46] Calvert, Ken: 直接在主页找到Press Release链接 - https://calvert.house.gov/media/press-releases
+2026-03-13 09:27:46,961 - INFO - [47] Cammack, Kat: 开始查找 https://cammack.house.gov
+2026-03-13 09:27:47,100 - INFO - [49] Carey, Mike: 开始查找 https://carey.house.gov
+2026-03-13 09:27:47,214 - INFO - [48] Carbajal, Salud: 开始查找 https://carbajal.house.gov
+2026-03-13 09:27:47,341 - INFO - [50] Carson, Andre: 开始查找 https://carson.house.gov/
+2026-03-13 09:28:14,882 - WARNING - 页面加载超时 (尝试 1/3): https://cammack.house.gov
+2026-03-13 09:28:14,890 - WARNING - 页面加载超时 (尝试 1/3): https://carbajal.house.gov
+2026-03-13 09:28:15,577 - INFO - 等待 3 秒后重试...
+2026-03-13 09:28:15,577 - INFO - 等待 3 秒后重试...
+2026-03-13 09:28:34,659 - INFO - [49] Carey, Mike: 直接在主页找到Press Release链接 - https://carey.house.gov/?page_id=659
+2026-03-13 09:28:43,754 - WARNING - 页面加载超时 (尝试 2/3): https://carbajal.house.gov
+2026-03-13 09:28:43,776 - INFO - 等待 5 秒后重试...
+2026-03-13 09:28:47,000 - INFO - [50] Carson, Andre: 直接在主页找到Press Release链接 - https://carson.house.gov/media
+2026-03-13 09:28:47,050 - INFO - [42] Budzinski, Nikki: 未找到Press Release页面
+2026-03-13 09:28:47,456 - WARNING - 页面加载超时 (尝试 2/3): https://cammack.house.gov
+2026-03-13 09:28:47,473 - INFO - 等待 5 秒后重试...
+2026-03-13 09:28:59,752 - INFO - [47] Cammack, Kat: 直接在主页找到Press Release链接 - https://cammack.house.gov/media/press-releases
+2026-03-13 09:29:04,181 - INFO - [48] Carbajal, Salud: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:29:08,744 - INFO - [52] Carter, John: 开始查找 https://carter.house.gov/
+2026-03-13 09:29:08,745 - INFO - [51] Carter, Earl: 开始查找 https://buddycarter.house.gov/
+2026-03-13 09:29:08,748 - INFO - [54] Casar, Greg: 开始查找 https://casar.house.gov
+2026-03-13 09:29:08,748 - INFO - [53] Carter, Troy: 开始查找 https://troycarter.house.gov
+2026-03-13 09:29:41,370 - INFO - [48] Carbajal, Salud: 在菜单 MEDIA 中找到Press Release链接 - https://carbajal.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:29:51,318 - INFO - [52] Carter, John: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:29:53,149 - INFO - [51] Carter, Earl: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:29:53,952 - WARNING - 页面加载超时 (尝试 1/3): https://casar.house.gov
+2026-03-13 09:29:54,013 - INFO - 等待 3 秒后重试...
+2026-03-13 09:30:05,199 - INFO - [52] Carter, John: 在菜单 NEWS 中找到Press Release链接 - https://carter.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:30:06,619 - WARNING - 页面加载超时 (尝试 1/3): https://troycarter.house.gov
+2026-03-13 09:30:06,621 - INFO - 等待 3 秒后重试...
+2026-03-13 09:30:06,761 - INFO - [51] Carter, Earl: 在菜单 Newsroom 中找到Press Release链接 - https://buddycarter.house.gov/news
+2026-03-13 09:30:16,311 - INFO - [54] Casar, Greg: 直接在主页找到Press Release链接 - https://casar.house.gov/media/press-releases/news-congressman-greg-casar-delivers-1-million-federal-investment-national
+2026-03-13 09:30:17,560 - INFO - [53] Carter, Troy: 直接在主页找到Press Release链接 - https://troycarter.house.gov/media/press-releases
+2026-03-13 09:30:28,079 - INFO - [56] Casten, Sean: 开始查找 https://casten.house.gov
+2026-03-13 09:30:28,092 - INFO - [57] Castor, Kathy: 开始查找 https://castor.house.gov/
+2026-03-13 09:30:28,093 - INFO - [55] Case, Ed: 开始查找 https://case.house.gov/
+2026-03-13 09:30:28,093 - INFO - [58] Castro, Joaquin: 开始查找 https://castro.house.gov
+2026-03-13 09:30:28,762 - INFO - [59] Cherfilus-McCormick, Sheila: 开始查找 https://cherfilus-mccormick.house.gov/
+2026-03-13 09:30:48,390 - INFO - [56] Casten, Sean: 直接在主页找到Press Release链接 - https://casten.house.gov/media/press-releases
+2026-03-13 09:30:48,692 - INFO - [58] Castro, Joaquin: 直接在主页找到Press Release链接 - https://castro.house.gov/media-center/press-releases/
+2026-03-13 09:30:49,158 - INFO - [59] Cherfilus-McCormick, Sheila: 直接在主页找到Press Release链接 - https://cherfilus-mccormick.house.gov/media/press-releases
+2026-03-13 09:30:52,786 - INFO - [55] Case, Ed: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:30:54,858 - INFO - [57] Castor, Kathy: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:30:59,708 - INFO - [60] Chu, Judy: 开始查找 https://chu.house.gov/
+2026-03-13 09:30:59,967 - INFO - [61] Ciscomani, Juan: 开始查找 https://ciscomani.house.gov
+2026-03-13 09:31:00,442 - INFO - [62] Cisneros, Gilbert: 开始查找 https://cisneros.house.gov/
+2026-03-13 09:31:03,472 - INFO - [55] Case, Ed: 在菜单 NEWSROOM 中找到Press Release链接 - https://case.house.gov/news
+2026-03-13 09:31:03,877 - INFO - [57] Castor, Kathy: 在菜单 NEWS 中找到Press Release链接 - https://castor.house.gov/news/documentquery.aspx?DocumentTypeID=821
+2026-03-13 09:31:14,549 - INFO - [63] Clark, Katherine: 开始查找 https://katherineclark.house.gov/index.cfm/home
+2026-03-13 09:31:15,216 - INFO - [64] Clarke, Yvette: 开始查找 https://clarke.house.gov/
+2026-03-13 09:31:18,940 - INFO - [61] Ciscomani, Juan: 直接在主页找到Press Release链接 - https://ciscomani.house.gov/media/press-releases
+2026-03-13 09:31:21,315 - INFO - [60] Chu, Judy: 直接在主页找到Press Release链接 - https://chu.house.gov/media-center/press-releases
+2026-03-13 09:31:23,279 - INFO - [62] Cisneros, Gilbert: 直接在主页找到Press Release链接 - https://cisneros.house.gov/media/press-releases
+2026-03-13 09:31:26,359 - INFO - [63] Clark, Katherine: 直接在主页找到Press Release链接 - https://katherineclark.house.gov/press-releases
+2026-03-13 09:31:29,904 - INFO - [65] Cleaver, Emanuel: 开始查找 https://cleaver.house.gov
+2026-03-13 09:31:31,055 - INFO - [66] Cline, Ben: 开始查找 https://cline.house.gov
+2026-03-13 09:31:31,331 - INFO - [67] Cloud, Michael: 开始查找 https://cloud.house.gov
+2026-03-13 09:31:31,967 - INFO - [68] Clyburn, James: 开始查找 https://clyburn.house.gov/
+2026-03-13 09:31:42,863 - INFO - [64] Clarke, Yvette: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:31:43,864 - INFO - [67] Cloud, Michael: 找到 6 个一级菜单链接，开始检查...
+2026-03-13 09:31:45,249 - INFO - [65] Cleaver, Emanuel: 直接在主页找到Press Release链接 - https://cleaver.house.gov/media-center/press-releases
+2026-03-13 09:31:50,348 - INFO - [66] Cline, Ben: 直接在主页找到Press Release链接 - https://cline.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:31:56,071 - INFO - [67] Cloud, Michael: 未找到Press Release页面
+2026-03-13 09:31:59,013 - INFO - [64] Clarke, Yvette: 未找到Press Release页面
+2026-03-13 09:31:59,172 - INFO - [70] Cohen, Steve: 开始查找 https://cohen.house.gov/
+2026-03-13 09:31:59,172 - INFO - [69] Clyde, Andrew: 开始查找 https://clyde.house.gov
+2026-03-13 09:32:00,398 - INFO - [71] Cole, Tom: 开始查找 https://cole.house.gov
+2026-03-13 09:32:02,636 - INFO - [68] Clyburn, James: 直接在主页找到Press Release链接 - https://clyburn.house.gov/press-releases/
+2026-03-13 09:32:05,291 - INFO - [72] Collins, Mike: 开始查找 https://collins.house.gov
+2026-03-13 09:32:06,845 - INFO - [73] Comer, James: 开始查找 https://comer.house.gov/
+2026-03-13 09:32:11,580 - INFO - [69] Clyde, Andrew: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:32:17,578 - INFO - [71] Cole, Tom: 直接在主页找到Press Release链接 - https://cole.house.gov/media-center/press-releases
+2026-03-13 09:32:19,336 - INFO - [70] Cohen, Steve: 直接在主页找到Press Release链接 - https://cohen.house.gov/media-center/press-releases
+2026-03-13 09:32:21,468 - INFO - [72] Collins, Mike: 直接在主页找到Press Release链接 - https://collins.house.gov/media/press-releases
+2026-03-13 09:32:23,861 - INFO - [73] Comer, James: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:32:26,254 - INFO - [69] Clyde, Andrew: 在菜单 MEDIA 中找到Press Release链接 - https://clyde.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:32:32,672 - INFO - [73] Comer, James: 在菜单 Media 中找到Press Release链接 - https://comer.house.gov/press-release
+2026-03-13 09:32:38,349 - INFO - [75] Correa, J.: 开始查找 https://correa.house.gov
+2026-03-13 09:32:38,365 - INFO - [74] Conaway, Herbert: 开始查找 https://conaway.house.gov/
+2026-03-13 09:32:40,928 - INFO - [77] Courtney, Joe: 开始查找 https://courtney.house.gov/
+2026-03-13 09:32:40,944 - INFO - [78] Craig, Angie: 开始查找 https://craig.house.gov
+2026-03-13 09:32:41,989 - INFO - [76] Costa, Jim: 开始查找 https://costa.house.gov/
+2026-03-13 09:32:58,728 - INFO - [78] Craig, Angie: 直接在主页找到Press Release链接 - https://craig.house.gov/media/press-releases
+2026-03-13 09:32:59,362 - INFO - [75] Correa, J.: 直接在主页找到Press Release链接 - https://correa.house.gov/news/press-releases
+2026-03-13 09:33:00,472 - INFO - [74] Conaway, Herbert: 直接在主页找到Press Release链接 - https://conaway.house.gov/media/press-releases
+2026-03-13 09:33:02,346 - INFO - [77] Courtney, Joe: 直接在主页找到Press Release链接 - https://courtney.house.gov/media-center/press-releases
+2026-03-13 09:33:04,595 - INFO - [76] Costa, Jim: 直接在主页找到Press Release链接 - https://costa.house.gov/media/press-releases
+2026-03-13 09:33:18,341 - INFO - [79] Crane, Elijah: 开始查找 https://crane.house.gov
+2026-03-13 09:33:18,341 - INFO - [80] Crank, Jeff: 开始查找 https://crank.house.gov/
+2026-03-13 09:33:18,401 - INFO - [81] Crawford, Eric: 开始查找 https://crawford.house.gov/
+2026-03-13 09:33:18,448 - INFO - [83] Crockett, Jasmine: 开始查找 https://crockett.house.gov
+2026-03-13 09:33:18,449 - INFO - [82] Crenshaw, Dan: 开始查找 https://crenshaw.house.gov/
+2026-03-13 09:34:06,125 - INFO - [81] Crawford, Eric: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 09:34:08,920 - INFO - [82] Crenshaw, Dan: 直接在主页找到Press Release链接 - https://crenshaw.house.gov/press-releases?ID=85AC521F-809F-4DA8-9BEE-DD1A6608B363
+2026-03-13 09:34:21,334 - INFO - [79] Crane, Elijah: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:34:22,196 - WARNING - 页面加载超时 (尝试 1/3): https://crockett.house.gov
+2026-03-13 09:34:22,214 - INFO - 等待 3 秒后重试...
+2026-03-13 09:34:22,663 - WARNING - 页面加载超时 (尝试 1/3): https://crank.house.gov/
+2026-03-13 09:34:22,669 - INFO - 等待 3 秒后重试...
+2026-03-13 09:34:33,645 - INFO - [79] Crane, Elijah: 未找到Press Release页面
+2026-03-13 09:34:38,938 - INFO - [80] Crank, Jeff: 直接在主页找到Press Release链接 - https://crank.house.gov/media/press-releases
+2026-03-13 09:34:39,008 - INFO - [83] Crockett, Jasmine: 直接在主页找到Press Release链接 - https://crockett.house.gov/media/press-releases
+2026-03-13 09:34:39,492 - INFO - [81] Crawford, Eric: 未找到Press Release页面
+2026-03-13 09:34:49,336 - INFO - [87] Davidson, Warren: 开始查找 https://davidson.house.gov/
+2026-03-13 09:34:49,345 - INFO - [84] Crow, Jason: 开始查找 https://crow.house.gov/
+2026-03-13 09:34:49,348 - INFO - [85] Cuellar, Henry: 开始查找 https://cuellar.house.gov/
+2026-03-13 09:34:49,350 - INFO - [86] Davids, Sharice: 开始查找 https://davids.house.gov/
+2026-03-13 09:34:49,350 - INFO - [88] Davis, Danny: 开始查找 https://davis.house.gov
+2026-03-13 09:35:04,838 - INFO - [88] Davis, Danny: 直接在主页找到Press Release链接 - https://davis.house.gov/media/press-releases/reps-davis-lahood-champion-bill-help-foster-youth-transition-adulthood
+2026-03-13 09:35:07,178 - INFO - [86] Davids, Sharice: 直接在主页找到Press Release链接 - https://davids.house.gov/media/press-releases
+2026-03-13 09:35:09,222 - INFO - [84] Crow, Jason: 直接在主页找到Press Release链接 - https://crow.house.gov/media/press-releases
+2026-03-13 09:35:10,075 - INFO - [85] Cuellar, Henry: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:35:16,928 - INFO - [85] Cuellar, Henry: 在菜单 MEDIA 中找到Press Release链接 - https://cuellar.house.gov/news/documentquery.aspx?DocumentTypeID=1232
+2026-03-13 09:35:17,905 - WARNING - 页面加载超时 (尝试 1/3): https://davidson.house.gov/
+2026-03-13 09:35:17,905 - INFO - 等待 3 秒后重试...
+2026-03-13 09:35:22,049 - INFO - [92] De La Cruz, Monica: 开始查找 https://delacruz.house.gov
+2026-03-13 09:35:22,049 - INFO - [90] Dean, Madeleine: 开始查找 https://dean.house.gov
+2026-03-13 09:35:22,050 - INFO - [89] Davis, Donald: 开始查找 https://dondavis.house.gov
+2026-03-13 09:35:22,053 - INFO - [91] DeGette, Diana: 开始查找 https://degette.house.gov
+2026-03-13 09:35:46,696 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5abed]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:35:48,831 - INFO - [90] Dean, Madeleine: 直接在主页找到Press Release链接 - https://dean.house.gov/press-releases
+2026-03-13 09:35:49,870 - WARNING - 页面加载超时 (尝试 1/3): https://dondavis.house.gov
+2026-03-13 09:35:49,954 - INFO - 等待 3 秒后重试...
+2026-03-13 09:35:50,044 - WARNING - 页面加载超时 (尝试 1/3): https://degette.house.gov
+2026-03-13 09:35:50,124 - INFO - 等待 3 秒后重试...
+2026-03-13 09:35:50,750 - WARNING - 页面加载超时 (尝试 1/3): https://delacruz.house.gov
+2026-03-13 09:35:50,753 - INFO - 等待 3 秒后重试...
+2026-03-13 09:35:52,267 - INFO - [87] Davidson, Warren: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:36:08,143 - INFO - [89] Davis, Donald: 直接在主页找到Press Release链接 - https://dondavis.house.gov/media/press-releases
+2026-03-13 09:36:08,594 - INFO - [87] Davidson, Warren: 在菜单 Media Center 中找到Press Release链接 - https://davidson.house.gov/press-releases
+2026-03-13 09:36:13,778 - INFO - [92] De La Cruz, Monica: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:36:19,069 - INFO - [91] DeGette, Diana: 直接在主页找到Press Release链接 - https://degette.house.gov/newsroom/press-releases
+2026-03-13 09:36:29,774 - INFO - [93] DeLauro, Rosa: 开始查找 https://delauro.house.gov/
+2026-03-13 09:36:29,787 - INFO - [96] DeSaulnier, Mark: 开始查找 https://desaulnier.house.gov/
+2026-03-13 09:36:29,788 - INFO - [94] DelBene, Suzan: 开始查找 https://delbene.house.gov
+2026-03-13 09:36:29,788 - INFO - [95] Deluzio, Christopher: 开始查找 https://deluzio.house.gov
+2026-03-13 09:36:30,103 - INFO - [92] De La Cruz, Monica: 在菜单 MEDIA 中找到Press Release链接 - https://delacruz.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:36:36,082 - INFO - [97] DesJarlais, Scott: 开始查找 https://desjarlais.house.gov/
+2026-03-13 09:36:41,564 - INFO - [95] Deluzio, Christopher: 直接在主页找到Press Release链接 - https://deluzio.house.gov/media/press-releases
+2026-03-13 09:36:41,709 - INFO - [96] DeSaulnier, Mark: 直接在主页找到Press Release链接 - https://desaulnier.house.gov/media-center/press-releases
+2026-03-13 09:36:41,730 - INFO - [93] DeLauro, Rosa: 直接在主页找到Press Release链接 - https://delauro.house.gov/media-center/press-releases
+2026-03-13 09:36:43,576 - INFO - [94] DelBene, Suzan: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:36:52,401 - INFO - [98] Dexter, Maxine: 开始查找 https://dexter.house.gov/
+2026-03-13 09:36:52,483 - INFO - [99] Diaz-Balart, Mario: 开始查找 https://mariodiazbalart.house.gov/
+2026-03-13 09:36:53,003 - INFO - [100] Dingell, Debbie: 开始查找 https://debbiedingell.house.gov/
+2026-03-13 09:37:09,423 - INFO - [94] DelBene, Suzan: 在菜单 E-NEWSLETTER 中找到Press Release链接 - https://delbene.house.gov/news
+2026-03-13 09:37:10,720 - INFO - [97] DesJarlais, Scott: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:37:13,092 - INFO - [98] Dexter, Maxine: 直接在主页找到Press Release链接 - https://dexter.house.gov/media/press-releases
+2026-03-13 09:37:14,099 - INFO - [100] Dingell, Debbie: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:37:15,179 - INFO - [99] Diaz-Balart, Mario: 直接在主页找到Press Release链接 - https://mariodiazbalart.house.gov/media-center/press-releases
+2026-03-13 09:37:19,737 - INFO - [100] Dingell, Debbie: 在菜单 News &
+Updates 中找到Press Release链接 - https://debbiedingell.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:37:24,435 - INFO - [101] Doggett, Lloyd: 开始查找 https://doggett.house.gov
+2026-03-13 09:37:24,435 - INFO - [103] Downing, Troy: 开始查找 https://downing.house.gov/
+2026-03-13 09:37:24,444 - INFO - [102] Donalds, Byron: 开始查找 https://donalds.house.gov
+2026-03-13 09:37:24,867 - INFO - [104] Dunn, Neal: 开始查找 https://dunn.house.gov
+2026-03-13 09:37:33,710 - INFO - [97] DesJarlais, Scott: 未找到Press Release页面
+2026-03-13 09:37:39,581 - INFO - [104] Dunn, Neal: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:37:45,879 - INFO - [105] Edwards, Chuck: 开始查找 https://edwards.house.gov
+2026-03-13 09:37:52,945 - WARNING - 页面加载超时 (尝试 1/3): https://downing.house.gov/
+2026-03-13 09:37:52,950 - INFO - 等待 3 秒后重试...
+2026-03-13 09:37:54,454 - INFO - [101] Doggett, Lloyd: 直接在主页找到Press Release链接 - https://doggett.house.gov/media/press-releases
+2026-03-13 09:38:08,747 - INFO - [102] Donalds, Byron: 直接在主页找到Press Release链接 - https://donalds.house.gov/news
+2026-03-13 09:38:08,929 - INFO - [104] Dunn, Neal: 在菜单 NEWS 中找到Press Release链接 - https://dunn.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:38:13,063 - INFO - [103] Downing, Troy: 直接在主页找到Press Release链接 - https://downing.house.gov/media/press-releases
+2026-03-13 09:38:15,443 - INFO - [105] Edwards, Chuck: 直接在主页找到Press Release链接 - https://edwards.house.gov/media/press-releases
+2026-03-13 09:38:22,979 - INFO - [107] Ellzey, Jake: 开始查找 https://ellzey.house.gov/
+2026-03-13 09:38:22,993 - INFO - [108] Emmer, Tom: 开始查找 https://emmer.house.gov/
+2026-03-13 09:38:23,009 - INFO - [106] Elfreth, Sarah: 开始查找 https://elfreth.house.gov/
+2026-03-13 09:38:23,264 - INFO - [109] Escobar, Veronica: 开始查找 https://escobar.house.gov
+2026-03-13 09:38:23,961 - INFO - [110] Espaillat, Adriano: 开始查找 https://espaillat.house.gov
+2026-03-13 09:40:02,342 - INFO - [107] Ellzey, Jake: 直接在主页找到Press Release链接 - https://ellzey.house.gov/press-releases
+2026-03-13 09:40:07,377 - INFO - [108] Emmer, Tom: 直接在主页找到Press Release链接 - https://emmer.house.gov/media-center/press-releases
+2026-03-13 09:40:26,184 - ERROR - [110] Espaillat, Adriano: 未知错误: HTTPConnectionPool(host='localhost', port=64470): Read timed out. (read timeout=120)
+2026-03-13 09:40:39,041 - INFO - [109] Escobar, Veronica: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:40:40,899 - INFO - [106] Elfreth, Sarah: 直接在主页找到Press Release链接 - https://elfreth.house.gov/media/press-releases
+2026-03-13 09:40:49,254 - INFO - [109] Escobar, Veronica: 在菜单 NEWS 中找到Press Release链接 - https://escobar.house.gov/newsroom/#main
+2026-03-13 09:40:56,303 - INFO - [115] Fallon, Pat: 开始查找 https://fallon.house.gov
+2026-03-13 09:40:56,323 - INFO - [111] Estes, Ron: 开始查找 https://estes.house.gov/
+2026-03-13 09:40:56,325 - INFO - [114] Ezell, Mike: 开始查找 https://ezell.house.gov
+2026-03-13 09:40:56,333 - INFO - [112] Evans, Dwight: 开始查找 https://evans.house.gov/
+2026-03-13 09:40:56,334 - INFO - [113] Evans, Gabe: 开始查找 https://gabeevans.house.gov/
+2026-03-13 09:41:22,878 - INFO - [112] Evans, Dwight: 直接在主页找到Press Release链接 - https://evans.house.gov/media/press-releases
+2026-03-13 09:41:24,126 - INFO - [115] Fallon, Pat: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:41:25,265 - INFO - [111] Estes, Ron: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:41:27,487 - INFO - [113] Evans, Gabe: 直接在主页找到Press Release链接 - https://gabeevans.house.gov/media/press-releases
+2026-03-13 09:41:30,396 - INFO - [114] Ezell, Mike: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:41:33,395 - INFO - [111] Estes, Ron: 未找到Press Release页面
+2026-03-13 09:41:33,416 - INFO - [115] Fallon, Pat: 在菜单 MEDIA 中找到Press Release链接 - https://fallon.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:41:38,829 - INFO - [114] Ezell, Mike: 在菜单 VIEW ALL NEWS 中找到Press Release链接 - https://ezell.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:41:43,838 - INFO - [117] Feenstra, Randy: 开始查找 https://feenstra.house.gov
+2026-03-13 09:41:43,847 - INFO - [119] Figures, Shomari: 开始查找 https://figures.house.gov/
+2026-03-13 09:41:43,849 - INFO - [116] Fedorchak, Julie: 开始查找 https://fedorchak.house.gov/
+2026-03-13 09:41:43,955 - INFO - [118] Fields, Cleo: 开始查找 https://fields.house.gov/
+2026-03-13 09:41:44,297 - INFO - [120] Fine, Randy: 开始查找 https://fine.house.gov/
+2026-03-13 09:42:12,548 - WARNING - 页面加载超时 (尝试 1/3): https://fedorchak.house.gov/
+2026-03-13 09:42:13,783 - INFO - 等待 3 秒后重试...
+2026-03-13 09:42:14,388 - WARNING - 页面加载超时 (尝试 1/3): https://fields.house.gov/
+2026-03-13 09:42:15,187 - INFO - 等待 3 秒后重试...
+2026-03-13 09:42:49,122 - WARNING - 页面加载超时 (尝试 2/3): https://fields.house.gov/
+2026-03-13 09:42:49,216 - INFO - 等待 5 秒后重试...
+2026-03-13 09:43:14,233 - WARNING - 页面加载超时 (尝试 2/3): https://fedorchak.house.gov/
+2026-03-13 09:43:15,678 - INFO - 等待 5 秒后重试...
+2026-03-13 09:44:01,806 - INFO - [119] Figures, Shomari: 直接在主页找到Press Release链接 - https://figures.house.gov/media/press-releases
+2026-03-13 09:44:02,826 - INFO - [117] Feenstra, Randy: 直接在主页找到Press Release链接 - https://feenstra.house.gov/media/press-releases
+2026-03-13 09:44:06,982 - INFO - [120] Fine, Randy: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:44:07,213 - INFO - [118] Fields, Cleo: 直接在主页找到Press Release链接 - https://fields.house.gov/media/press-releases
+2026-03-13 09:44:11,698 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5a7e4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:44:17,932 - INFO - [120] Fine, Randy: 在菜单 Media 中找到Press Release链接 - https://fine.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:44:21,003 - INFO - [116] Fedorchak, Julie: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 09:44:29,339 - INFO - [116] Fedorchak, Julie: 在菜单 MEDIA
+» 中找到Press Release链接 - https://fedorchak.house.gov/media/press-releases
+2026-03-13 09:44:40,194 - INFO - [121] Finstad, Brad: 开始查找 https://finstad.house.gov/
+2026-03-13 09:44:40,195 - INFO - [124] Fitzpatrick, Brian: 开始查找 https://fitzpatrick.house.gov/
+2026-03-13 09:44:40,196 - INFO - [122] Fischbach, Michelle: 开始查找 https://fischbach.house.gov
+2026-03-13 09:44:40,295 - INFO - [123] Fitzgerald, Scott: 开始查找 https://fitzgerald.house.gov
+2026-03-13 09:44:40,361 - INFO - [125] Fleischmann, Charles: 开始查找 https://fleischmann.house.gov/
+2026-03-13 09:44:50,130 - INFO - [124] Fitzpatrick, Brian: 直接在主页找到Press Release链接 - https://fitzpatrick.house.gov/press-releases
+2026-03-13 09:44:54,667 - INFO - [121] Finstad, Brad: 直接在主页找到Press Release链接 - https://finstad.house.gov/press-releases
+2026-03-13 09:44:54,914 - INFO - [122] Fischbach, Michelle: 直接在主页找到Press Release链接 - https://fischbach.house.gov/press-releases
+2026-03-13 09:44:56,215 - INFO - [123] Fitzgerald, Scott: 直接在主页找到Press Release链接 - https://fitzgerald.house.gov/media/press-releases
+2026-03-13 09:44:56,396 - INFO - [125] Fleischmann, Charles: 直接在主页找到Press Release链接 - https://fleischmann.house.gov/media/press-releases
+2026-03-13 09:45:02,858 - INFO - [126] Fletcher, Lizzie: 开始查找 https://fletcher.house.gov
+2026-03-13 09:45:02,859 - INFO - [130] Foushee, Valerie: 开始查找 https://foushee.house.gov
+2026-03-13 09:45:02,859 - INFO - [127] Flood, Mike: 开始查找 https://flood.house.gov/
+2026-03-13 09:45:02,860 - INFO - [129] Foster, Bill: 开始查找 https://foster.house.gov
+2026-03-13 09:45:02,927 - INFO - [128] Fong, Vince: 开始查找 https://fong.house.gov/
+2026-03-13 09:45:34,214 - INFO - [128] Fong, Vince: 直接在主页找到Press Release链接 - https://fong.house.gov/media/press-releases
+2026-03-13 09:45:35,245 - WARNING - 页面加载超时 (尝试 1/3): https://foster.house.gov
+2026-03-13 09:45:35,257 - INFO - 等待 3 秒后重试...
+2026-03-13 09:45:35,921 - INFO - [127] Flood, Mike: 直接在主页找到Press Release链接 - https://flood.house.gov/media
+2026-03-13 09:45:37,037 - WARNING - 页面加载超时 (尝试 1/3): https://foushee.house.gov
+2026-03-13 09:45:37,038 - INFO - 等待 3 秒后重试...
+2026-03-13 09:45:45,363 - INFO - [126] Fletcher, Lizzie: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 09:45:45,642 - INFO - [130] Foushee, Valerie: 直接在主页找到Press Release链接 - https://foushee.house.gov/media/press-releases
+2026-03-13 09:45:47,945 - INFO - [129] Foster, Bill: 直接在主页找到Press Release链接 - https://foster.house.gov/media/press-releases
+2026-03-13 09:45:51,588 - INFO - [126] Fletcher, Lizzie: 在菜单 News 中找到Press Release链接 - https://fletcher.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:45:52,526 - INFO - [133] Franklin, Scott: 开始查找 https://franklin.house.gov
+2026-03-13 09:45:52,537 - INFO - [132] Frankel, Lois: 开始查找 https://frankel.house.gov
+2026-03-13 09:45:52,618 - INFO - [131] Foxx, Virginia: 开始查找 https://foxx.house.gov/
+2026-03-13 09:45:53,244 - INFO - [134] Friedman, Laura: 开始查找 https://friedman.house.gov/
+2026-03-13 09:45:56,809 - INFO - [135] Frost, Maxwell: 开始查找 https://frost.house.gov
+2026-03-13 09:46:08,370 - INFO - [134] Friedman, Laura: 直接在主页找到Press Release链接 - https://friedman.house.gov/media/press-releases
+2026-03-13 09:46:08,948 - INFO - [131] Foxx, Virginia: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:46:10,786 - INFO - [135] Frost, Maxwell: 直接在主页找到Press Release链接 - https://frost.house.gov/media/press-releases
+2026-03-13 09:46:11,223 - INFO - [132] Frankel, Lois: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:46:11,678 - INFO - [133] Franklin, Scott: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:46:16,359 - INFO - [136] Fry, Russell: 开始查找 https://fry.house.gov
+2026-03-13 09:46:16,387 - INFO - [137] Fulcher, Russ: 开始查找 https://fulcher.house.gov/
+2026-03-13 09:46:21,215 - INFO - [131] Foxx, Virginia: 在菜单 NEWS 中找到Press Release链接 - https://foxx.house.gov/news/documentquery.aspx?DocumentTypeID=2367
+2026-03-13 09:46:23,538 - INFO - [133] Franklin, Scott: 在菜单 MEDIA 中找到Press Release链接 - https://franklin.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:46:25,941 - INFO - [132] Frankel, Lois: 在菜单 MEDIA CENTER 中找到Press Release链接 - https://frankel.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:46:26,989 - INFO - [137] Fulcher, Russ: 直接在主页找到Press Release链接 - https://fulcher.house.gov/category/press-releases/
+2026-03-13 09:46:31,832 - INFO - [138] Garamendi, John: 开始查找 https://garamendi.house.gov/
+2026-03-13 09:46:32,050 - INFO - [139] Garbarino, Andrew: 开始查找 https://garbarino.house.gov
+2026-03-13 09:46:32,052 - INFO - [140] Garcia, Jesus: 开始查找 https://chuygarcia.house.gov/
+2026-03-13 09:46:32,702 - INFO - [141] Garcia, Robert: 开始查找 https://robertgarcia.house.gov
+2026-03-13 09:46:36,864 - INFO - [136] Fry, Russell: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:46:46,402 - INFO - [140] Garcia, Jesus: 直接在主页找到Press Release链接 - https://chuygarcia.house.gov/media/press-releases
+2026-03-13 09:46:48,072 - INFO - [138] Garamendi, John: 直接在主页找到Press Release链接 - https://garamendi.house.gov/media/press-releases
+2026-03-13 09:46:48,723 - INFO - [139] Garbarino, Andrew: 直接在主页找到Press Release链接 - https://garbarino.house.gov/media/press-releases
+2026-03-13 09:46:51,375 - INFO - [141] Garcia, Robert: 直接在主页找到Press Release链接 - https://robertgarcia.house.gov/media/press-releases
+2026-03-13 09:46:51,804 - INFO - [136] Fry, Russell: 在菜单 MEDIA 中找到Press Release链接 - https://fry.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:46:57,136 - INFO - [146] Golden, Jared: 开始查找 https://golden.house.gov
+2026-03-13 09:46:57,153 - INFO - [143] Gill, Brandon: 开始查找 https://gill.house.gov/
+2026-03-13 09:46:57,195 - INFO - [145] Gimenez, Carlos: 开始查找 https://gimenez.house.gov
+2026-03-13 09:46:57,253 - INFO - [142] Garcia, Sylvia: 开始查找 https://sylviagarcia.house.gov/
+2026-03-13 09:46:57,253 - INFO - [144] Gillen, Laura: 开始查找 https://gillen.house.gov/
+2026-03-13 09:47:14,052 - INFO - [144] Gillen, Laura: 直接在主页找到Press Release链接 - https://gillen.house.gov/media/press-releases
+2026-03-13 09:47:15,821 - INFO - [146] Golden, Jared: 直接在主页找到Press Release链接 - https://golden.house.gov/media/press-releases
+2026-03-13 09:47:16,391 - INFO - [145] Gimenez, Carlos: 直接在主页找到Press Release链接 - https://gimenez.house.gov/press-releases
+2026-03-13 09:47:23,350 - INFO - [143] Gill, Brandon: 直接在主页找到Press Release链接 - https://gill.house.gov/media/press-releases
+2026-03-13 09:47:24,704 - INFO - [142] Garcia, Sylvia: 直接在主页找到Press Release链接 - https://sylviagarcia.house.gov/media/press-releases
+2026-03-13 09:47:30,766 - INFO - [150] Gonzales, Tony: 开始查找 https://gonzales.house.gov
+2026-03-13 09:47:30,769 - INFO - [147] Goldman, Craig: 开始查找 https://craiggoldman.house.gov/
+2026-03-13 09:47:30,797 - INFO - [149] Gomez, Jimmy: 开始查找 https://gomez.house.gov/
+2026-03-13 09:47:30,881 - INFO - [151] Gonzalez, Vicente: 开始查找 https://gonzalez.house.gov
+2026-03-13 09:47:30,901 - INFO - [148] Goldman, Daniel: 开始查找 https://goldman.house.gov
+2026-03-13 09:47:47,820 - INFO - [150] Gonzales, Tony: 直接在主页找到Press Release链接 - https://gonzales.house.gov/press-releases
+2026-03-13 09:47:50,951 - INFO - [148] Goldman, Daniel: 直接在主页找到Press Release链接 - https://goldman.house.gov/media/press-releases
+2026-03-13 09:47:53,300 - INFO - [147] Goldman, Craig: 直接在主页找到Press Release链接 - https://craiggoldman.house.gov/media/press-releases
+2026-03-13 09:47:53,715 - INFO - [151] Gonzalez, Vicente: 直接在主页找到Press Release链接 - https://gonzalez.house.gov/media/press-releases
+2026-03-13 09:47:56,620 - INFO - [149] Gomez, Jimmy: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:48:02,271 - INFO - [152] Gooden, Lance: 开始查找 https://gooden.house.gov
+2026-03-13 09:48:02,323 - INFO - [155] Gottheimer, Josh: 开始查找 https://gottheimer.house.gov
+2026-03-13 09:48:02,324 - INFO - [154] Gosar, Paul: 开始查找 https://gosar.house.gov/
+2026-03-13 09:48:02,615 - INFO - [153] Goodlander, Maggie: 开始查找 https://goodlander.house.gov/
+2026-03-13 09:48:09,252 - INFO - [149] Gomez, Jimmy: 在菜单 NEWS 中找到Press Release链接 - https://gomez.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:48:11,535 - INFO - [155] Gottheimer, Josh: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 09:48:11,553 - INFO - [152] Gooden, Lance: 直接在主页找到Press Release链接 - https://gooden.house.gov/press-releases
+2026-03-13 09:48:16,038 - INFO - [156] Graves, Sam: 开始查找 https://graves.house.gov/
+2026-03-13 09:48:17,259 - INFO - [157] Gray, Adam: 开始查找 https://gray.house.gov/
+2026-03-13 09:48:17,344 - INFO - [154] Gosar, Paul: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:48:21,840 - INFO - [153] Goodlander, Maggie: 直接在主页找到Press Release链接 - https://goodlander.house.gov/media/press-releases/
+2026-03-13 09:48:27,322 - INFO - [158] Green, Al: 开始查找 https://algreen.house.gov
+2026-03-13 09:48:27,933 - INFO - [154] Gosar, Paul: 在菜单 VIEW ALL NEWS 中找到Press Release链接 - https://gosar.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:48:29,972 - INFO - [156] Graves, Sam: 直接在主页找到Press Release链接 - https://graves.house.gov/media/press-releases
+2026-03-13 09:48:32,471 - INFO - [155] Gottheimer, Josh: 未找到Press Release页面
+2026-03-13 09:48:33,167 - INFO - [157] Gray, Adam: 直接在主页找到Press Release链接 - https://gray.house.gov/media/press-releases
+2026-03-13 09:48:35,907 - INFO - [159] Greene, Marjorie Taylor: 开始查找 https://clerk.house.gov/members/GA14/vacancy
+2026-03-13 09:48:37,175 - INFO - [160] Griffith, H.: 开始查找 https://morgangriffith.house.gov/
+2026-03-13 09:48:37,299 - INFO - [158] Green, Al: 直接在主页找到Press Release链接 - https://algreen.house.gov/media/press-releases
+2026-03-13 09:48:38,103 - INFO - [161] Grijalva, Adelita: 开始查找 https://grijalva.house.gov/
+2026-03-13 09:48:38,134 - INFO - [162] Grothman, Glenn: 开始查找 https://grothman.house.gov
+2026-03-13 09:48:41,587 - WARNING - 页面加载失败 (尝试 1/3): https://clerk.house.gov/members/GA14/vacancy, 错误: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xacf63e]
+	chromedriver!(No symbol) [0xac26f4]
+	chromedriver!(No symbol) [0xac415c]
+	chromedriver!(No symbol) [0xac2b92]
+	chromedriver!(No symbol) [0xac24c5]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac09ea]
+	chromedriver!(No symbol) [0xad5bce]
+	chromedriver!(No symbol) [0xb5b3d4]
+	chromedriver!(No symbol) [0xb3dafc]
+	chromedriver!(No symbol) [0xb5a8d4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:48:41,638 - INFO - 等待 3 秒后重试...
+2026-03-13 09:48:41,835 - INFO - [163] Guest, Michael: 开始查找 https://guest.house.gov
+2026-03-13 09:48:45,614 - WARNING - 页面加载失败 (尝试 2/3): https://clerk.house.gov/members/GA14/vacancy, 错误: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xacf63e]
+	chromedriver!(No symbol) [0xac26f4]
+	chromedriver!(No symbol) [0xac415c]
+	chromedriver!(No symbol) [0xac2b92]
+	chromedriver!(No symbol) [0xac24c5]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac09ea]
+	chromedriver!(No symbol) [0xad5bce]
+	chromedriver!(No symbol) [0xb5b3d4]
+	chromedriver!(No symbol) [0xb3dafc]
+	chromedriver!(No symbol) [0xb5a8d4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:48:45,620 - INFO - 等待 5 秒后重试...
+2026-03-13 09:48:51,185 - WARNING - 页面加载失败 (尝试 3/3): https://clerk.house.gov/members/GA14/vacancy, 错误: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xacf63e]
+	chromedriver!(No symbol) [0xac26f4]
+	chromedriver!(No symbol) [0xac415c]
+	chromedriver!(No symbol) [0xac2b92]
+	chromedriver!(No symbol) [0xac24c5]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac09ea]
+	chromedriver!(No symbol) [0xad5bce]
+	chromedriver!(No symbol) [0xb5b3d4]
+	chromedriver!(No symbol) [0xb3dafc]
+	chromedriver!(No symbol) [0xb5a8d4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:48:51,199 - ERROR - 页面加载失败，已达最大重试次数 (3): https://clerk.house.gov/members/GA14/vacancy
+2026-03-13 09:48:51,202 - ERROR - [159] Greene, Marjorie Taylor: 页面加载超时
+2026-03-13 09:48:51,248 - INFO - [161] Grijalva, Adelita: 直接在主页找到Press Release链接 - https://grijalva.house.gov/media/press-releases
+2026-03-13 09:48:52,460 - INFO - [160] Griffith, H.: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:48:54,053 - INFO - [162] Grothman, Glenn: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:48:56,351 - INFO - [163] Guest, Michael: 直接在主页找到Press Release链接 - https://guest.house.gov/media
+2026-03-13 09:48:57,985 - INFO - [160] Griffith, H.: 在菜单 NEWSROOM 中找到Press Release链接 - https://morgangriffith.house.gov/news/
+2026-03-13 09:49:00,990 - INFO - [164] Guthrie, Brett: 开始查找 https://guthrie.house.gov/
+2026-03-13 09:49:01,528 - INFO - [162] Grothman, Glenn: 在菜单 MEDIA 中找到Press Release链接 - https://grothman.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:49:03,729 - INFO - [165] Hageman, Harriet: 开始查找 https://hageman.house.gov
+2026-03-13 09:49:04,673 - INFO - [166] Hamadeh, Abraham: 开始查找 https://hamadeh.house.gov/
+2026-03-13 09:49:04,994 - INFO - [167] Harder, Josh: 开始查找 https://harder.house.gov/
+2026-03-13 09:49:06,638 - INFO - [168] Haridopolos, Mike: 开始查找 https://haridopolos.house.gov/
+2026-03-13 09:49:33,984 - WARNING - 页面加载超时 (尝试 1/3): https://hageman.house.gov
+2026-03-13 09:49:34,072 - INFO - 等待 3 秒后重试...
+2026-03-13 09:50:03,329 - INFO - [166] Hamadeh, Abraham: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:50:06,264 - INFO - [167] Harder, Josh: 直接在主页找到Press Release链接 - https://harder.house.gov/media/press-releases
+2026-03-13 09:50:09,952 - WARNING - 页面加载超时 (尝试 1/3): https://haridopolos.house.gov/
+2026-03-13 09:50:09,959 - INFO - 等待 3 秒后重试...
+2026-03-13 09:50:10,752 - INFO - [164] Guthrie, Brett: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:50:18,159 - INFO - [166] Hamadeh, Abraham: 在菜单 MEDIA 中找到Press Release链接 - https://hamadeh.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:50:21,865 - INFO - [164] Guthrie, Brett: 在菜单 NEWSROOM 中找到Press Release链接 - https://guthrie.house.gov/news/
+2026-03-13 09:50:23,165 - INFO - [165] Hageman, Harriet: 直接在主页找到Press Release链接 - https://hageman.house.gov/media/press-releases
+2026-03-13 09:50:26,123 - INFO - [168] Haridopolos, Mike: 直接在主页找到Press Release链接 - https://haridopolos.house.gov/media/press-releases
+2026-03-13 09:50:48,999 - INFO - [170] Harris, Andy: 开始查找 https://harris.house.gov/
+2026-03-13 09:50:49,125 - INFO - [172] Harshbarger, Diana: 开始查找 https://harshbarger.house.gov
+2026-03-13 09:50:49,126 - INFO - [171] Harris, Mark: 开始查找 https://markharris.house.gov/
+2026-03-13 09:50:49,014 - INFO - [173] Hayes, Jahana: 开始查找 https://hayes.house.gov
+2026-03-13 09:50:49,149 - INFO - [169] Harrigan, Pat: 开始查找 https://harrigan.house.gov/
+2026-03-13 09:51:25,227 - WARNING - 页面加载超时 (尝试 1/3): https://harshbarger.house.gov
+2026-03-13 09:51:25,260 - INFO - 等待 3 秒后重试...
+2026-03-13 09:51:27,774 - WARNING - 页面加载超时 (尝试 1/3): https://markharris.house.gov/
+2026-03-13 09:51:27,775 - INFO - 等待 3 秒后重试...
+2026-03-13 09:51:31,748 - WARNING - 页面加载超时 (尝试 1/3): https://harris.house.gov/
+2026-03-13 09:51:31,757 - INFO - 等待 3 秒后重试...
+2026-03-13 09:51:34,559 - INFO - [173] Hayes, Jahana: 直接在主页找到Press Release链接 - https://hayes.house.gov/press-releases
+2026-03-13 09:51:53,554 - INFO - [172] Harshbarger, Diana: 直接在主页找到Press Release链接 - https://harshbarger.house.gov/media/press-releases
+2026-03-13 09:51:53,800 - INFO - [170] Harris, Andy: 直接在主页找到Press Release链接 - https://harris.house.gov/media/press-releases
+2026-03-13 09:51:55,355 - INFO - [171] Harris, Mark: 直接在主页找到Press Release链接 - https://markharris.house.gov/media/press-releases
+2026-03-13 09:51:56,131 - INFO - [169] Harrigan, Pat: 直接在主页找到Press Release链接 - https://harrigan.house.gov/media/press-releases
+2026-03-13 09:52:22,214 - INFO - [177] Hill, J.: 开始查找 https://hill.house.gov/
+2026-03-13 09:52:22,246 - INFO - [175] Hernandez, Pablo: 开始查找 https://hernandez.house.gov/
+2026-03-13 09:52:22,246 - INFO - [176] Higgins, Clay: 开始查找 https://clayhiggins.house.gov
+2026-03-13 09:52:22,246 - INFO - [174] Hern, Kevin: 开始查找 https://hern.house.gov
+2026-03-13 09:52:22,246 - INFO - [178] Himes, James: 开始查找 https://himes.house.gov/
+2026-03-13 09:52:38,412 - INFO - [178] Himes, James: 直接在主页找到Press Release链接 - https://himes.house.gov/press-releases
+2026-03-13 09:52:41,954 - INFO - [177] Hill, J.: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 09:52:41,969 - INFO - [176] Higgins, Clay: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:52:43,639 - INFO - [174] Hern, Kevin: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 09:52:44,822 - INFO - [175] Hernandez, Pablo: 直接在主页找到Press Release链接 - https://hernandez.house.gov/media/press-releases
+2026-03-13 09:52:51,871 - INFO - [174] Hern, Kevin: 在菜单 Media 中找到Press Release链接 - https://hern.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:52:52,683 - INFO - [177] Hill, J.: 在菜单 MEDIA 中找到Press Release链接 - https://hill.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:52:52,841 - INFO - [176] Higgins, Clay: 在菜单 Media 中找到Press Release链接 - https://clayhiggins.house.gov/newsroom/#main-content
+2026-03-13 09:53:00,697 - INFO - [179] Hinson, Ashley: 开始查找 https://hinson.house.gov
+2026-03-13 09:53:02,407 - INFO - [182] Houlahan, Chrissy: 开始查找 https://houlahan.house.gov/
+2026-03-13 09:53:02,522 - INFO - [181] Houchin, Erin: 开始查找 https://houchin.house.gov
+2026-03-13 09:53:02,572 - INFO - [180] Horsford, Steven: 开始查找 https://horsford.house.gov
+2026-03-13 09:53:02,572 - INFO - [183] Hoyer, Steny: 开始查找 https://hoyer.house.gov/
+2026-03-13 09:53:58,069 - INFO - [179] Hinson, Ashley: 直接在主页找到Press Release链接 - https://hinson.house.gov/media/press-releases
+2026-03-13 09:54:00,879 - INFO - [180] Horsford, Steven: 直接在主页找到Press Release链接 - https://horsford.house.gov/media/press-releases
+2026-03-13 09:54:03,316 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5abed]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 09:54:05,810 - INFO - [182] Houlahan, Chrissy: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 09:54:06,343 - WARNING - 页面加载超时 (尝试 1/3): https://houchin.house.gov
+2026-03-13 09:54:06,389 - INFO - 等待 3 秒后重试...
+2026-03-13 09:54:07,456 - INFO - [183] Hoyer, Steny: 找到 17 个一级菜单链接，开始检查...
+2026-03-13 09:54:18,476 - INFO - [183] Hoyer, Steny: 在菜单 NEWSROOM 中找到Press Release链接 - https://hoyer.house.gov/media
+2026-03-13 09:54:20,250 - INFO - [181] Houchin, Erin: 直接在主页找到Press Release链接 - https://houchin.house.gov/media/press-releases
+2026-03-13 09:54:22,121 - INFO - [182] Houlahan, Chrissy: 在菜单 PRESS 中找到Press Release链接 - https://houlahan.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:54:34,526 - INFO - [186] Huffman, Jared: 开始查找 https://huffman.house.gov
+2026-03-13 09:54:34,527 - INFO - [184] Hoyle, Val: 开始查找 https://hoyle.house.gov
+2026-03-13 09:54:34,537 - INFO - [187] Huizenga, Bill: 开始查找 https://huizenga.house.gov/
+2026-03-13 09:54:34,537 - INFO - [185] Hudson, Richard: 开始查找 https://hudson.house.gov
+2026-03-13 09:54:34,538 - INFO - [188] Hunt, Wesley: 开始查找 https://hunt.house.gov
+2026-03-13 09:54:51,351 - INFO - [184] Hoyle, Val: 直接在主页找到Press Release链接 - https://hoyle.house.gov/media/press-releases
+2026-03-13 09:54:52,349 - INFO - [186] Huffman, Jared: 直接在主页找到Press Release链接 - https://huffman.house.gov/media-center/press-releases
+2026-03-13 09:54:54,653 - INFO - [188] Hunt, Wesley: 直接在主页找到Press Release链接 - https://hunt.house.gov/media/press-releases
+2026-03-13 09:54:56,851 - INFO - [185] Hudson, Richard: 直接在主页找到Press Release链接 - https://hudson.house.gov/media/press-releases
+2026-03-13 09:54:57,499 - INFO - [187] Huizenga, Bill: 直接在主页找到Press Release链接 - https://huizenga.house.gov/news/documentquery.aspx?DocumentTypeID=2041
+2026-03-13 09:55:03,263 - INFO - [190] Issa, Darrell: 开始查找 https://issa.house.gov
+2026-03-13 09:55:03,304 - INFO - [191] Ivey, Glenn: 开始查找 https://ivey.house.gov
+2026-03-13 09:55:03,323 - INFO - [192] Jack, Brian: 开始查找 https://jack.house.gov/
+2026-03-13 09:55:03,488 - INFO - [189] Hurd, Jeff: 开始查找 https://hurd.house.gov/
+2026-03-13 09:55:03,872 - INFO - [193] Jackson, Jonathan: 开始查找 https://jonathanjackson.house.gov
+2026-03-13 09:56:10,236 - WARNING - 页面加载超时 (尝试 1/3): https://hurd.house.gov/
+2026-03-13 09:56:10,240 - WARNING - 页面加载超时 (尝试 1/3): https://jack.house.gov/
+2026-03-13 09:56:10,302 - INFO - 等待 3 秒后重试...
+2026-03-13 09:56:10,303 - INFO - 等待 3 秒后重试...
+2026-03-13 09:56:29,337 - INFO - [191] Ivey, Glenn: 直接在主页找到Press Release链接 - https://ivey.house.gov/media/press-releases
+2026-03-13 09:56:31,704 - WARNING - 页面加载超时 (尝试 1/3): https://jonathanjackson.house.gov
+2026-03-13 09:56:31,705 - INFO - 等待 3 秒后重试...
+2026-03-13 09:56:35,395 - INFO - [190] Issa, Darrell: 直接在主页找到Press Release链接 - https://issa.house.gov/media/press-releases
+2026-03-13 09:56:50,532 - WARNING - 页面加载超时 (尝试 2/3): https://jack.house.gov/
+2026-03-13 09:56:50,538 - INFO - 等待 5 秒后重试...
+2026-03-13 09:56:59,064 - WARNING - 页面加载超时 (尝试 2/3): https://hurd.house.gov/
+2026-03-13 09:56:59,075 - INFO - 等待 5 秒后重试...
+2026-03-13 09:57:01,788 - INFO - [193] Jackson, Jonathan: 直接在主页找到Press Release链接 - https://jonathanjackson.house.gov/media/press-releases
+2026-03-13 09:57:15,613 - INFO - [189] Hurd, Jeff: 直接在主页找到Press Release链接 - https://hurd.house.gov/media/press-releases
+2026-03-13 09:57:21,138 - INFO - [194] Jackson, Ronny: 开始查找 https://jackson.house.gov
+2026-03-13 09:57:21,145 - INFO - [195] Jacobs, Sara: 开始查找 https://sarajacobs.house.gov
+2026-03-13 09:57:21,614 - INFO - [192] Jack, Brian: 直接在主页找到Press Release链接 - https://jack.house.gov/media/press-releases
+2026-03-13 09:57:23,667 - INFO - [196] James, John: 开始查找 https://james.house.gov
+2026-03-13 09:57:24,853 - INFO - [197] Jayapal, Pramila: 开始查找 https://jayapal.house.gov
+2026-03-13 09:57:27,192 - INFO - [198] Jeffries, Hakeem: 开始查找 https://jeffries.house.gov
+2026-03-13 09:57:34,900 - INFO - [195] Jacobs, Sara: 直接在主页找到Press Release链接 - https://sarajacobs.house.gov/news/press-releases
+2026-03-13 09:57:36,560 - INFO - [197] Jayapal, Pramila: 直接在主页找到Press Release链接 - https://jayapal.house.gov/category/news/
+2026-03-13 09:57:37,399 - INFO - [194] Jackson, Ronny: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:57:41,628 - INFO - [196] James, John: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 09:57:41,856 - INFO - [199] Johnson, Dusty: 开始查找 https://dustyjohnson.house.gov/
+2026-03-13 09:57:42,981 - INFO - [200] Johnson, Henry: 开始查找 https://hankjohnson.house.gov/
+2026-03-13 09:57:45,857 - INFO - [198] Jeffries, Hakeem: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 09:57:47,702 - INFO - [194] Jackson, Ronny: 在菜单 MEDIA 中找到Press Release链接 - https://jackson.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:57:54,390 - INFO - [196] James, John: 在菜单 MEDIA 中找到Press Release链接 - https://james.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:57:58,754 - INFO - [199] Johnson, Dusty: 直接在主页找到Press Release链接 - https://dustyjohnson.house.gov/media/press-releases
+2026-03-13 09:58:05,551 - INFO - [200] Johnson, Henry: 直接在主页找到Press Release链接 - https://hankjohnson.house.gov/media-center/press-releases
+2026-03-13 09:58:07,627 - INFO - [198] Jeffries, Hakeem: 未找到Press Release页面
+2026-03-13 09:58:11,253 - INFO - [201] Johnson, Julie: 开始查找 https://juliejohnson.house.gov/
+2026-03-13 09:58:11,319 - INFO - [202] Johnson, Mike: 开始查找 https://mikejohnson.house.gov
+2026-03-13 09:58:11,711 - INFO - [203] Jordan, Jim: 开始查找 https://jordan.house.gov/
+2026-03-13 09:58:12,076 - INFO - [204] Joyce, David: 开始查找 https://joyce.house.gov
+2026-03-13 09:58:12,375 - INFO - [205] Joyce, John: 开始查找 https://johnjoyce.house.gov/
+2026-03-13 09:58:28,082 - INFO - [204] Joyce, David: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 09:58:28,332 - INFO - [202] Johnson, Mike: 直接在主页找到Press Release链接 - https://mikejohnson.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 09:58:28,839 - INFO - [203] Jordan, Jim: 直接在主页找到Press Release链接 - https://jordan.house.gov/media/press-releases
+2026-03-13 09:58:29,168 - INFO - [205] Joyce, John: 直接在主页找到Press Release链接 - https://johnjoyce.house.gov/media/press-releases
+2026-03-13 09:58:31,062 - INFO - [201] Johnson, Julie: 直接在主页找到Press Release链接 - https://juliejohnson.house.gov/media/press-releases
+2026-03-13 09:58:34,391 - INFO - [206] Kamlager-Dove, Sydney: 开始查找 https://kamlager-dove.house.gov
+2026-03-13 09:58:34,629 - INFO - [208] Kean, Thomas: 开始查找 https://kean.house.gov
+2026-03-13 09:58:34,906 - INFO - [207] Kaptur, Marcy: 开始查找 https://kaptur.house.gov/
+2026-03-13 09:58:35,734 - INFO - [209] Keating, William: 开始查找 https://keating.house.gov/
+2026-03-13 09:59:21,346 - INFO - [204] Joyce, David: 未找到Press Release页面
+2026-03-13 09:59:47,674 - WARNING - 页面加载超时 (尝试 1/3): https://keating.house.gov/
+2026-03-13 09:59:47,688 - INFO - 等待 3 秒后重试...
+2026-03-13 10:00:01,078 - WARNING - 页面加载超时 (尝试 1/3): https://kaptur.house.gov/
+2026-03-13 10:00:01,663 - INFO - 等待 3 秒后重试...
+2026-03-13 10:00:29,851 - WARNING - 页面加载超时 (尝试 2/3): https://keating.house.gov/
+2026-03-13 10:00:29,940 - INFO - 等待 5 秒后重试...
+2026-03-13 10:00:38,070 - ERROR - [206] Kamlager-Dove, Sydney: 未知错误: HTTPConnectionPool(host='localhost', port=62293): Read timed out. (read timeout=120)
+2026-03-13 10:00:46,804 - INFO - [208] Kean, Thomas: 直接在主页找到Press Release链接 - https://kean.house.gov/media/press-releases
+2026-03-13 10:00:47,317 - WARNING - 页面加载超时 (尝试 2/3): https://kaptur.house.gov/
+2026-03-13 10:00:47,319 - INFO - 等待 5 秒后重试...
+2026-03-13 10:00:52,119 - INFO - [210] Kelly, Mike: 开始查找 https://kelly.house.gov
+2026-03-13 10:00:59,077 - INFO - [209] Keating, William: 直接在主页找到Press Release链接 - https://keating.house.gov/media-center/press-releases/keating-ukraine-caucus-co-chairs-urge-international-paralympic
+2026-03-13 10:00:59,374 - INFO - [207] Kaptur, Marcy: 直接在主页找到Press Release链接 - https://kaptur.house.gov/media-center/press-releases
+2026-03-13 10:01:03,023 - INFO - [210] Kelly, Mike: 直接在主页找到Press Release链接 - https://kelly.house.gov/media/press-releases
+2026-03-13 10:01:04,121 - INFO - [211] Kelly, Robin: 开始查找 https://robinkelly.house.gov/
+2026-03-13 10:01:04,863 - INFO - [212] Kelly, Trent: 开始查找 https://trentkelly.house.gov/
+2026-03-13 10:01:05,792 - INFO - [213] Kennedy, Mike: 开始查找 https://mikekennedy.house.gov/
+2026-03-13 10:01:05,793 - INFO - [214] Kennedy, Timothy: 开始查找 https://kennedy.house.gov
+2026-03-13 10:01:08,927 - INFO - [215] Khanna, Ro: 开始查找 https://khanna.house.gov
+2026-03-13 10:01:25,653 - INFO - [215] Khanna, Ro: 直接在主页找到Press Release链接 - https://khanna.house.gov/media/press-releases
+2026-03-13 10:01:27,144 - INFO - [211] Kelly, Robin: 直接在主页找到Press Release链接 - https://robinkelly.house.gov/media-center/press-releases
+2026-03-13 10:01:27,470 - INFO - [213] Kennedy, Mike: 直接在主页找到Press Release链接 - https://mikekennedy.house.gov/media/press-releases
+2026-03-13 10:01:27,471 - INFO - [212] Kelly, Trent: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:01:30,928 - INFO - [214] Kennedy, Timothy: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:01:34,096 - INFO - [212] Kelly, Trent: 在菜单 Press 中找到Press Release链接 - https://trentkelly.house.gov/newsroom/#main
+2026-03-13 10:01:37,854 - INFO - [216] Kiggans, Jennifer: 开始查找 https://kiggans.house.gov
+2026-03-13 10:01:38,500 - INFO - [217] Kiley, Kevin: 开始查找 https://kiley.house.gov
+2026-03-13 10:01:38,551 - INFO - [218] Kim, Young: 开始查找 https://youngkim.house.gov
+2026-03-13 10:01:38,990 - INFO - [214] Kennedy, Timothy: 在菜单 MEDIA 中找到Press Release链接 - https://kennedy.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:01:40,673 - INFO - [219] King-Hinds, Kimberlyn: 开始查找 https://king-hinds.house.gov/
+2026-03-13 10:01:43,851 - INFO - [220] Knott, Brad: 开始查找 https://knott.house.gov/
+2026-03-13 10:01:45,335 - INFO - [216] Kiggans, Jennifer: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:01:54,965 - INFO - [217] Kiley, Kevin: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:01:59,125 - INFO - [218] Kim, Young: 直接在主页找到Press Release链接 - https://youngkim.house.gov/media/press-releases/
+2026-03-13 10:01:59,389 - INFO - [219] King-Hinds, Kimberlyn: 直接在主页找到Press Release链接 - https://king-hinds.house.gov/media/press-releases
+2026-03-13 10:02:00,942 - INFO - [220] Knott, Brad: 直接在主页找到Press Release链接 - https://knott.house.gov/media/press-releases
+2026-03-13 10:02:02,802 - INFO - [217] Kiley, Kevin: 未找到Press Release页面
+2026-03-13 10:02:06,229 - INFO - [216] Kiggans, Jennifer: 未找到Press Release页面
+2026-03-13 10:02:09,549 - INFO - [222] Kustoff, David: 开始查找 https://kustoff.house.gov
+2026-03-13 10:02:09,664 - INFO - [224] LaLota, Nick: 开始查找 https://lalota.house.gov
+2026-03-13 10:02:09,673 - INFO - [223] LaHood, Darin: 开始查找 https://lahood.house.gov/
+2026-03-13 10:02:09,681 - INFO - [221] Krishnamoorthi, Raja: 开始查找 https://krishnamoorthi.house.gov
+2026-03-13 10:02:10,534 - INFO - [225] LaMalfa, Doug: 开始查找 https://lamalfa.house.gov
+2026-03-13 10:02:20,508 - INFO - [223] LaHood, Darin: 直接在主页找到Press Release链接 - https://lahood.house.gov/press-releases
+2026-03-13 10:02:20,920 - INFO - [222] Kustoff, David: 直接在主页找到Press Release链接 - https://kustoff.house.gov/media/press-releases
+2026-03-13 10:02:23,096 - INFO - [221] Krishnamoorthi, Raja: 直接在主页找到Press Release链接 - https://krishnamoorthi.house.gov/media/press-releases
+2026-03-13 10:02:27,385 - INFO - [226] Landsman, Greg: 开始查找 https://landsman.house.gov
+2026-03-13 10:02:27,871 - INFO - [227] Langworthy, Nicholas: 开始查找 https://langworthy.house.gov
+2026-03-13 10:02:28,140 - INFO - [228] Larsen, Rick: 开始查找 https://larsen.house.gov
+2026-03-13 10:02:29,478 - INFO - [224] LaLota, Nick: 直接在主页找到Press Release链接 - https://lalota.house.gov/media/press-releases
+2026-03-13 10:02:33,657 - INFO - [229] Larson, John: 开始查找 https://larson.house.gov/
+2026-03-13 10:02:35,653 - INFO - [226] Landsman, Greg: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:02:39,085 - WARNING - 页面加载超时 (尝试 1/3): https://lamalfa.house.gov
+2026-03-13 10:02:39,113 - INFO - 等待 3 秒后重试...
+2026-03-13 10:02:48,119 - INFO - [227] Langworthy, Nicholas: 直接在主页找到Press Release链接 - https://langworthy.house.gov/media
+2026-03-13 10:02:48,757 - INFO - [226] Landsman, Greg: 未找到Press Release页面
+2026-03-13 10:02:50,983 - INFO - [228] Larsen, Rick: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:02:51,431 - INFO - [229] Larson, John: 直接在主页找到Press Release链接 - https://larson.house.gov/media-center/press-releases
+2026-03-13 10:02:55,180 - INFO - [230] Latimer, George: 开始查找 https://latimer.house.gov/
+2026-03-13 10:02:55,207 - INFO - [231] Latta, Robert: 开始查找 https://latta.house.gov/
+2026-03-13 10:02:55,811 - INFO - [232] Lawler, Michael: 开始查找 https://lawler.house.gov
+2026-03-13 10:02:59,267 - INFO - [228] Larsen, Rick: 在菜单 Media Center 中找到Press Release链接 - https://larsen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:03:05,044 - INFO - [233] Lee, Laurel: 开始查找 https://laurellee.house.gov
+2026-03-13 10:03:07,195 - WARNING - 页面加载超时 (尝试 2/3): https://lamalfa.house.gov
+2026-03-13 10:03:07,200 - INFO - 等待 5 秒后重试...
+2026-03-13 10:03:12,181 - INFO - [230] Latimer, George: 直接在主页找到Press Release链接 - https://latimer.house.gov/media/press-releases
+2026-03-13 10:03:12,760 - INFO - [231] Latta, Robert: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:03:16,448 - INFO - [232] Lawler, Michael: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:03:18,459 - INFO - [231] Latta, Robert: 在菜单 Newsroom 中找到Press Release链接 - https://latta.house.gov/news/documentquery.aspx?DocumentTypeID=1456
+2026-03-13 10:03:18,915 - INFO - [233] Lee, Laurel: 直接在主页找到Press Release链接 - https://laurellee.house.gov/media/press-releases
+2026-03-13 10:03:21,834 - INFO - [234] Lee, Summer: 开始查找 https://summerlee.house.gov
+2026-03-13 10:03:23,136 - INFO - [236] Leger Fernandez, Teresa: 开始查找 https://fernandez.house.gov
+2026-03-13 10:03:23,280 - INFO - [235] Lee, Susie: 开始查找 https://susielee.house.gov
+2026-03-13 10:03:25,305 - INFO - [232] Lawler, Michael: 在菜单 MEDIA 中找到Press Release链接 - https://lawler.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:03:29,605 - INFO - [237] Letlow, Julia: 开始查找 https://letlow.house.gov
+2026-03-13 10:03:36,349 - INFO - [234] Lee, Summer: 直接在主页找到Press Release链接 - https://summerlee.house.gov/newsroom/press-releases
+2026-03-13 10:03:37,266 - WARNING - 页面加载超时 (尝试 3/3): https://lamalfa.house.gov
+2026-03-13 10:03:37,269 - ERROR - 页面加载失败，已达最大重试次数 (3): https://lamalfa.house.gov
+2026-03-13 10:03:37,269 - ERROR - [225] LaMalfa, Doug: 页面加载超时
+2026-03-13 10:03:39,463 - INFO - [235] Lee, Susie: 直接在主页找到Press Release链接 - https://susielee.house.gov/media/press-releases
+2026-03-13 10:03:40,621 - INFO - [236] Leger Fernandez, Teresa: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:03:44,693 - INFO - [238] Levin, Mike: 开始查找 https://levin.house.gov/
+2026-03-13 10:03:44,700 - INFO - [239] Liccardo, Sam: 开始查找 https://liccardo.house.gov/
+2026-03-13 10:03:44,786 - INFO - [240] Lieu, Ted: 开始查找 https://lieu.house.gov/
+2026-03-13 10:03:48,443 - INFO - [236] Leger Fernandez, Teresa: 在菜单 PRESS 中找到Press Release链接 - https://fernandez.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:03:54,074 - INFO - [241] Lofgren, Zoe: 开始查找 https://lofgren.house.gov/
+2026-03-13 10:03:56,567 - INFO - [237] Letlow, Julia: 直接在主页找到Press Release链接 - https://letlow.house.gov/media/press-releases
+2026-03-13 10:04:01,227 - INFO - [240] Lieu, Ted: 直接在主页找到Press Release链接 - https://lieu.house.gov/media-center/press-releases
+2026-03-13 10:04:02,825 - INFO - [238] Levin, Mike: 直接在主页找到Press Release链接 - https://levin.house.gov/media/press-releases
+2026-03-13 10:04:07,250 - INFO - [239] Liccardo, Sam: 直接在主页找到Press Release链接 - https://liccardo.house.gov/media/press-releases
+2026-03-13 10:04:09,912 - INFO - [242] Loudermilk, Barry: 开始查找 https://loudermilk.house.gov
+2026-03-13 10:04:09,914 - INFO - [243] Lucas, Frank: 开始查找 https://lucas.house.gov
+2026-03-13 10:04:10,015 - INFO - [244] Luna, Anna Paulina: 开始查找 https://luna.house.gov
+2026-03-13 10:04:10,188 - INFO - [241] Lofgren, Zoe: 直接在主页找到Press Release链接 - https://lofgren.house.gov/media/press-releases
+2026-03-13 10:04:11,141 - INFO - [245] Luttrell, Morgan: 开始查找 https://luttrell.house.gov
+2026-03-13 10:04:14,592 - INFO - [246] Lynch, Stephen: 开始查找 https://lynch.house.gov/
+2026-03-13 10:04:27,211 - INFO - [243] Lucas, Frank: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:04:27,282 - INFO - [246] Lynch, Stephen: 直接在主页找到Press Release链接 - https://lynch.house.gov/press-releases
+2026-03-13 10:04:28,169 - INFO - [244] Luna, Anna Paulina: 找到 17 个一级菜单链接，开始检查...
+2026-03-13 10:04:28,590 - INFO - [245] Luttrell, Morgan: 直接在主页找到Press Release链接 - https://luttrell.house.gov/media/press-releases
+2026-03-13 10:04:33,892 - INFO - [248] Mackenzie, Ryan: 开始查找 https://mackenzie.house.gov/
+2026-03-13 10:04:33,945 - INFO - [247] Mace, Nancy: 开始查找 https://mace.house.gov
+2026-03-13 10:04:34,385 - INFO - [242] Loudermilk, Barry: 直接在主页找到Press Release链接 - https://loudermilk.house.gov/category/press-releases/
+2026-03-13 10:04:37,577 - INFO - [243] Lucas, Frank: 未找到Press Release页面
+2026-03-13 10:04:44,357 - INFO - [249] Magaziner, Seth: 开始查找 https://magaziner.house.gov
+2026-03-13 10:04:44,357 - INFO - [250] Malliotakis, Nicole: 开始查找 https://malliotakis.house.gov
+2026-03-13 10:04:45,247 - INFO - [244] Luna, Anna Paulina: 未找到Press Release页面
+2026-03-13 10:04:48,288 - INFO - [251] Maloy, Celeste: 开始查找 https://maloy.house.gov
+2026-03-13 10:04:48,778 - INFO - [247] Mace, Nancy: 直接在主页找到Press Release链接 - https://mace.house.gov/media/press-releases
+2026-03-13 10:04:50,731 - INFO - [248] Mackenzie, Ryan: 直接在主页找到Press Release链接 - https://mackenzie.house.gov/media/press-releases
+2026-03-13 10:04:53,579 - INFO - [250] Malliotakis, Nicole: 直接在主页找到Press Release链接 - https://malliotakis.house.gov/media/press-releases
+2026-03-13 10:04:56,589 - INFO - [252] Mann, Tracey: 开始查找 https://mann.house.gov
+2026-03-13 10:04:57,089 - INFO - [249] Magaziner, Seth: 直接在主页找到Press Release链接 - https://magaziner.house.gov/media/press-releases
+2026-03-13 10:04:57,710 - INFO - [254] Massie, Thomas: 开始查找 https://massie.house.gov
+2026-03-13 10:04:57,725 - INFO - [253] Mannion, John: 开始查找 https://mannion.house.gov/
+2026-03-13 10:05:03,088 - INFO - [251] Maloy, Celeste: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:05:04,461 - INFO - [255] Mast, Brian: 开始查找 https://mast.house.gov
+2026-03-13 10:05:17,251 - INFO - [254] Massie, Thomas: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:05:18,765 - INFO - [252] Mann, Tracey: 直接在主页找到Press Release链接 - https://mann.house.gov/media/press-releases
+2026-03-13 10:05:21,257 - INFO - [251] Maloy, Celeste: 在菜单 MEDIA 中找到Press Release链接 - https://maloy.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:05:21,624 - INFO - [253] Mannion, John: 直接在主页找到Press Release链接 - https://mannion.house.gov/media/press-releases
+2026-03-13 10:05:22,877 - INFO - [255] Mast, Brian: 直接在主页找到Press Release链接 - https://mast.house.gov/press-releases
+2026-03-13 10:05:23,411 - INFO - [254] Massie, Thomas: 未找到Press Release页面
+2026-03-13 10:05:29,424 - INFO - [257] McBath, Lucy: 开始查找 https://mcbath.house.gov
+2026-03-13 10:05:29,431 - INFO - [256] Matsui, Doris: 开始查找 https://matsui.house.gov
+2026-03-13 10:05:29,453 - INFO - [259] McCaul, Michael: 开始查找 https://mccaul.house.gov
+2026-03-13 10:05:29,458 - INFO - [258] McBride, Sarah: 开始查找 https://mcbride.house.gov/
+2026-03-13 10:05:29,714 - INFO - [260] McClain, Lisa: 开始查找 https://mcclain.house.gov
+2026-03-13 10:05:41,844 - INFO - [257] McBath, Lucy: 直接在主页找到Press Release链接 - https://mcbath.house.gov/press-releases
+2026-03-13 10:05:43,030 - INFO - [260] McClain, Lisa: 直接在主页找到Press Release链接 - https://mcclain.house.gov/press-releases
+2026-03-13 10:05:47,599 - INFO - [256] Matsui, Doris: 直接在主页找到Press Release链接 - https://matsui.house.gov/media/press-releases
+2026-03-13 10:05:47,934 - INFO - [259] McCaul, Michael: 直接在主页找到Press Release链接 - https://mccaul.house.gov/media-center/press-releases
+2026-03-13 10:05:49,317 - INFO - [258] McBride, Sarah: 直接在主页找到Press Release链接 - https://mcbride.house.gov/media/press-releases
+2026-03-13 10:05:52,436 - INFO - [262] McClellan, Jennifer: 开始查找 https://mcclellan.house.gov/
+2026-03-13 10:05:52,444 - INFO - [261] McClain Delaney, April: 开始查找 https://mcclaindelaney.house.gov/
+2026-03-13 10:05:52,635 - INFO - [263] McClintock, Tom: 开始查找 https://mcclintock.house.gov/
+2026-03-13 10:05:53,504 - INFO - [264] McCollum, Betty: 开始查找 https://mccollum.house.gov
+2026-03-13 10:05:53,692 - INFO - [265] McCormick, Richard: 开始查找 https://mccormick.house.gov
+2026-03-13 10:06:28,280 - INFO - [264] McCollum, Betty: 直接在主页找到Press Release链接 - https://mccollum.house.gov/media/press-releases
+2026-03-13 10:06:28,467 - INFO - [261] McClain Delaney, April: 直接在主页找到Press Release链接 - https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-announces-seven-more-community-projects-marylands-sixth
+2026-03-13 10:06:29,257 - WARNING - 页面加载超时 (尝试 1/3): https://mcclintock.house.gov/
+2026-03-13 10:06:29,278 - INFO - 等待 3 秒后重试...
+2026-03-13 10:06:30,166 - WARNING - 页面加载超时 (尝试 1/3): https://mccormick.house.gov
+2026-03-13 10:06:30,174 - INFO - 等待 3 秒后重试...
+2026-03-13 10:06:30,399 - INFO - [262] McClellan, Jennifer: 直接在主页找到Press Release链接 - https://mcclellan.house.gov/media/press-releases
+2026-03-13 10:06:42,247 - INFO - [265] McCormick, Richard: 直接在主页找到Press Release链接 - https://mccormick.house.gov/media
+2026-03-13 10:06:49,825 - INFO - [263] McClintock, Tom: 直接在主页找到Press Release链接 - https://mcclintock.house.gov/newsroom/press-releases
+2026-03-13 10:06:57,044 - INFO - [270] McGuire, John: 开始查找 https://mcguire.house.gov/
+2026-03-13 10:06:57,056 - INFO - [268] McGarvey, Morgan: 开始查找 https://mcgarvey.house.gov
+2026-03-13 10:06:57,058 - INFO - [266] McDonald Rivet, Kristen: 开始查找 https://mcdonaldrivet.house.gov/
+2026-03-13 10:06:57,059 - INFO - [269] McGovern, James: 开始查找 https://mcgovern.house.gov/
+2026-03-13 10:06:57,061 - INFO - [267] McDowell, Addison: 开始查找 https://mcdowell.house.gov/
+2026-03-13 10:07:23,092 - INFO - [268] McGarvey, Morgan: 直接在主页找到Press Release链接 - https://mcgarvey.house.gov/media/press-releases
+2026-03-13 10:07:27,889 - WARNING - 页面加载超时 (尝试 1/3): https://mcdonaldrivet.house.gov/
+2026-03-13 10:07:27,893 - INFO - 等待 3 秒后重试...
+2026-03-13 10:07:29,320 - WARNING - 页面加载超时 (尝试 1/3): https://mcdowell.house.gov/
+2026-03-13 10:07:29,326 - INFO - 等待 3 秒后重试...
+2026-03-13 10:07:29,404 - WARNING - 页面加载超时 (尝试 1/3): https://mcguire.house.gov/
+2026-03-13 10:07:29,405 - INFO - 等待 3 秒后重试...
+2026-03-13 10:07:30,950 - INFO - [269] McGovern, James: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:07:42,483 - INFO - [267] McDowell, Addison: 直接在主页找到Press Release链接 - https://mcdowell.house.gov/media/press-releases
+2026-03-13 10:07:43,232 - INFO - [266] McDonald Rivet, Kristen: 直接在主页找到Press Release链接 - https://mcdonaldrivet.house.gov/media/press-releases/icymi-rep-mcdonald-rivet-new-democrat-coalition-unveil-policy-agenda-make-life
+2026-03-13 10:07:45,225 - INFO - [269] McGovern, James: 在菜单 Newsroom 中找到Press Release链接 - https://mcgovern.house.gov/newsroom
+2026-03-13 10:07:48,967 - INFO - [270] McGuire, John: 直接在主页找到Press Release链接 - https://mcguire.house.gov/media/press-releases
+2026-03-13 10:08:00,844 - INFO - [271] McIver, LaMonica: 开始查找 https://mciver.house.gov/
+2026-03-13 10:08:00,866 - INFO - [273] Menefee, Christian: 开始查找 http://menefee.house.gov/
+2026-03-13 10:08:00,870 - INFO - [272] Meeks, Gregory: 开始查找 https://meeks.house.gov
+2026-03-13 10:08:00,891 - INFO - [274] Menendez, Robert: 开始查找 https://menendez.house.gov
+2026-03-13 10:08:00,902 - INFO - [275] Meng, Grace: 开始查找 https://meng.house.gov
+2026-03-13 10:08:21,887 - INFO - [271] McIver, LaMonica: 直接在主页找到Press Release链接 - https://mciver.house.gov/media/press-releases
+2026-03-13 10:08:22,019 - INFO - [274] Menendez, Robert: 直接在主页找到Press Release链接 - https://menendez.house.gov/media/press-releases
+2026-03-13 10:08:24,758 - INFO - [273] Menefee, Christian: 直接在主页找到Press Release链接 - https://menefee.house.gov/media/press-releases
+2026-03-13 10:08:25,190 - INFO - [275] Meng, Grace: 直接在主页找到Press Release链接 - https://meng.house.gov/media-center/press-releases
+2026-03-13 10:08:25,926 - INFO - [272] Meeks, Gregory: 直接在主页找到Press Release链接 - https://meeks.house.gov/media/press-releases
+2026-03-13 10:08:32,369 - INFO - [276] Messmer, Mark: 开始查找 https://messmer.house.gov/
+2026-03-13 10:08:36,477 - INFO - [277] Meuser, Daniel: 开始查找 https://meuser.house.gov
+2026-03-13 10:08:38,543 - INFO - [279] Miller, Carol: 开始查找 https://miller.house.gov/
+2026-03-13 10:08:38,554 - INFO - [278] Mfume, Kweisi: 开始查找 https://mfume.house.gov/
+2026-03-13 10:08:39,514 - INFO - [280] Miller, Mary: 开始查找 https://marymiller.house.gov
+2026-03-13 10:08:52,458 - INFO - [276] Messmer, Mark: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:08:54,338 - INFO - [280] Miller, Mary: 直接在主页找到Press Release链接 - https://marymiller.house.gov/media/press-releases
+2026-03-13 10:08:54,871 - INFO - [279] Miller, Carol: 直接在主页找到Press Release链接 - https://miller.house.gov/media/press-releases
+2026-03-13 10:08:55,002 - INFO - [278] Mfume, Kweisi: 直接在主页找到Press Release链接 - https://mfume.house.gov/media/press-releases
+2026-03-13 10:08:57,993 - INFO - [277] Meuser, Daniel: 直接在主页找到Press Release链接 - https://meuser.house.gov/media/press-releases
+2026-03-13 10:08:59,736 - INFO - [276] Messmer, Mark: 在菜单 Media 中找到Press Release链接 - https://messmer.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:09:02,075 - INFO - [281] Miller, Max: 开始查找 https://maxmiller.house.gov
+2026-03-13 10:09:02,849 - INFO - [282] Miller-Meeks, Mariannette: 开始查找 https://millermeeks.house.gov/
+2026-03-13 10:09:03,147 - INFO - [283] Mills, Cory: 开始查找 https://mills.house.gov
+2026-03-13 10:09:04,752 - INFO - [284] Min, Dave: 开始查找 https://min.house.gov/
+2026-03-13 10:09:05,476 - INFO - [285] Moolenaar, John: 开始查找 https://moolenaar.house.gov/
+2026-03-13 10:09:16,871 - INFO - [281] Miller, Max: 未找到Press Release页面
+2026-03-13 10:09:19,155 - INFO - [283] Mills, Cory: 直接在主页找到Press Release链接 - https://mills.house.gov/media/press-releases
+2026-03-13 10:09:19,471 - INFO - [282] Miller-Meeks, Mariannette: 直接在主页找到Press Release链接 - https://millermeeks.house.gov/media/press-releases
+2026-03-13 10:09:20,745 - INFO - [284] Min, Dave: 直接在主页找到Press Release链接 - https://min.house.gov/media/press-releases
+2026-03-13 10:09:22,114 - INFO - [285] Moolenaar, John: 直接在主页找到Press Release链接 - https://moolenaar.house.gov/media-center/press-releases
+2026-03-13 10:09:30,091 - INFO - [287] Moore, Blake: 开始查找 https://blakemoore.house.gov
+2026-03-13 10:09:30,132 - INFO - [286] Moore, Barry: 开始查找 https://barrymoore.house.gov
+2026-03-13 10:09:30,133 - INFO - [288] Moore, Gwen: 开始查找 https://gwenmoore.house.gov
+2026-03-13 10:09:30,134 - INFO - [290] Moore, Tim: 开始查找 https://timmoore.house.gov/
+2026-03-13 10:09:30,224 - INFO - [289] Moore, Riley: 开始查找 https://rileymoore.house.gov/
+2026-03-13 10:09:57,489 - WARNING - 页面加载超时 (尝试 1/3): https://timmoore.house.gov/
+2026-03-13 10:09:58,007 - INFO - 等待 3 秒后重试...
+2026-03-13 10:10:15,466 - INFO - [286] Moore, Barry: 直接在主页找到Press Release链接 - https://barrymoore.house.gov/media/press-releases
+2026-03-13 10:10:18,449 - INFO - [287] Moore, Blake: 直接在主页找到Press Release链接 - https://blakemoore.house.gov/media/press-releases
+2026-03-13 10:10:31,697 - INFO - [288] Moore, Gwen: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:10:33,377 - INFO - [289] Moore, Riley: 直接在主页找到Press Release链接 - https://rileymoore.house.gov/media/press-releases
+2026-03-13 10:10:33,818 - INFO - [290] Moore, Tim: 直接在主页找到Press Release链接 - https://timmoore.house.gov/media/press-releases
+2026-03-13 10:10:40,238 - INFO - [288] Moore, Gwen: 在菜单 NEWS 中找到Press Release链接 - https://gwenmoore.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:10:56,176 - INFO - [292] Morelle, Joseph: 开始查找 https://morelle.house.gov
+2026-03-13 10:10:56,181 - INFO - [295] Moulton, Seth: 开始查找 https://moulton.house.gov/
+2026-03-13 10:10:56,189 - INFO - [294] Moskowitz, Jared: 开始查找 https://moskowitz.house.gov
+2026-03-13 10:10:56,194 - INFO - [293] Morrison, Kelly: 开始查找 https://morrison.house.gov/
+2026-03-13 10:10:56,200 - INFO - [291] Moran, Nathaniel: 开始查找 https://moran.house.gov
+2026-03-13 10:11:18,440 - INFO - [294] Moskowitz, Jared: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:11:28,065 - INFO - [293] Morrison, Kelly: 直接在主页找到Press Release链接 - https://morrison.house.gov/media/press-releases
+2026-03-13 10:11:28,167 - INFO - [292] Morelle, Joseph: 直接在主页找到Press Release链接 - https://morelle.house.gov/media
+2026-03-13 10:11:28,560 - INFO - [295] Moulton, Seth: 直接在主页找到Press Release链接 - https://moulton.house.gov/news
+2026-03-13 10:11:29,992 - INFO - [291] Moran, Nathaniel: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:11:34,156 - INFO - [294] Moskowitz, Jared: 未找到Press Release页面
+2026-03-13 10:11:40,259 - INFO - [291] Moran, Nathaniel: 在菜单 MEDIA 中找到Press Release链接 - https://moran.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:11:49,960 - INFO - [296] Moylan, James: 开始查找 https://moylan.house.gov
+2026-03-13 10:11:50,096 - INFO - [297] Mrvan, Frank: 开始查找 https://mrvan.house.gov
+2026-03-13 10:11:50,136 - INFO - [300] Nadler, Jerrold: 开始查找 https://nadler.house.gov
+2026-03-13 10:11:50,150 - INFO - [298] Mullin, Kevin: 开始查找 https://kevinmullin.house.gov
+2026-03-13 10:11:50,164 - INFO - [299] Murphy, Gregory: 开始查找 https://murphy.house.gov
+2026-03-13 10:12:19,289 - WARNING - 页面加载超时 (尝试 1/3): https://murphy.house.gov
+2026-03-13 10:12:19,506 - INFO - 等待 3 秒后重试...
+2026-03-13 10:12:35,316 - INFO - [296] Moylan, James: 直接在主页找到Press Release链接 - https://moylan.house.gov/media
+2026-03-13 10:12:36,748 - INFO - [300] Nadler, Jerrold: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:12:36,854 - WARNING - 页面加载超时 (尝试 1/3): https://mrvan.house.gov
+2026-03-13 10:12:36,854 - INFO - 等待 3 秒后重试...
+2026-03-13 10:12:44,644 - INFO - [299] Murphy, Gregory: 直接在主页找到Press Release链接 - https://murphy.house.gov/media/press-releases
+2026-03-13 10:12:48,049 - INFO - [300] Nadler, Jerrold: 在菜单 Newsroom 中找到Press Release链接 - https://nadler.house.gov/news
+2026-03-13 10:12:48,509 - INFO - [297] Mrvan, Frank: 直接在主页找到Press Release链接 - https://mrvan.house.gov/media/press-releases
+2026-03-13 10:12:52,297 - INFO - [298] Mullin, Kevin: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:12:57,643 - INFO - [301] Neal, Richard: 开始查找 https://neal.house.gov/
+2026-03-13 10:12:57,728 - INFO - [302] Neguse, Joe: 开始查找 https://neguse.house.gov/
+2026-03-13 10:12:58,941 - INFO - [303] Nehls, Troy: 开始查找 https://nehls.house.gov
+2026-03-13 10:12:59,214 - INFO - [304] Newhouse, Dan: 开始查找 https://newhouse.house.gov
+2026-03-13 10:13:01,093 - INFO - [298] Mullin, Kevin: 在菜单 MEDIA 中找到Press Release链接 - https://kevinmullin.house.gov/category/press_release/
+2026-03-13 10:13:15,459 - INFO - [305] Norcross, Donald: 开始查找 https://norcross.house.gov
+2026-03-13 10:14:20,472 - INFO - [302] Neguse, Joe: 直接在主页找到Press Release链接 - https://neguse.house.gov/media/press-releases
+2026-03-13 10:14:38,303 - INFO - [303] Nehls, Troy: 直接在主页找到Press Release链接 - https://nehls.house.gov/media/press-releases
+2026-03-13 10:14:42,010 - INFO - [305] Norcross, Donald: 直接在主页找到Press Release链接 - https://norcross.house.gov/press-releases
+2026-03-13 10:14:42,942 - INFO - [301] Neal, Richard: 直接在主页找到Press Release链接 - https://neal.house.gov/category/press-releases/
+2026-03-13 10:14:44,530 - INFO - [304] Newhouse, Dan: 直接在主页找到Press Release链接 - https://newhouse.house.gov/media-center/press-releases
+2026-03-13 10:14:54,538 - INFO - [309] Obernolte, Jay: 开始查找 https://obernolte.house.gov
+2026-03-13 10:14:54,558 - INFO - [308] Nunn, Zachary: 开始查找 https://nunn.house.gov
+2026-03-13 10:14:54,560 - INFO - [307] Norton, Eleanor: 开始查找 https://norton.house.gov/
+2026-03-13 10:14:54,573 - INFO - [310] Ocasio-Cortez, Alexandria: 开始查找 https://ocasio-cortez.house.gov/
+2026-03-13 10:14:54,601 - INFO - [306] Norman, Ralph: 开始查找 https://norman.house.gov
+2026-03-13 10:15:15,785 - INFO - [306] Norman, Ralph: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:15:16,358 - INFO - [309] Obernolte, Jay: 直接在主页找到Press Release链接 - https://obernolte.house.gov/media/press-releases
+2026-03-13 10:15:16,385 - INFO - [310] Ocasio-Cortez, Alexandria: 直接在主页找到Press Release链接 - https://ocasio-cortez.house.gov/media/press-releases
+2026-03-13 10:15:16,917 - INFO - [308] Nunn, Zachary: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:15:19,282 - INFO - [307] Norton, Eleanor: 直接在主页找到Press Release链接 - https://norton.house.gov/media
+2026-03-13 10:15:23,507 - INFO - [306] Norman, Ralph: 在菜单 MEDIA 中找到Press Release链接 - https://norman.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:15:27,141 - INFO - [313] Omar, Ilhan: 开始查找 https://omar.house.gov/
+2026-03-13 10:15:27,157 - INFO - [312] Olszewski, Johnny: 开始查找 https://olszewski.house.gov/
+2026-03-13 10:15:27,196 - INFO - [311] Ogles, Andrew: 开始查找 https://ogles.house.gov
+2026-03-13 10:15:28,219 - INFO - [314] Onder, Robert: 开始查找 https://onder.house.gov/
+2026-03-13 10:15:31,282 - INFO - [308] Nunn, Zachary: 在菜单 NEWS 中找到Press Release链接 - https://nunn.house.gov/category/news/press-releases/#main-content
+2026-03-13 10:15:37,657 - INFO - [315] Owens, Burgess: 开始查找 https://owens.house.gov
+2026-03-13 10:15:57,949 - INFO - [315] Owens, Burgess: 未找到Press Release页面
+2026-03-13 10:15:58,451 - INFO - [313] Omar, Ilhan: 直接在主页找到Press Release链接 - https://omar.house.gov/media/press-releases
+2026-03-13 10:15:58,814 - INFO - [312] Olszewski, Johnny: 直接在主页找到Press Release链接 - https://olszewski.house.gov/media/press-releases
+2026-03-13 10:16:00,123 - INFO - [314] Onder, Robert: 直接在主页找到Press Release链接 - https://onder.house.gov/media/press-releases
+2026-03-13 10:16:00,375 - WARNING - 页面加载超时 (尝试 1/3): https://ogles.house.gov
+2026-03-13 10:16:00,383 - INFO - 等待 3 秒后重试...
+2026-03-13 10:16:08,681 - INFO - [318] Panetta, Jimmy: 开始查找 https://panetta.house.gov
+2026-03-13 10:16:08,697 - INFO - [317] Palmer, Gary: 开始查找 https://palmer.house.gov/
+2026-03-13 10:16:08,698 - INFO - [316] Pallone, Frank: 开始查找 https://pallone.house.gov
+2026-03-13 10:16:08,960 - INFO - [319] Pappas, Chris: 开始查找 https://pappas.house.gov
+2026-03-13 10:16:10,250 - INFO - [311] Ogles, Andrew: 直接在主页找到Press Release链接 - https://ogles.house.gov/media/press-releases
+2026-03-13 10:16:16,521 - INFO - [320] Patronis, Jimmy: 开始查找 https://patronis.house.gov/
+2026-03-13 10:16:20,959 - INFO - [317] Palmer, Gary: 直接在主页找到Press Release链接 - https://palmer.house.gov/media-center/press-releases
+2026-03-13 10:16:21,064 - INFO - [319] Pappas, Chris: 直接在主页找到Press Release链接 - https://pappas.house.gov/media/press-releases
+2026-03-13 10:16:21,139 - INFO - [316] Pallone, Frank: 直接在主页找到Press Release链接 - https://pallone.house.gov/media/press-releases
+2026-03-13 10:16:23,588 - INFO - [318] Panetta, Jimmy: 直接在主页找到Press Release链接 - https://panetta.house.gov/media/press-releases
+2026-03-13 10:16:27,781 - INFO - [321] Pelosi, Nancy: 开始查找 https://pelosi.house.gov/
+2026-03-13 10:16:27,886 - INFO - [323] Perry, Scott: 开始查找 https://perry.house.gov/
+2026-03-13 10:16:28,146 - INFO - [322] Perez, Marie: 开始查找 https://gluesenkampperez.house.gov
+2026-03-13 10:16:28,436 - INFO - [324] Peters, Scott: 开始查找 https://scottpeters.house.gov
+2026-03-13 10:16:28,779 - INFO - [320] Patronis, Jimmy: 直接在主页找到Press Release链接 - https://patronis.house.gov/media/press-releases
+2026-03-13 10:16:33,516 - INFO - [325] Pettersen, Brittany: 开始查找 https://pettersen.house.gov
+2026-03-13 10:16:42,282 - INFO - [322] Perez, Marie: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 10:16:46,218 - INFO - [324] Peters, Scott: 直接在主页找到Press Release链接 - https://scottpeters.house.gov/press-releases
+2026-03-13 10:16:48,555 - INFO - [321] Pelosi, Nancy: 直接在主页找到Press Release链接 - https://pelosi.house.gov/news/press-releases
+2026-03-13 10:16:52,759 - INFO - [323] Perry, Scott: 直接在主页找到Press Release链接 - https://perry.house.gov/news/documentquery.aspx?DocumentTypeID=2608
+2026-03-13 10:16:54,231 - INFO - [325] Pettersen, Brittany: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:16:58,171 - INFO - [327] Pingree, Chellie: 开始查找 https://pingree.house.gov/
+2026-03-13 10:16:58,172 - INFO - [326] Pfluger, August: 开始查找 https://pfluger.house.gov
+2026-03-13 10:16:59,529 - INFO - [328] Plaskett, Stacey: 开始查找 https://plaskett.house.gov/
+2026-03-13 10:17:00,625 - INFO - [325] Pettersen, Brittany: 在菜单 MEDIA 中找到Press Release链接 - https://pettersen.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:17:04,411 - INFO - [322] Perez, Marie: 未找到Press Release页面
+2026-03-13 10:18:36,521 - INFO - [329] Pocan, Mark: 开始查找 https://pocan.house.gov
+2026-03-13 10:19:06,913 - INFO - [330] Pou, Nellie: 开始查找 https://pou.house.gov/
+2026-03-13 10:19:08,687 - WARNING - 页面加载超时 (尝试 1/3): https://pocan.house.gov
+2026-03-13 10:19:08,708 - INFO - 等待 3 秒后重试...
+2026-03-13 10:19:42,458 - WARNING - 页面加载超时 (尝试 2/3): https://pocan.house.gov
+2026-03-13 10:19:42,459 - WARNING - 页面加载超时 (尝试 1/3): https://pou.house.gov/
+2026-03-13 10:19:42,733 - INFO - 等待 5 秒后重试...
+2026-03-13 10:19:42,736 - INFO - 等待 3 秒后重试...
+2026-03-13 10:20:13,965 - WARNING - 页面加载超时 (尝试 2/3): https://pou.house.gov/
+2026-03-13 10:20:14,079 - INFO - 等待 5 秒后重试...
+2026-03-13 10:20:30,207 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5a7e4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 10:20:47,779 - WARNING - 页面加载超时 (尝试 3/3): https://pou.house.gov/
+2026-03-13 10:20:48,134 - ERROR - 页面加载失败，已达最大重试次数 (3): https://pou.house.gov/
+2026-03-13 10:20:48,855 - ERROR - [330] Pou, Nellie: 页面加载超时
+2026-03-13 10:24:12,362 - INFO - [331] Pressley, Ayanna: 开始查找 https://pressley.house.gov
+2026-03-13 10:24:42,713 - WARNING - 页面加载超时 (尝试 1/3): https://pressley.house.gov
+2026-03-13 10:24:42,766 - INFO - 等待 3 秒后重试...
+2026-03-13 10:25:39,369 - INFO - [331] Pressley, Ayanna: 未找到Press Release页面
+2026-03-13 10:27:58,312 - INFO - [332] Quigley, Mike: 开始查找 https://quigley.house.gov/
+2026-03-13 10:28:27,358 - INFO - [329] Pocan, Mark: 找到 7 个一级菜单链接，开始检查...
+2026-03-13 10:28:28,341 - WARNING - 页面加载超时 (尝试 1/3): https://quigley.house.gov/
+2026-03-13 10:28:28,377 - INFO - 等待 3 秒后重试...
+2026-03-13 10:28:58,728 - INFO - [327] Pingree, Chellie: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:29:01,292 - INFO - [328] Plaskett, Stacey: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:29:04,332 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5a7e4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 10:29:06,129 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5abed]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 10:29:08,084 - INFO - [326] Pfluger, August: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:29:09,822 - INFO - [332] Quigley, Mike: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 10:29:19,112 - INFO - [329] Pocan, Mark: 在菜单 Press Release 中找到Press Release链接 - https://pocan.house.gov/media-center/press-releases#main-content
+2026-03-13 10:29:27,375 - WARNING - 页面加载超时 (尝试 1/3): https://pingree.house.gov/news/
+2026-03-13 10:29:27,384 - INFO - 等待 3 秒后重试...
+2026-03-13 10:29:28,766 - INFO - [333] Radewagen, Aumua Amata: 开始查找 https://radewagen.house.gov
+2026-03-13 10:29:29,131 - WARNING - 页面加载超时 (尝试 1/3): https://plaskett.house.gov/photos/
+2026-03-13 10:29:29,133 - INFO - 等待 3 秒后重试...
+2026-03-13 10:29:36,821 - WARNING - 页面加载超时 (尝试 1/3): https://pfluger.house.gov/news
+2026-03-13 10:29:36,823 - INFO - 等待 3 秒后重试...
+2026-03-13 10:29:38,462 - WARNING - 页面加载超时 (尝试 1/3): https://quigley.house.gov/media-center
+2026-03-13 10:29:38,467 - INFO - 等待 3 秒后重试...
+2026-03-13 10:29:49,291 - INFO - [332] Quigley, Mike: 在菜单 Media Center 中找到Press Release链接 - https://quigley.house.gov/media-center
+2026-03-13 10:29:54,721 - INFO - [334] Ramirez, Delia: 开始查找 https://ramirez.house.gov
+2026-03-13 10:29:55,130 - INFO - [326] Pfluger, August: 在菜单 Media 中找到Press Release链接 - https://pfluger.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:29:55,440 - WARNING - 页面加载超时 (尝试 2/3): https://pingree.house.gov/news/
+2026-03-13 10:29:55,449 - INFO - 等待 5 秒后重试...
+2026-03-13 10:29:57,156 - WARNING - 页面加载超时 (尝试 2/3): https://plaskett.house.gov/photos/
+2026-03-13 10:29:57,157 - INFO - 等待 5 秒后重试...
+2026-03-13 10:29:57,724 - INFO - [333] Radewagen, Aumua Amata: 直接在主页找到Press Release链接 - https://radewagen.house.gov/media/press-releases
+2026-03-13 10:30:00,831 - INFO - [335] Randall, Emily: 开始查找 https://randall.house.gov/
+2026-03-13 10:30:01,626 - INFO - [336] Raskin, Jamie: 开始查找 https://raskin.house.gov
+2026-03-13 10:30:04,068 - INFO - [327] Pingree, Chellie: 在菜单 Media 中找到Press Release链接 - https://pingree.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:30:10,212 - INFO - [334] Ramirez, Delia: 直接在主页找到Press Release链接 - https://ramirez.house.gov/media/press-releases
+2026-03-13 10:30:12,733 - INFO - [337] Reschenthaler, Guy: 开始查找 https://reschenthaler.house.gov/
+2026-03-13 10:30:13,663 - INFO - [336] Raskin, Jamie: 直接在主页找到Press Release链接 - https://raskin.house.gov/press-releases
+2026-03-13 10:30:14,390 - INFO - [335] Randall, Emily: 直接在主页找到Press Release链接 - https://randall.house.gov/media/press-releases
+2026-03-13 10:30:14,465 - INFO - [338] Riley, Josh: 开始查找 https://riley.house.gov/
+2026-03-13 10:30:16,127 - INFO - [328] Plaskett, Stacey: 在菜单 NEWS 中找到Press Release链接 - https://plaskett.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:30:17,820 - INFO - [339] Rivas, Luz: 开始查找 https://rivas.house.gov/
+2026-03-13 10:30:18,180 - INFO - [340] Rogers, Harold: 开始查找 https://halrogers.house.gov/
+2026-03-13 10:30:19,905 - INFO - [341] Rogers, Mike: 开始查找 https://mikerogers.house.gov/
+2026-03-13 10:30:19,954 - INFO - [337] Reschenthaler, Guy: 直接在主页找到Press Release链接 - https://reschenthaler.house.gov/media/press-releases
+2026-03-13 10:30:25,137 - INFO - [342] Rose, John: 开始查找 https://johnrose.house.gov/
+2026-03-13 10:30:27,971 - INFO - [340] Rogers, Harold: 直接在主页找到Press Release链接 - https://halrogers.house.gov/press-releases
+2026-03-13 10:30:32,201 - INFO - [338] Riley, Josh: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:30:33,439 - INFO - [341] Rogers, Mike: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:30:33,570 - INFO - [339] Rivas, Luz: 直接在主页找到Press Release链接 - https://rivas.house.gov/media/press-releases
+2026-03-13 10:30:37,695 - INFO - [343] Ross, Deborah: 开始查找 https://ross.house.gov
+2026-03-13 10:30:38,524 - INFO - [344] Rouzer, David: 开始查找 https://rouzer.house.gov/
+2026-03-13 10:30:44,903 - INFO - [342] Rose, John: 直接在主页找到Press Release链接 - https://johnrose.house.gov/media/press-releases
+2026-03-13 10:30:47,872 - INFO - [341] Rogers, Mike: 在菜单 Media 中找到Press Release链接 - https://mikerogers.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:30:48,169 - INFO - [338] Riley, Josh: 未找到Press Release页面
+2026-03-13 10:30:52,046 - INFO - [344] Rouzer, David: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:30:53,644 - INFO - [343] Ross, Deborah: 直接在主页找到Press Release链接 - https://ross.house.gov/press-releases
+2026-03-13 10:30:55,548 - INFO - [345] Roy, Chip: 开始查找 https://roy.house.gov
+2026-03-13 10:30:56,011 - INFO - [346] Ruiz, Raul: 开始查找 https://ruiz.house.gov
+2026-03-13 10:30:56,332 - INFO - [347] Rulli, Michael A.: 开始查找 https://rulli.house.gov
+2026-03-13 10:30:56,825 - INFO - [348] Rutherford, John: 开始查找 https://rutherford.house.gov
+2026-03-13 10:30:59,111 - INFO - [344] Rouzer, David: 在菜单 News 中找到Press Release链接 - https://rouzer.house.gov/newsroom/#main
+2026-03-13 10:31:04,110 - INFO - [349] Ryan, Patrick: 开始查找 https://patryan.house.gov/
+2026-03-13 10:31:16,715 - INFO - [345] Roy, Chip: 直接在主页找到Press Release链接 - https://roy.house.gov/media/press-releases
+2026-03-13 10:31:16,853 - INFO - [348] Rutherford, John: 直接在主页找到Press Release链接 - https://rutherford.house.gov/media/press-releases
+2026-03-13 10:31:18,190 - INFO - [346] Ruiz, Raul: 直接在主页找到Press Release链接 - https://ruiz.house.gov/media-center/press-releases
+2026-03-13 10:31:18,754 - INFO - [347] Rulli, Michael A.: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:31:20,477 - INFO - [349] Ryan, Patrick: 直接在主页找到Press Release链接 - https://patryan.house.gov/media/press-releases
+2026-03-13 10:31:26,566 - INFO - [350] Salazar, Maria: 开始查找 https://salazar.house.gov
+2026-03-13 10:31:26,746 - INFO - [352] Sanchez, Linda: 开始查找 https://lindasanchez.house.gov/
+2026-03-13 10:31:26,776 - INFO - [353] Scalise, Steve: 开始查找 https://scalise.house.gov/
+2026-03-13 10:31:27,365 - INFO - [351] Salinas, Andrea: 开始查找 https://salinas.house.gov
+2026-03-13 10:31:29,131 - INFO - [347] Rulli, Michael A.: 在菜单 Newsroom 中找到Press Release链接 - https://rulli.house.gov/newsroom/
+2026-03-13 10:31:37,304 - INFO - [354] Scanlon, Mary Gay: 开始查找 https://scanlon.house.gov/
+2026-03-13 10:31:44,263 - INFO - [351] Salinas, Andrea: 直接在主页找到Press Release链接 - https://salinas.house.gov/media/press-releases
+2026-03-13 10:31:48,063 - INFO - [352] Sanchez, Linda: 直接在主页找到Press Release链接 - https://lindasanchez.house.gov/media-center/press-releases
+2026-03-13 10:31:48,347 - INFO - [353] Scalise, Steve: 直接在主页找到Press Release链接 - https://scalise.house.gov/media/press-releases
+2026-03-13 10:31:51,247 - INFO - [350] Salazar, Maria: 直接在主页找到Press Release链接 - https://salazar.house.gov/media/press-releases
+2026-03-13 10:31:53,832 - INFO - [354] Scanlon, Mary Gay: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:31:56,369 - INFO - [355] Schakowsky, Janice: 开始查找 https://schakowsky.house.gov
+2026-03-13 10:31:57,148 - INFO - [357] Schneider, Bradley: 开始查找 https://schneider.house.gov
+2026-03-13 10:31:57,170 - INFO - [358] Scholten, Hillary: 开始查找 https://scholten.house.gov
+2026-03-13 10:31:57,407 - INFO - [356] Schmidt, Derek: 开始查找 https://schmidt.house.gov/
+2026-03-13 10:31:59,944 - INFO - [354] Scanlon, Mary Gay: 在菜单 MEDIA 中找到Press Release链接 - https://scanlon.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:32:03,862 - INFO - [359] Schrier, Kim: 开始查找 https://schrier.house.gov
+2026-03-13 10:32:22,251 - INFO - [357] Schneider, Bradley: 直接在主页找到Press Release链接 - https://schneider.house.gov/media/press-releases
+2026-03-13 10:32:39,595 - INFO - [355] Schakowsky, Janice: 直接在主页找到Press Release链接 - https://schakowsky.house.gov/media/press-releases
+2026-03-13 10:32:40,813 - INFO - [358] Scholten, Hillary: 直接在主页找到Press Release链接 - https://scholten.house.gov/media/press-releases
+2026-03-13 10:32:42,226 - WARNING - 页面加载超时 (尝试 1/3): https://schrier.house.gov
+2026-03-13 10:32:42,227 - INFO - 等待 3 秒后重试...
+2026-03-13 10:32:43,767 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5a7e4]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 10:32:49,606 - INFO - [356] Schmidt, Derek: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 10:32:53,691 - INFO - [360] Schweikert, David: 开始查找 https://schweikert.house.gov/
+2026-03-13 10:32:56,285 - INFO - [361] Scott, Austin: 开始查找 https://austinscott.house.gov/
+2026-03-13 10:32:56,316 - INFO - [362] Scott, David: 开始查找 https://davidscott.house.gov/
+2026-03-13 10:33:00,059 - INFO - [359] Schrier, Kim: 直接在主页找到Press Release链接 - https://schrier.house.gov/media/press-releases
+2026-03-13 10:33:03,435 - INFO - [356] Schmidt, Derek: 在菜单 MEDIA
+» 中找到Press Release链接 - https://schmidt.house.gov/media/press-releases
+2026-03-13 10:33:05,920 - INFO - [361] Scott, Austin: 直接在主页找到Press Release链接 - https://austinscott.house.gov/press-releases
+2026-03-13 10:33:08,314 - INFO - [362] Scott, David: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:33:09,845 - INFO - [360] Schweikert, David: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:33:11,580 - INFO - [363] Scott, Robert: 开始查找 https://bobbyscott.house.gov
+2026-03-13 10:33:11,636 - INFO - [364] Self, Keith: 开始查找 https://keithself.house.gov
+2026-03-13 10:33:12,680 - INFO - [365] Sessions, Pete: 开始查找 https://sessions.house.gov
+2026-03-13 10:33:16,265 - INFO - [362] Scott, David: 在菜单 MEDIA CENTER 中找到Press Release链接 - https://davidscott.house.gov/news/documentquery.aspx?DocumentTypeID=377
+2026-03-13 10:33:24,777 - INFO - [366] Sewell, Terri: 开始查找 https://sewell.house.gov/
+2026-03-13 10:33:30,750 - INFO - [360] Schweikert, David: 在菜单 Media 中找到Press Release链接 - https://schweikert.house.gov/2026/01/13/2-1-23-press-release-yellen-letter/
+2026-03-13 10:33:32,202 - INFO - [364] Self, Keith: 直接在主页找到Press Release链接 - https://keithself.house.gov/media
+2026-03-13 10:33:36,681 - INFO - [365] Sessions, Pete: 直接在主页找到Press Release链接 - https://sessions.house.gov/press-releases
+2026-03-13 10:33:40,393 - INFO - [366] Sewell, Terri: 直接在主页找到Press Release链接 - https://sewell.house.gov/press-releases
+2026-03-13 10:33:42,064 - INFO - [363] Scott, Robert: 直接在主页找到Press Release链接 - https://bobbyscott.house.gov/media-center/press-releases
+2026-03-13 10:33:46,843 - INFO - [368] Sherrill, Mikie: 开始查找 https://clerk.house.gov/members/NJ11/vacancy
+2026-03-13 10:33:46,953 - INFO - [369] Shreve, Jefferson: 开始查找 https://shreve.house.gov/
+2026-03-13 10:33:47,010 - INFO - [370] Simon, Lateefah: 开始查找 https://simon.house.gov/
+2026-03-13 10:33:47,010 - INFO - [371] Simpson, Michael: 开始查找 https://simpson.house.gov
+2026-03-13 10:33:47,035 - INFO - [367] Sherman, Brad: 开始查找 https://sherman.house.gov
+2026-03-13 10:34:04,396 - INFO - [368] Sherrill, Mikie: 直接在主页找到Press Release链接 - https://clerk.house.gov/member_info/vacancies/vacant-office-press-release-NJ11.pdf
+2026-03-13 10:34:06,555 - INFO - [369] Shreve, Jefferson: 直接在主页找到Press Release链接 - https://shreve.house.gov/media/press-releases
+2026-03-13 10:34:07,063 - INFO - [367] Sherman, Brad: 直接在主页找到Press Release链接 - https://sherman.house.gov/media-center/press-releases
+2026-03-13 10:34:08,363 - INFO - [370] Simon, Lateefah: 直接在主页找到Press Release链接 - https://simon.house.gov/media/press-releases
+2026-03-13 10:34:11,772 - INFO - [371] Simpson, Michael: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:34:14,398 - INFO - [375] Smith, Jason: 开始查找 https://jasonsmith.house.gov
+2026-03-13 10:34:14,436 - INFO - [374] Smith, Christopher: 开始查找 https://chrissmith.house.gov/
+2026-03-13 10:34:14,436 - INFO - [373] Smith, Adrian: 开始查找 https://adriansmith.house.gov/
+2026-03-13 10:34:14,436 - INFO - [372] Smith, Adam: 开始查找 https://adamsmith.house.gov/
+2026-03-13 10:34:20,076 - INFO - [371] Simpson, Michael: 在菜单 MEDIA 中找到Press Release链接 - https://simpson.house.gov/news/documentquery.aspx?DocumentTypeID=1515
+2026-03-13 10:34:27,918 - INFO - [374] Smith, Christopher: 找到 5 个一级菜单链接，开始检查...
+2026-03-13 10:34:28,943 - INFO - [376] Smucker, Lloyd: 开始查找 https://smucker.house.gov/
+2026-03-13 10:34:29,006 - INFO - [373] Smith, Adrian: 直接在主页找到Press Release链接 - https://adriansmith.house.gov/media/press-releases
+2026-03-13 10:34:31,257 - INFO - [372] Smith, Adam: 直接在主页找到Press Release链接 - https://adamsmith.house.gov/news/press-releases
+2026-03-13 10:34:33,221 - INFO - [374] Smith, Christopher: 在菜单 Newsroom 中找到Press Release链接 - https://chrissmith.house.gov/news
+2026-03-13 10:34:35,305 - INFO - [377] Sorensen, Eric: 开始查找 https://sorensen.house.gov
+2026-03-13 10:34:35,541 - INFO - [378] Soto, Darren: 开始查找 https://soto.house.gov
+2026-03-13 10:34:36,942 - INFO - [379] Spartz, Victoria: 开始查找 https://spartz.house.gov
+2026-03-13 10:34:41,104 - INFO - [376] Smucker, Lloyd: 直接在主页找到Press Release链接 - https://smucker.house.gov/media/press-releases
+2026-03-13 10:34:43,175 - WARNING - 查找Press Releases链接失败: Message: timeout: Timed out receiving message from renderer: 25.000
+  (Session info: chrome=146.0.7680.76)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xceeea3+10893]
+	chromedriver!GetHandleVerifier [0xceefd4+109c4]
+	chromedriver!(No symbol) [0xad2130]
+	chromedriver!(No symbol) [0xac2493]
+	chromedriver!(No symbol) [0xac21c5]
+	chromedriver!(No symbol) [0xac02d8]
+	chromedriver!(No symbol) [0xac0b26]
+	chromedriver!(No symbol) [0xacd9db]
+	chromedriver!(No symbol) [0xadf77e]
+	chromedriver!(No symbol) [0xae51e6]
+	chromedriver!(No symbol) [0xac11ac]
+	chromedriver!(No symbol) [0xadf4f2]
+	chromedriver!(No symbol) [0xb5abed]
+	chromedriver!(No symbol) [0xb3d896]
+	chromedriver!(No symbol) [0xb10229]
+	chromedriver!(No symbol) [0xb10fe4]
+	chromedriver!GetHandleVerifier [0xf52029+273a19]
+	chromedriver!GetHandleVerifier [0xf4d633+26f023]
+	chromedriver!GetHandleVerifier [0xf6b35b+28cd4b]
+	chromedriver!GetHandleVerifier [0xd07e18+29808]
+	chromedriver!GetHandleVerifier [0xd0fb5d+3154d]
+	chromedriver!GetHandleVerifier [0xcf78c8+192b8]
+	chromedriver!GetHandleVerifier [0xcf7a92+19482]
+	chromedriver!GetHandleVerifier [0xce11aa+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7561fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f782ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f7827e+ee]
+
+2026-03-13 10:34:44,380 - INFO - [380] Stansbury, Melanie: 开始查找 https://stansbury.house.gov/
+2026-03-13 10:34:47,787 - INFO - [375] Smith, Jason: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:34:50,086 - INFO - [378] Soto, Darren: 直接在主页找到Press Release链接 - https://soto.house.gov/media/press-releases
+2026-03-13 10:34:51,450 - INFO - [377] Sorensen, Eric: 直接在主页找到Press Release链接 - https://sorensen.house.gov/media/press-releases
+2026-03-13 10:34:54,023 - INFO - [379] Spartz, Victoria: 直接在主页找到Press Release链接 - https://spartz.house.gov/media/press-releases
+2026-03-13 10:34:54,368 - INFO - [375] Smith, Jason: 在菜单 MEDIA 中找到Press Release链接 - https://jasonsmith.house.gov/2026/02/26/smith-co-sponsors-national-ffa-week-resolution-celebrates-future-farmers-in-southeast-missouri/
+2026-03-13 10:34:56,566 - INFO - [380] Stansbury, Melanie: 找到 9 个一级菜单链接，开始检查...
+2026-03-13 10:34:59,974 - INFO - [381] Stanton, Greg: 开始查找 https://stanton.house.gov/
+2026-03-13 10:34:59,991 - INFO - [382] Stauber, Pete: 开始查找 https://stauber.house.gov
+2026-03-13 10:35:00,170 - INFO - [383] Stefanik, Elise: 开始查找 https://stefanik.house.gov/
+2026-03-13 10:35:00,178 - INFO - [384] Steil, Bryan: 开始查找 https://steil.house.gov
+2026-03-13 10:35:06,943 - INFO - [380] Stansbury, Melanie: 在菜单 Stansbury, Warren, Blumenthal Press Big Tech CEOs on Trump Settlements to Now-Dissolved Library Fund 中找到Press Release链接 - https://stansbury.house.gov/media/press-releases/stansbury-warren-blumenthal-press-big-tech-ceos-trump-settlements-now#main-content
+2026-03-13 10:35:08,572 - INFO - [381] Stanton, Greg: 直接在主页找到Press Release链接 - https://stanton.house.gov/press-releases
+2026-03-13 10:35:09,603 - INFO - [383] Stefanik, Elise: 直接在主页找到Press Release链接 - https://stefanik.house.gov/press-releases
+2026-03-13 10:35:11,499 - INFO - [385] Steube, W.: 开始查找 https://steube.house.gov/
+2026-03-13 10:35:11,737 - INFO - [384] Steil, Bryan: 直接在主页找到Press Release链接 - https://steil.house.gov/media/press-releases
+2026-03-13 10:35:11,795 - INFO - [382] Stauber, Pete: 直接在主页找到Press Release链接 - https://stauber.house.gov/media/press-releases
+2026-03-13 10:35:12,450 - INFO - [386] Stevens, Haley: 开始查找 https://stevens.house.gov/
+2026-03-13 10:35:14,192 - INFO - [387] Strickland, Marilyn: 开始查找 https://strickland.house.gov
+2026-03-13 10:35:16,313 - INFO - [388] Strong, Dale: 开始查找 https://strong.house.gov
+2026-03-13 10:35:16,402 - INFO - [389] Stutzman, Marlin: 开始查找 https://stutzman.house.gov/
+2026-03-13 10:35:33,691 - INFO - [386] Stevens, Haley: 直接在主页找到Press Release链接 - https://stevens.house.gov/media/press-releases
+2026-03-13 10:35:36,073 - INFO - [385] Steube, W.: 直接在主页找到Press Release链接 - https://steube.house.gov/category/press-releases/
+2026-03-13 10:35:40,270 - INFO - [388] Strong, Dale: 直接在主页找到Press Release链接 - https://strong.house.gov/media/press-releases
+2026-03-13 10:35:40,871 - INFO - [389] Stutzman, Marlin: 直接在主页找到Press Release链接 - https://stutzman.house.gov/media/press-releases
+2026-03-13 10:35:41,301 - INFO - [387] Strickland, Marilyn: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:35:47,409 - INFO - [392] Swalwell, Eric: 开始查找 https://swalwell.house.gov
+2026-03-13 10:35:47,460 - INFO - [391] Suozzi, Thomas R.: 开始查找 https://suozzi.house.gov
+2026-03-13 10:35:47,542 - INFO - [390] Subramanyam, Suhas: 开始查找 https://subramanyam.house.gov/
+2026-03-13 10:35:47,613 - INFO - [393] Sykes, Emilia: 开始查找 https://sykes.house.gov
+2026-03-13 10:35:49,252 - INFO - [387] Strickland, Marilyn: 在菜单 MEDIA CENTER 中找到Press Release链接 - https://strickland.house.gov/category/press_release/
+2026-03-13 10:35:54,791 - INFO - [394] Takano, Mark: 开始查找 https://takano.house.gov
+2026-03-13 10:36:12,290 - INFO - [393] Sykes, Emilia: 直接在主页找到Press Release链接 - https://sykes.house.gov/media/press-releases
+2026-03-13 10:36:12,775 - INFO - [394] Takano, Mark: 直接在主页找到Press Release链接 - https://takano.house.gov/newsroom/press-releases
+2026-03-13 10:36:13,161 - INFO - [390] Subramanyam, Suhas: 直接在主页找到Press Release链接 - https://subramanyam.house.gov/media/press-releases
+2026-03-13 10:36:15,283 - INFO - [391] Suozzi, Thomas R.: 直接在主页找到Press Release链接 - https://suozzi.house.gov/media/press-releases
+2026-03-13 10:36:16,107 - INFO - [392] Swalwell, Eric: 直接在主页找到Press Release链接 - https://swalwell.house.gov/media-center/press-releases/rep-swalwell-to-attend-state-of-the-union-with-epstein-survivor-advocate-teresa-j-helm
+2026-03-13 10:36:19,768 - INFO - [396] Tenney, Claudia: 开始查找 https://tenney.house.gov/
+2026-03-13 10:36:19,777 - INFO - [395] Taylor, David: 开始查找 https://taylor.house.gov/
+2026-03-13 10:36:20,524 - INFO - [397] Thanedar, Shri: 开始查找 https://thanedar.house.gov
+2026-03-13 10:36:20,741 - INFO - [399] Thompson, Glenn: 开始查找 https://thompson.house.gov
+2026-03-13 10:36:20,741 - INFO - [398] Thompson, Bennie: 开始查找 https://benniethompson.house.gov/
+2026-03-13 10:36:40,501 - INFO - [396] Tenney, Claudia: 直接在主页找到Press Release链接 - https://tenney.house.gov/media/press-releases
+2026-03-13 10:36:41,827 - INFO - [397] Thanedar, Shri: 直接在主页找到Press Release链接 - https://thanedar.house.gov/media/press-releases
+2026-03-13 10:36:44,481 - INFO - [399] Thompson, Glenn: 直接在主页找到Press Release链接 - https://thompson.house.gov/media-center/press-releases
+2026-03-13 10:36:53,203 - INFO - [398] Thompson, Bennie: 直接在主页找到Press Release链接 - https://benniethompson.house.gov/media/press-releases
+2026-03-13 10:36:55,134 - INFO - [395] Taylor, David: 直接在主页找到Press Release链接 - https://taylor.house.gov/media/press-releases
+2026-03-13 10:37:01,716 - INFO - [403] Titus, Dina: 开始查找 https://titus.house.gov/
+2026-03-13 10:37:01,813 - INFO - [404] Tlaib, Rashida: 开始查找 https://tlaib.house.gov/
+2026-03-13 10:37:01,831 - INFO - [400] Thompson, Mike: 开始查找 https://mikethompson.house.gov/
+2026-03-13 10:37:01,836 - INFO - [401] Tiffany, Thomas: 开始查找 https://tiffany.house.gov/
+2026-03-13 10:37:01,877 - INFO - [402] Timmons, William: 开始查找 https://timmons.house.gov/
+2026-03-13 10:37:12,244 - INFO - [404] Tlaib, Rashida: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 10:37:19,399 - INFO - [400] Thompson, Mike: 直接在主页找到Press Release链接 - https://mikethompson.house.gov/newsroom/press-releases
+2026-03-13 10:37:21,308 - INFO - [401] Tiffany, Thomas: 直接在主页找到Press Release链接 - https://tiffany.house.gov/media/press-releases
+2026-03-13 10:37:22,807 - INFO - [402] Timmons, William: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:37:22,886 - INFO - [403] Titus, Dina: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:37:28,405 - INFO - [406] Tonko, Paul: 开始查找 https://tonko.house.gov/
+2026-03-13 10:37:28,414 - INFO - [405] Tokuda, Jill: 开始查找 https://tokuda.house.gov
+2026-03-13 10:37:28,764 - INFO - [404] Tlaib, Rashida: 未找到Press Release页面
+2026-03-13 10:37:30,989 - INFO - [402] Timmons, William: 在菜单 MEDIA 中找到Press Release链接 - https://timmons.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:37:31,631 - INFO - [403] Titus, Dina: 在菜单 MEDIA 中找到Press Release链接 - https://titus.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:37:32,485 - INFO - [407] Torres, Norma: 开始查找 https://torres.house.gov/
+2026-03-13 10:37:35,137 - INFO - [408] Torres, Ritchie: 开始查找 https://ritchietorres.house.gov
+2026-03-13 10:37:36,440 - INFO - [409] Trahan, Lori: 开始查找 https://trahan.house.gov
+2026-03-13 10:37:53,986 - INFO - [408] Torres, Ritchie: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 10:37:54,896 - INFO - [405] Tokuda, Jill: 直接在主页找到Press Release链接 - https://tokuda.house.gov/media/press-releases
+2026-03-13 10:37:56,219 - INFO - [406] Tonko, Paul: 找到 3 个一级菜单链接，开始检查...
+2026-03-13 10:37:58,856 - INFO - [407] Torres, Norma: 直接在主页找到Press Release链接 - https://torres.house.gov/media-center/press-releases
+2026-03-13 10:38:06,549 - INFO - [410] Tran, Derek: 开始查找 https://tran.house.gov/
+2026-03-13 10:38:06,724 - INFO - [411] Turner, Michael: 开始查找 https://turner.house.gov/
+2026-03-13 10:38:09,448 - INFO - [406] Tonko, Paul: 在菜单 News 中找到Press Release链接 - https://tonko.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:38:10,690 - INFO - [409] Trahan, Lori: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:38:13,605 - INFO - [411] Turner, Michael: 直接在主页找到Press Release链接 - https://turner.house.gov/press-releases
+2026-03-13 10:38:17,199 - INFO - [412] Underwood, Lauren: 开始查找 https://underwood.house.gov/
+2026-03-13 10:38:18,311 - INFO - [408] Torres, Ritchie: 未找到Press Release页面
+2026-03-13 10:38:21,094 - INFO - [409] Trahan, Lori: 在菜单 Media 中找到Press Release链接 - https://trahan.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:38:22,610 - INFO - [410] Tran, Derek: 直接在主页找到Press Release链接 - https://tran.house.gov/media/press-releases
+2026-03-13 10:38:25,318 - INFO - [414] Van Drew, Jefferson: 开始查找 https://vandrew.house.gov
+2026-03-13 10:38:25,624 - INFO - [413] Valadao, David: 开始查找 https://valadao.house.gov
+2026-03-13 10:38:25,634 - INFO - [412] Underwood, Lauren: 直接在主页找到Press Release链接 - https://underwood.house.gov/media/press-releases
+2026-03-13 10:38:26,432 - INFO - [415] Van Duyne, Beth: 开始查找 https://vanduyne.house.gov
+2026-03-13 10:38:26,496 - INFO - [416] Van Epps, Matt: 开始查找 https://vanepps.house.gov/
+2026-03-13 10:38:30,330 - INFO - [417] Van Orden, Derrick: 开始查找 https://vanorden.house.gov
+2026-03-13 10:38:35,166 - INFO - [415] Van Duyne, Beth: 直接在主页找到Press Release链接 - https://vanduyne.house.gov/press-releases
+2026-03-13 10:38:38,767 - INFO - [416] Van Epps, Matt: 直接在主页找到Press Release链接 - https://vanepps.house.gov/media/press-releases
+2026-03-13 10:38:39,938 - INFO - [418] Vargas, Juan: 开始查找 https://vargas.house.gov
+2026-03-13 10:38:40,985 - INFO - [413] Valadao, David: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:38:48,673 - INFO - [419] Vasquez, Gabe: 开始查找 https://vasquez.house.gov
+2026-03-13 10:38:49,910 - INFO - [414] Van Drew, Jefferson: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:38:51,082 - INFO - [417] Van Orden, Derrick: 直接在主页找到Press Release链接 - https://vanorden.house.gov/media/press-releases
+2026-03-13 10:38:53,285 - INFO - [413] Valadao, David: 在菜单 MEDIA 中找到Press Release链接 - https://valadao.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:38:54,860 - INFO - [418] Vargas, Juan: 直接在主页找到Press Release链接 - https://vargas.house.gov/media/press-releases
+2026-03-13 10:38:56,646 - INFO - [420] Veasey, Marc: 开始查找 https://veasey.house.gov
+2026-03-13 10:39:01,252 - INFO - [414] Van Drew, Jefferson: 未找到Press Release页面
+2026-03-13 10:39:03,149 - INFO - [419] Vasquez, Gabe: 直接在主页找到Press Release链接 - https://vasquez.house.gov/media/press-releases
+2026-03-13 10:39:03,865 - INFO - [421] Velazquez, Nydia: 开始查找 https://velazquez.house.gov
+2026-03-13 10:39:05,442 - INFO - [422] Vindman, Eugene: 开始查找 https://vindman.house.gov/
+2026-03-13 10:39:07,850 - INFO - [424] Walberg, Tim: 开始查找 https://walberg.house.gov/
+2026-03-13 10:39:08,077 - INFO - [423] Wagner, Ann: 开始查找 https://wagner.house.gov
+2026-03-13 10:39:09,911 - INFO - [420] Veasey, Marc: 直接在主页找到Press Release链接 - https://veasey.house.gov/media-center/press-releases
+2026-03-13 10:39:14,667 - INFO - [425] Walkinshaw, James: 开始查找 https://walkinshaw.house.gov/
+2026-03-13 10:39:20,692 - INFO - [421] Velazquez, Nydia: 直接在主页找到Press Release链接 - https://velazquez.house.gov/media-center/press-releases
+2026-03-13 10:39:25,327 - INFO - [424] Walberg, Tim: 直接在主页找到Press Release链接 - https://walberg.house.gov/media/press-releases
+2026-03-13 10:39:25,382 - INFO - [423] Wagner, Ann: 直接在主页找到Press Release链接 - https://wagner.house.gov/media-center/press-releases
+2026-03-13 10:39:31,087 - INFO - [426] Wasserman Schultz, Debbie: 开始查找 https://wassermanschultz.house.gov/
+2026-03-13 10:39:31,115 - INFO - [427] Waters, Maxine: 开始查找 https://waters.house.gov
+2026-03-13 10:39:31,400 - INFO - [428] Watson Coleman, Bonnie: 开始查找 https://watsoncoleman.house.gov/
+2026-03-13 10:39:32,252 - INFO - [425] Walkinshaw, James: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:39:32,826 - WARNING - 页面加载超时 (尝试 1/3): https://vindman.house.gov/
+2026-03-13 10:39:32,826 - INFO - 等待 3 秒后重试...
+2026-03-13 10:40:02,759 - INFO - [427] Waters, Maxine: 直接在主页找到Press Release链接 - https://waters.house.gov/media-center/press-releases
+2026-03-13 10:40:05,056 - INFO - [422] Vindman, Eugene: 直接在主页找到Press Release链接 - https://vindman.house.gov/category/press-releases
+2026-03-13 10:40:05,166 - INFO - [425] Walkinshaw, James: 在菜单 MEDIA 中找到Press Release链接 - https://walkinshaw.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:40:05,408 - INFO - [428] Watson Coleman, Bonnie: 直接在主页找到Press Release链接 - https://watsoncoleman.house.gov/newsroom/press-releases
+2026-03-13 10:40:06,023 - INFO - [426] Wasserman Schultz, Debbie: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:40:12,368 - INFO - [431] Westerman, Bruce: 开始查找 https://westerman.house.gov/
+2026-03-13 10:40:12,369 - INFO - [429] Weber, Randy: 开始查找 https://weber.house.gov
+2026-03-13 10:40:12,372 - INFO - [430] Webster, Daniel: 开始查找 https://webster.house.gov/
+2026-03-13 10:40:12,481 - INFO - [432] Whitesides, George: 开始查找 https://whitesides.house.gov/
+2026-03-13 10:40:39,899 - INFO - [430] Webster, Daniel: 直接在主页找到Press Release链接 - https://webster.house.gov/press-releases
+2026-03-13 10:40:41,133 - INFO - [432] Whitesides, George: 直接在主页找到Press Release链接 - https://whitesides.house.gov/category/press-releases/
+2026-03-13 10:40:44,644 - INFO - [426] Wasserman Schultz, Debbie: 在菜单 MEDIA CENTER 中找到Press Release链接 - https://wassermanschultz.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:40:45,065 - WARNING - 页面加载超时 (尝试 1/3): https://westerman.house.gov/
+2026-03-13 10:40:45,066 - INFO - 等待 3 秒后重试...
+2026-03-13 10:40:48,876 - INFO - [429] Weber, Randy: 找到 1 个一级菜单链接，开始检查...
+2026-03-13 10:40:52,808 - INFO - [433] Wied, Tony: 开始查找 https://wied.house.gov/
+2026-03-13 10:40:52,842 - INFO - [434] Williams, Nikema: 开始查找 https://nikemawilliams.house.gov
+2026-03-13 10:40:53,343 - INFO - [435] Williams, Roger: 开始查找 https://williams.house.gov
+2026-03-13 10:40:57,391 - INFO - [431] Westerman, Bruce: 直接在主页找到Press Release链接 - https://westerman.house.gov/media-center/press-releases
+2026-03-13 10:41:02,270 - INFO - [429] Weber, Randy: 在菜单 MEDIA 中找到Press Release链接 - https://weber.house.gov/news/documentquery.aspx?DocumentTypeID=27
+2026-03-13 10:41:03,504 - INFO - [434] Williams, Nikema: 找到 4 个一级菜单链接，开始检查...
+2026-03-13 10:41:09,520 - INFO - [436] Wilson, Frederica: 开始查找 https://wilson.house.gov/
+2026-03-13 10:41:09,765 - INFO - [433] Wied, Tony: 直接在主页找到Press Release链接 - https://wied.house.gov/media/press-releases
+2026-03-13 10:41:10,947 - INFO - [435] Williams, Roger: 直接在主页找到Press Release链接 - https://williams.house.gov/media-center/press-releases
+2026-03-13 10:41:18,431 - INFO - [439] Womack, Steve: 开始查找 https://womack.house.gov/
+2026-03-13 10:41:18,506 - INFO - [437] Wilson, Joe: 开始查找 https://joewilson.house.gov/
+2026-03-13 10:41:18,537 - INFO - [438] Wittman, Robert: 开始查找 https://wittman.house.gov/
+2026-03-13 10:41:34,220 - INFO - [434] Williams, Nikema: 未找到Press Release页面
+2026-03-13 10:41:53,255 - INFO - [438] Wittman, Robert: 未找到Press Release页面
+2026-03-13 10:41:54,494 - INFO - [437] Wilson, Joe: 直接在主页找到Press Release链接 - https://joewilson.house.gov/media/press-releases
+2026-03-13 10:41:56,326 - INFO - [436] Wilson, Frederica: 直接在主页找到Press Release链接 - https://wilson.house.gov/media/press-releases
+2026-03-13 10:41:58,858 - INFO - [439] Womack, Steve: 找到 2 个一级菜单链接，开始检查...
+2026-03-13 10:42:06,624 - INFO - [440] Yakym, Rudy: 开始查找 https://yakym.house.gov
+2026-03-13 10:42:06,624 - INFO - [441] Zinke, Ryan: 开始查找 https://zinke.house.gov
+2026-03-13 10:42:07,599 - INFO - [439] Womack, Steve: 在菜单 VIEW ALL NEWS 中找到Press Release链接 - https://womack.house.gov/news/documentquery.aspx?DocumentTypeID=2067
+2026-03-13 10:42:16,704 - INFO - [440] Yakym, Rudy: 找到 6 个一级菜单链接，开始检查...
+2026-03-13 10:42:18,807 - INFO - [441] Zinke, Ryan: 直接在主页找到Press Release链接 - https://zinke.house.gov/media
+2026-03-13 10:42:31,948 - INFO - [440] Yakym, Rudy: 未找到Press Release页面
+2026-03-13 10:42:34,304 - INFO - 已保存 441 条结果到 house_representatives_websites_PRESS.csv
+2026-03-13 10:42:34,305 - INFO - 查找结束 - 成功: 406, 未找到: 30, 失败: 5

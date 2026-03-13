@@ -28,9 +28,11 @@ IMPLICIT_WAIT = 8  # 隐式等待时间
 MAX_RETRIES = 3  # 最大重试次数（不超过3次）
 MIN_DELAY_BETWEEN_REQUESTS = 2  # 请求间最小延迟（秒）
 MAX_DELAY_BETWEEN_REQUESTS = 4  # 请求间最大延迟（秒）
+SAVE_INTERVAL = 50  # 每50人保存一次CSV
 
 # 全局变量
 progress_lock = threading.Lock()
+save_lock = threading.Lock()
 completed_count = 0
 total_count = 0
 results = []
@@ -50,6 +52,16 @@ PRESS_RELEASES_KEYWORDS = [
     'press statements', 'press-statements',
     'press room', 'pressroom', 'news room', 'newsroom',
     'media room', 'mediaroom',
+]
+
+# 排除单篇文章URL的模式（避免抓到具体文章而不是列表页）
+ARTICLE_URL_PATTERNS = [
+    r'/\d{4}/\d{2}/\d{2}/',  # 日期格式 /2024/03/15/
+    r'/article/',  # /article/
+    r'/post/',  # /post/
+    r'/blog/',  # /blog/
+    r'/news/\d+',  # /news/12345
+    r'/press-release/\d+',  # /press-release/12345
 ]
 
 
@@ -94,6 +106,25 @@ def setup_logging():
 
 
 logger = None
+_chromedriver_path = None  # 全局缓存ChromeDriver路径
+_driver_lock = threading.Lock()  # 用于同步ChromeDriver安装
+
+
+def get_chromedriver_path():
+    """获取ChromeDriver路径，使用全局缓存避免并发冲突"""
+    global _chromedriver_path
+    
+    with _driver_lock:
+        if _chromedriver_path is None:
+            from webdriver_manager.chrome import ChromeDriverManager
+            try:
+                _chromedriver_path = ChromeDriverManager().install()
+                logger.info(f"ChromeDriver已安装: {_chromedriver_path}")
+            except Exception as e:
+                logger.error(f"ChromeDriver安装失败: {str(e)}")
+                raise
+    
+    return _chromedriver_path
 
 
 def create_driver():
@@ -101,7 +132,6 @@ def create_driver():
     from selenium import webdriver
     from selenium.webdriver.chrome.service import Service
     from selenium.webdriver.chrome.options import Options
-    from webdriver_manager.chrome import ChromeDriverManager
 
     options = Options()
     options.add_argument('--headless')
@@ -116,7 +146,6 @@ def create_driver():
     # 优化性能
     options.add_argument('--disable-extensions')
     options.add_argument('--disable-images')
-    options.add_argument('--disable-css')
     
     user_agents = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -124,13 +153,19 @@ def create_driver():
     ]
     options.add_argument(f'user-agent={random.choice(user_agents)}')
 
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
-    driver.set_page_load_timeout(PAGE_LOAD_TIMEOUT)
-    driver.set_script_timeout(SCRIPT_TIMEOUT)
-    driver.implicitly_wait(IMPLICIT_WAIT)
-
-    return driver
+    # 使用缓存的ChromeDriver路径
+    chromedriver_path = get_chromedriver_path()
+    service = Service(chromedriver_path)
+    
+    try:
+        driver = webdriver.Chrome(service=service, options=options)
+        driver.set_page_load_timeout(PAGE_LOAD_TIMEOUT)
+        driver.set_script_timeout(SCRIPT_TIMEOUT)
+        driver.implicitly_wait(IMPLICIT_WAIT)
+        return driver
+    except Exception as e:
+        logger.error(f"创建WebDriver失败: {str(e)}")
+        raise
 
 
 def smart_delay(min_delay=None, max_delay=None):
@@ -150,6 +185,15 @@ def normalize_url(url):
     if parsed.query:
         return f"{parsed.scheme}://{parsed.netloc}{parsed.path}?{parsed.query}"
     return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+
+
+def is_article_url(url):
+    """检查URL是否是单篇文章（而不是列表页）"""
+    url_lower = url.lower()
+    for pattern in ARTICLE_URL_PATTERNS:
+        if re.search(pattern, url_lower):
+            return True
+    return False
 
 
 def load_page_with_retry(driver, url, max_retries=MAX_RETRIES):
@@ -238,6 +282,10 @@ def find_press_releases_link(driver, base_url, exclude_media_center=False):
                         full_url = urljoin(base_url, href)
                         # 确保链接是同一域名下的
                         if urlparse(full_url).netloc == urlparse(base_url).netloc:
+                            # 检查是否是单篇文章URL
+                            if is_article_url(full_url):
+                                logger.debug(f"跳过单篇文章URL: {full_url}")
+                                continue
                             pr_links.append({
                                 'url': full_url,
                                 'text': text if text else keyword
@@ -299,7 +347,27 @@ def get_unique_links(links):
     return unique_links
 
 
-def find_press_release_url(index, name, website, district, state, party, committee):
+def save_results_to_csv(results, filename='house_representatives_websites_PRESS.csv'):
+    """保存结果到CSV文件（线程安全）"""
+    if not results:
+        logger.info("没有结果需要保存")
+        return
+
+    fieldnames = [
+        'name', 'website', 'district', 'state', 'party', 'committee',
+        'press_release_url', 'press_release_text', 'found_method', 'status'
+    ]
+
+    with save_lock:
+        with open(filename, 'w', newline='', encoding='utf-8-sig') as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(results)
+
+    logger.info(f"已保存 {len(results)} 条结果到 {filename}")
+
+
+def find_press_release_url(index, name, website, district, state, party, committee, output_filename):
     """查找单个议员的Press Release页面URL"""
     global completed_count, total_count, results
 
@@ -412,25 +480,6 @@ def find_press_release_url(index, name, website, district, state, party, committ
     return result
 
 
-def save_results_to_csv(results, filename='house_representatives_websites_PRESS.csv'):
-    """保存结果到CSV文件"""
-    if not results:
-        logger.info("没有结果需要保存")
-        return
-
-    fieldnames = [
-        'name', 'website', 'district', 'state', 'party', 'committee',
-        'press_release_url', 'press_release_text', 'found_method', 'status'
-    ]
-
-    with open(filename, 'w', newline='', encoding='utf-8-sig') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(results)
-
-    logger.info(f"已保存 {len(results)} 条结果到 {filename}")
-
-
 def load_representatives_from_csv(filename='house_representatives_websites.csv', limit=None):
     """从CSV文件加载众议员信息"""
     representatives = []
@@ -478,16 +527,32 @@ def main():
     if test_mode:
         print("测试模式：只处理前5名众议员\n")
     else:
-        print("完整模式：处理所有众议员\n")
+        print(f"完整模式：处理所有众议员，每{SAVE_INTERVAL}人自动保存\n")
 
     output_filename = 'house_representatives_websites_PRESS_test.csv' if test_mode else 'house_representatives_websites_PRESS.csv'
 
     print(f"开始查找Press Release页面URL（使用 {MAX_WORKERS} 个浏览器实例）...\n")
 
+    # 检查是否存在之前的临时结果
+    temp_filename = output_filename + '.tmp'
+    if os.path.exists(temp_filename):
+        print(f"发现之前的临时文件: {temp_filename}")
+        response = input("是否恢复之前的进度? (y/n): ").lower().strip()
+        if response == 'y':
+            with open(temp_filename, 'r', encoding='utf-8-sig') as f:
+                reader = csv.DictReader(f)
+                results = list(reader)
+                completed_count = len(results)
+                print(f"已恢复 {completed_count} 条记录，从第 {completed_count + 1} 人继续...\n")
+
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {}
 
         for i, rep in enumerate(representatives, 1):
+            # 如果已经处理过，跳过
+            if i <= completed_count:
+                continue
+                
             name = rep.get('name', '')
             website = rep.get('website', '')
             district = rep.get('district', '')
@@ -501,20 +566,35 @@ def main():
 
             future = executor.submit(
                 find_press_release_url, 
-                i, name, website, district, state, party, committee
+                i, name, website, district, state, party, committee, output_filename
             )
             futures[future] = (i, name)
 
+        # 收集结果并定期保存
         for future in as_completed(futures):
             i, name = futures[future]
             try:
                 result = future.result()
                 results.append(result)
+                
+                # 每SAVE_INTERVAL人保存一次
+                if len(results) % SAVE_INTERVAL == 0:
+                    save_results_to_csv(results, temp_filename)
+                    logger.info(f"已自动保存临时结果: {len(results)} 条记录")
+                    
             except Exception as e:
                 logger.error(f"处理 {name} 时出错: {str(e)}")
 
-    # 保存结果
+    # 最终保存
     save_results_to_csv(results, output_filename)
+    
+    # 删除临时文件
+    if os.path.exists(temp_filename):
+        try:
+            os.remove(temp_filename)
+            logger.info(f"已删除临时文件: {temp_filename}")
+        except Exception as e:
+            logger.warning(f"删除临时文件失败: {str(e)}")
 
     # 统计
     success_count = sum(1 for r in results if r['status'] == 'success')
